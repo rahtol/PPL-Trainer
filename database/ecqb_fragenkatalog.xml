@@ -1,0 +1,3301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<questionlist>
+
+<source url="ecqb-ppl.aircademy.com" file="ECQB-PPLA-51-PFA_DE.pdf" version="2018.3" sha256="0000000000000000" date="16-01-2019 12:18">
+
+<question id="1" punkte="1.0" category="PFA">
+Welchen Vorteil besitzen Auftriebshilfen wie z.B. Vorflügel im vorderen  
+Tragflächenbereich im Vergleich zu Landeklappen im hinteren Tragflügelbereich?
+<response>Sie reduzieren den kritischen Anstellwinkel für eine bestimmte Geschwindigkeit</response>
+<response stimmt="True">Sie erlauben bei geringerem Widerstand höhere Anstellwinkel</response>
+<response>Sie erlauben höhere Geschwindigkeiten bei Start und Landung</response>
+<response>Sie erhöhen bei geringeren Anstellwinkeln die Wölbung</response>
+</question>
+
+<question id="2" punkte="1.0" category="PFA">
+Durch welche Baugruppe wird die Stabilisierung um die Querachse während des  
+Reisefluges erreicht?  
+<response stimmt="True">Höhenleitwerk.</response>
+<response>Seitenleitwerk.</response>
+<response>Landeklappen.</response>
+<response>Querruder.</response>
+</question>
+
+<question id="3" punkte="1.0" category="PFA">
+Was kann die Folge sein, wenn mit Geschwindigkeiten jenseits der höchstzulässigen  
+Geschwindigkeit (v_NE) geflogen wird?  
+<response>Zu hoher Gesamtdruck lässt den Fahrtmesser unbrauchbar werden</response>
+<response>Erhöhung des Auftrieb-zu-Widerstand-Verhältnisses und verbesserter Gleitwinkel</response>
+<response>Weniger Widerstand bei erhöhten Steuerdrücken</response>
+<response stimmt="True">Flattern und mechanische Schäden an den Tragflächen</response>
+</question>
+
+<question id="4" punkte="1.0" category="PFA">
+Welche Effekte sind typischerweise Folgen von Propeller-Vereisung?  
+<response>Gesteigerte Leistungsabgabe, erhöhte Drehzahl</response>
+<response stimmt="True">Reduzierte Leistungsabgabe, sinkende Drehzahl</response>
+<response>Gesteigerte Leistungsabgabe, sinkende Drehzahl</response>
+<response>Reduzierte Leistungsabgabe, erhöhte Drehzahl</response>
+</question>
+
+<question id="5" punkte="1.0" category="PFA">
+Welche Kraftkomponente wirkt im stationären Steigflug in dieselbe Richtung wie die  
+Widerstandskraft und führt  im Steigflug zu einem höheren Leistungsbedarf als im  
+Horizontalflug?
+<response stimmt="True">Eine Komponente der Gewichtskraft in Richtung des rückwärtigen Flugwegs</response>
+<response>Eine Komponente der Auftriebskraft in Richtung des vorderen Flugwegs</response>
+<response>Eine Komponente der Schubkraft in Richtung des rückwärtigen Flugwegs</response>
+<response>Die vertikale Komponente der Gewichtskraft</response>
+</question>
+
+<question id="6" punkte="1.0" category="PFA">
+In welche Richtung wirkt der statische Druck in Gasen?
+<response>Nur in die Richtung des totalen Drucks</response>
+<response stimmt="True">In alle Richtungen</response>
+<response>Nur senkrecht zur Strömungsrichtung</response>
+<response>Nur in Strömungsrichtung</response>
+</question> 
+
+<question id="7" punkte="1.0" category="PFA">
+Die Gleichung von Bernoulli besagt für reibungsfreie, inkompressible Gase:  
+<response>Gesamtdruck = dynamischer Druck - statischer Druck</response>
+<response>Dynamischer Druck = Gesamtdruck + statischer Druck</response>
+<response stimmt="True">Gesamtdruck = dynamischer Druck + statischer Druck</response>
+<response>Statischer Druck = Gesamtdruck + dynamischer Druck</response>
+</question>  
+
+<question id="8" punkte="1.0" category="PFA">
+Umgeben von einer Luftströmung (V>0) erzeugt jeder beliebig geformte Körper   
+in jedem Fall:  
+<response>Einen auftriebsabhängigen Widerstand</response>
+<response>Auftrieb und Widerstand</response>
+<response>Einen geschwindigkeitsunabhängigen Widerstand</response>
+<response stimmt="True">Einen formabhängigen Widerstand</response>
+</question>
+
+<question id="9" punkte="1.0" category="PFA">
+Alle am Profil wirksamen Luftkräfte lassen sich als in einem einzigen Punkt  
+angreifend betrachten.   
+Dieser Punkt heißt...  
+<response stimmt="True">Druckpunkt.</response>
+<response>Schwerpunkt.</response>
+<response>Auftriebspunkt.</response>
+<response>Umschlagpunkt.</response>
+</question>
+
+<question id="10" punkte="1.0" category="PFA">
+Der "Druckpunkt" ist der theoretische Angriffspunkt...  
+<response>von Gewichtskraft und Luftkräften.</response>
+<response>nur des resultierenden Gesamtwiderstandes.</response>
+<response>der am Profil angreifenden Schwerkraft.</response>
+<response stimmt="True"> aller am Profil angreifenden Luftkräfte.</response>
+</question>
+
+<question id="11" punkte="1.0" category="PFA" img="PFA-010">
+Nummer 2 in der Zeichnung entspricht...  
+Siehe Bild (PFA-010)  
+<response>der Profildicke.</response>
+<response>dem Anstellwinkel.</response>
+<response>der Profilsehne.</response>
+<response stimmt="True">der Profiltiefe.</response>
+</question>
+
+<question id="12" punkte="1.0" category="PFA" img="PFA-010">
+Nummer 3 in der Zeichnung entspricht...  
+Siehe Bild (PFA-010)     
+<response>der Profiltiefe.</response>
+<response>der Profildicke.</response>
+<response>der Profilsehne.</response>
+<response stimmt="True">der Skelettlinie.</response>
+</question>
+
+<question id="13" punkte="1.0" category="PFA">
+Der Anstellwinkel ist der Winkel zwischen...    
+<response>der Profilsehne und der Längsachse eines Luftfahrzeuges.</response>
+<response>der anströmenden Luft und der Längsachse eines Luftfahrzeuges.</response>
+<response stimmt="True">der Profilsehne und dem ungestörten Luftstrom.</response>
+<response>dem Flügel und dem Rumpf eines Luftfahrzeuges.</response>
+</question>
+
+<question id="14" punkte="1.0" category="PFA">
+Wie wird das Verhältnis aus Spannweite und mittlerer Profiltiefe bezeichnet?    
+<response>Trapezform</response>
+<response>Zuspitzung</response>
+<response>Pfeilung</response>
+<response stimmt="True">Flügelstreckung</response>
+</question>
+
+<question id="15" punkte="1.0" category="PFA" img="PFA-009">
+Welcher Punkt am Flügelprofil wird durch Nummer 3 dargestellt?  
+Siehe Bild (PFA-009)     
+<response>Druckpunkt</response>
+<response>Staupunkt</response>
+<response stimmt="True">Umschlagpunkt</response>
+<response>Ablösepunkt</response>
+</question>
+
+<question id="16" punkte="1.0" category="PFA" img="PFA-009">
+Welcher Punkt am Flügelprofil wird durch Nummer 4 dargestellt?  
+Siehe Bild (PFA-009)    
+<response>Staupunkt</response>
+<response stimmt="True">Ablösepunkt</response>
+<response>Umschlagpunkt</response>
+<response>Druckpunkt</response>
+</question>
+
+<question id="17" punkte="1.0" category="PFA">
+In welcher Flugphase beginnt die Entstehung von Wirbelschleppen?    
+<response>Beim Ausfahren der Landeklappen</response>
+<response>Sobald sich das Luftfahrzeug in Bewegung setzt</response>
+<response stimmt="True">Beim Rotieren mit beginnender Auftriebserzeugung</response>
+<response>Beim Setzen der Startleistung im Startlauf</response>
+</question>
+
+<question id="18" punkte="1.0" category="PFA" img="PFA-009">
+Welcher Punkt am Flügelprofil wird von Nummer 1 dargestellt?  
+Siehe Bild (PFA-009)    
+<response stimmt="True">Staupunkt</response>
+<response>Ablösepunkt</response>
+<response>Druckpunkt</response>
+<response>Umschlagpunkt</response>
+</question>
+
+<question id="19" punkte="1.0" category="PFA">
+Welcher Vorgang findet am Staupunkt statt?    
+<response>Die Grenzschicht beginnt sich auf der Profiloberseite abzulösen</response>
+<response stimmt="True">Die anströmende Luft wird in einen Teilstrom oberhalb und unterhalb der Profilform geteilt</response>
+<response>Die laminare Grenzschicht schlägt in eine turbulente Grenzschicht um</response>
+<response>Dort lassen sich alle Luftkräfte als gemeinsam angreifend betrachten</response>
+</question>
+
+<question id="20" punkte="1.0" category="PFA">
+Welche Druckverhältnisse bestehen bei positiven Anstellwinkeln an einem  
+Tragflügelprofil, das Auftrieb erzeugt?    
+<response>Der Druck auf der Unterseite ändert sich nicht, auf der Oberseite wird Überdruck erzeugt</response>
+<response>Auf der Oberseite wird Überdruck, auf der Unterseite Unterdruck erzeugt</response>
+<response>Der Druck auf der Oberseite ändert sich nicht, auf der Unterseite wird Überdruck erzeugt</response>
+<response stimmt="True">Auf der Oberseite wird Unterdruck, auf der Unterseite Überdruck erzeugt</response>
+</question>
+
+<question id="21" punkte="1.0" category="PFA">
+Die Lage des Druckpunktes eines positiv gewölbten Profils...    
+<response stimmt="True">verlagert sich in Richtung der Hinterkante mit kleiner werdendem Anstellwinkel.</response>
+<response>verlagert sich nicht und ist unabhängig vom Anstellwinkel.</response>
+<response>befindet sich ungefähr auf 25% der Profiltiefe gemessen von der Nasenleiste.</response>
+<response>verlagert sich in Richtung der Vorderkante mit kleiner werdendem Anstellwinkel.</response>
+</question>
+
+<question id="22" punkte="1.0" category="PFA">
+Wie verhält sich die Lage des Druckpunktes eines positiv gewölbten Profils mit  
+größer werdendem Anstellwinkel?    
+<response>Er wandert nach hinten bis zum kritischen Anstellwinkel</response>
+<response stimmt="True"> Er wandert nach vorne bis zum kritischen Anstellwinkel</response>
+<response>Er wandert erst nach vorne, dann nach hinten</response>
+<response>Er wandert in Richtung der Flügelspitze</response>
+</question>
+
+<question id="23" punkte="1.0" category="PFA">
+Welcher Zusammenhang besteht zwischen Anstellwinkel und Auftrieb?    
+<response>Je höher der Anstellwinkel, umso geringer wird der über das Profil erzeugte Auftrieb</response>
+<response>Ein zu großer Anstellwinkel kann zu einer exponentiellen Steigerung des Auftriebs führen</response>
+<response stimmt="True">Ein zu großer Anstellwinkel kann zum überzogenen Flugzustand und damit zum Auftriebsverlust führen</response>
+<response>Je kleiner der Anstellwinkel, umso höher wird der über das Profil erzeugte Auftrieb</response>
+</question>
+
+<question id="24" punkte="1.0" category="PFA">
+Welche Aussage über die Umströmung einer Tragfläche ist korrekt, wenn der  
+Anstellwinkel zunimmt?    
+<response>Der Staupunkt bewegt sich nach oben</response>
+<response>Der Druckpunkt bewegt sich nach unten</response>
+<response stimmt="True">Der Staupunkt bewegt sich nach unten</response>
+<response>Der Druckpunkt bewegt sich nach oben</response>
+</question>
+
+<question id="25" punkte="1.0" category="PFA">
+Welche Aussage zur Umströmung einer Tragfläche ist korrekt, wenn der Anstellwinkel  
+abnimmt?    
+<response stimmt="True">Der Druckpunkt bewegt sich nach hinten</response>
+<response>Der Staupunkt bewegt sich nach unten</response>
+<response>Der Druckpunkt bewegt sich nach vorne</response>
+<response>Der Staupunkt bleibt konstant</response>
+</question>
+
+<question id="26" punkte="1.0" category="PFA" img="PFA-003">
+Der in der Grafik dargestellte Winkel (alpha) entspricht dem...  
+Siehe Bild (PFA-003)   
+DoF: Anströmrichtung (direction of airflow).    
+<response>Neigungswinkel.</response>
+<response>Auftriebswinkel.</response>
+<response stimmt="True">Anstellwinkel.</response>
+<response>Einstellwinkel.</response>
+</question>
+
+<question id="27" punkte="1.0" category="PFA">
+Um das Überziehverhalten eines Luftfahrzeuges zu verbessern, wird der Flügel nach  
+außen hin verwunden (der Einstellwinkel verändert sich in Spannweitenrichtung).  
+Dies bezeichnet man als...    
+<response stimmt="True">geometrische Schränkung.</response>
+<response>Pfeilform.</response>
+<response>V-Form.</response>
+<response>aerodynamische Schränkung.</response>
+</question>
+
+<question id="28" punkte="1.0" category="PFA">
+Welches ist ein Vorteil der aerodynamischen Flügelschränkung?    
+<response>Eine größere Festigkeit, weil den Torsionskräften am Flügel besser widerstanden werden kann</response>
+<response>Mit der Flügelschränkung wird der Formwiderstand bei hohen Geschwindigkeiten reduziert</response>
+<response stimmt="True">Die Wirksamkeit des Querruders bleibt bei hohen Anstellwinkeln noch möglichst lange erhalten</response>
+<response>Der Tragflügel wird konstruktiv gegen Verdrehung steifer gemacht</response>
+</question>
+
+<question id="29" punkte="1.0" category="PFA">
+Welche Aussage über den Anstellwinkel ist zutreffend?    
+<response stimmt="True">Ein zu großer Anstellwinkel lässt den Auftrieb zusammenbrechen</response>
+<response>Der Anstellwinkel ist während des Fluges konstant</response>
+<response>Der Anstellwinkel kann nicht negativ werden</response>
+<response>Je größer der Anstellwinkel, um so kleiner der Auftrieb</response>
+</question>
+
+<question id="30" punkte="1.0" category="PFA">
+Wie ändert sich der parasitäre Widerstand bei Verdopplung der  
+Strömungsgeschwindigkeit, wenn alle anderen Parameter unverändert bleiben?  
+<response>Er halbiert sich</response>
+<response stimmt="True">Er vervierfacht sich</response>
+<response>Er viertelt sich</response>
+<response>Er verdoppelt sich</response>
+</question>
+
+<question id="31" punkte="1.0" category="PFA">
+Welche Aussage über den Widerstandsbeiwert ist zutreffend?    
+<response>Der Widerstandsbeiwert kann zwischen Null und einem maximalen Wert variieren</response>
+<response>Der Widerstandsbeiwert ändert sich gleichsinnig mit dem Auftriebsbeiwert</response>
+<response>Der Widerstandsbeiwert steigt mit zunehmender Strömungsgeschwindigkeit</response>
+<response stimmt="True">Der Widerstandsbeiwert kann einen minimalen positiven Wert nicht unterschreiten</response>
+</question>
+
+<question id="32" punkte="1.0" category="PFA">
+Wo am Tragflügel kann ein Druckausgleich zwischen Unter- und Oberseite  
+stattfinden?    
+<response>An der Vorderkante</response>
+<response>An den Übergangsstellen zum Rumpf</response>
+<response stimmt="True">An den Tragflächen-Enden (Randbögen)</response>
+<response>An der Flügelwurzel</response>
+</question>
+
+<question id="33" punkte="1.0" category="PFA">
+Unter welchen Bedingungen ist der induzierte Widerstand besonders groß?    
+<response>Bei kleinen Auftriebswerten</response>
+<response stimmt="True">Bei geringer Flügelstreckung</response>
+<response>Bei großer Flügelstreckung</response>
+<response>Bei schmal zulaufenden Tragflächen-Enden</response>
+</question>
+
+<question id="34" punkte="1.0" category="PFA">
+Welche Bauteile am Flugzeug haben besonders Einfluss auf den induzierten  
+Widerstand?    
+<response>Unterer Teil des Fahrwerks</response>
+<response stimmt="True">Tragflächenspitzen</response>
+<response>Vorderer Bereich des Rumpfes</response>
+<response>Äußerer Teil der Querruder</response>
+</question>
+
+<question id="35" punkte="1.0" category="PFA">
+Wo entsteht der Interferenzwiderstand an einem Luftfahrzeug?    
+<response>An den Querrudern</response>
+<response stimmt="True">An den Tragflügelwurzeln</response>
+<response>Am Fahrwerk</response>
+<response>An den Tragflächenenden</response>
+</question>
+
+<question id="36" punkte="1.0" category="PFA" img="PFA-011">
+Welche Kurve stellt den induzierten Widerstand dar?  
+Siehe Bild (PFA-011).    
+<response stimmt="True">1</response>
+<response>4</response>
+<response>2</response>
+<response>3</response>
+</question>
+
+<question id="37" punkte="1.0" category="PFA">
+Druckwiderstand, Interferenzwiderstand und Reibungswiderstand gehören zur  
+Gruppe des...    
+<response stimmt="True">parasitären Widerstands.</response>
+<response>induzierten Widerstands.</response>
+<response>Hauptwiderstands.</response>
+<response>auftriebsbasierten Widerstands.</response>
+</question>
+
+<question id="38" punkte="1.0" category="PFA">
+Welche Widerstandsart zählt NICHT zu den parasitären (schädlichen)  
+Widerstandsarten?    
+<response>Reibungswiderstand</response>
+<response>Formwiderstand</response>
+<response>Interferenzwiderstand</response>
+<response stimmt="True">Induzierter Widerstand</response>
+</question>
+
+<question id="39" punkte="1.0" category="PFA">
+Wie ändern sich schädlicher und induzierter Widerstand mit zunehmender  
+Fluggeschwindigkeit im ungestörten Reiseflug (Horizontalflug)?    
+<response>Der induzierte Widerstand steigt und der schädliche Widerstand steigt</response>
+<response stimmt="True">Der induzierte Widerstand sinkt und der schädliche Widerstand steigt</response>
+<response>Der schädliche Widerstand sinkt und der induzierte Widerstand sinkt</response>
+<response>Der schädliche Widerstand sinkt und der induzierte Widerstand steigt</response>
+</question>
+
+<question id="40" punkte="1.0" category="PFA">
+Welche der genannten Flügelformen hat den geringsten induzierten Widerstand?  
+<response>Trapezform</response>
+<response>Rechteckform</response>
+<response>Doppeltrapezform</response>
+<response stimmt="True">Ellipsenform</response>
+</question>
+
+<question id="41" punkte="1.0" category="PFA">
+Welche Auswirkungen hat eine abnehmende Fluggeschwindigkeit auf den induzierten  
+Widerstand im ungestörten Reiseflug (Horizontalflug)?    
+<response>Er bricht zusammen</response>
+<response>Er bleibt konstant</response>
+<response stimmt="True">Er nimmt zu</response>
+<response>Er nimmt leicht ab</response>
+</question>
+
+<question id="42" punkte="1.0" category="PFA">
+Welche Aussage über den induzierten Widerstand im ungestörten Reiseflug  
+(Horizontalflug) ist zutreffend?    
+<response stimmt="True">Er sinkt mit zunehmender Fluggeschwindigkeit</response>
+<response>Er ist maximal bei einer bestimmten Geschwindigkeit, darüber und darunter nimmt er ab</response>
+<response>Er steigt mit zunehmender Fluggeschwindigkeit</response>
+<response>Er ist minimal bei einer bestimmten Geschwindigkeit, darüber und darunter nimmt er zu</response>
+</question>
+
+<question id="43" punkte="1.0" category="PFA">
+In welcher der genannten Situationen ist der Widerstand eines Luftfahrzeuges am  
+geringsten?    
+<response>Der induzierte Widerstand ist kleiner als der schädliche Widerstand</response>
+<response>Der induzierte Widerstand ist doppelt so groß wie der schädliche Widerstand</response>
+<response>Der schädliche Widerstand ist doppelt so groß wie der induzierte Widerstand</response>
+<response stimmt="True">Der schädliche Widerstand ist gleich dem induzierten Widerstand</response>
+</question>
+
+<question id="44" punkte="1.0" category="PFA">
+Der Gesamtwiderstand besteht vollständig aus welchen Widerstandsarten?    
+<response>Interferenzwiderstand und parasitärer Widerstand</response>
+<response>Induzierter Widerstand, Formwiderstand, Reibungswiderstand</response>
+<response stimmt="True">Induzierter Widerstand und parasitärer Widerstand</response>
+<response>Formwiderstand, Reibungswiderstand, Interferenzwiderstand</response>
+</question>
+
+<question id="45" punkte="1.0" category="PFA">
+Wie ändern sich Auftrieb und Widerstand bei Annäherung an den überzogenen  
+Flugzustand?    
+<response stimmt="True">Abnahme von Auftrieb und Zunahme von Widerstand</response>
+<response>Zunahme von Auftrieb und Widerstand</response>
+<response>Zunahme von Auftrieb und Abnahme von Widerstand</response>
+<response>Abnahme von Auftrieb und Widerstand</response>
+</question>
+
+<question id="46" punkte="1.0" category="PFA">
+Im Falle eines überzogenen Flugzustandes ist es wichtig...    
+<response>den Anstellwinkel zu vergrößern und die Geschwindigkeit zu erhöhen.</response>
+<response>die Schräglage zu vergrößern und die Geschwindigkeit zu reduzieren.</response>
+<response stimmt="True">den Anstellwinkel zu verkleinern und die Geschwindigkeit zu erhöhen.</response>
+<response>den Anstellwinkel zu vergrößern und die Geschwindigkeit zu reduzieren.</response>
+</question>
+
+<question id="47" punkte="1.0" category="PFA">
+Wie verhalten sich Auftrieb und Widerstand während des Strömungsabrisses (stall)?  
+<response>Der Auftrieb steigt und der Widerstand steigt</response>
+<response stimmt="True">Der Auftrieb sinkt und der Widerstand steigt</response>
+<response>Der Auftrieb sinkt und der Widerstand sinkt</response>
+<response>Der Auftrieb steigt und der Widerstand sinkt</response>
+</question>
+
+<question id="48" punkte="1.0" category="PFA">
+Der kritische Anstellwinkel...    
+<response>wird größer mit hinterer Schwerpunktlage.</response>
+<response stimmt="True">hängt nicht von der Masse des Flugzeuges ab.</response>
+<response>wird kleiner mit vorderer Schwerpunktlage.</response>
+<response>verändert sich mit zunehmender Flugmasse.</response>
+</question>
+
+<question id="49" punkte="1.0" category="PFA">
+Welche Umstände führen zu einer verringerten Strömungsabrissgeschwindigkeit Vs (IAS)?    
+<response stimmt="True">Abnehmende Flugzeugmasse</response>
+<response>Geringere Luftdichte</response>
+<response>Höheres Lastvielfaches</response>
+<response>Niedrigere Flughöhe</response>
+</question>
+
+<question id="50" punkte="1.0" category="PFA">
+Kurz vor Erreichen welcher Geschwindigkeit wird die Überziehwarnanlage aktiviert?  
+<response stimmt="True">VS</response>
+<response>VR</response>
+<response>VX</response>
+<response>VNE</response>
+</question>
+
+<question id="51" punkte="1.0" category="PFA">
+Die Überziehwarnung (stall warning) wird bei Motorflugzeugen häufig aktiviert durch  
+die Änderung...    
+<response>des Umschlagpunktes.</response>
+<response>des Schwerpunktes.</response>
+<response stimmt="True">des Staupunktes.</response>
+<response>des Druckpunktes.</response>
+</question>
+
+<question id="52" punkte="1.0" category="PFA">
+Wie ist vom Piloten auf das Auslösen der Überziehwarnung zum Beenden des  
+überzogenen Flugzustandes zu reagieren?    
+<response>Höhenruder ziehen, Motorleistung auf Leerlauf</response>
+<response>Die Geschwindigkeit durch Heben der Flugzeugnase reduzieren</response>
+<response>Höhenruder konstant halten, Motorleistung erhöhen</response>
+<response stimmt="True">Höhenruder nachdrücken, Motorleistung erhöhen</response>
+</question>
+
+<question id="53" punkte="1.0" category="PFA">
+Welche Aussage in Bezug auf das Trudeln ist korrekt?    
+<response>Während des Trudelns nimmt die Fluggeschwindigkeit stetig zu</response>
+<response stimmt="True">Während des Ausleitens werden die Querruder neutral gehalten</response>
+<response>Nur bei sehr alten Flugzeugmodellen besteht Trudelgefahr</response>
+<response>Während des Ausleitens müssen die Ruder gekreuzt werden</response>
+</question>
+
+<question id="54" punkte="1.0" category="PFA">
+Wie verhält sich der Auftriebsbeiwert, wenn die Landeklappen bei konstantem  
+Anstellwinkel weit vor Erreichen des maximalen Auftriebsbeiwertes ausgefahren  
+     werden?    
+<response stimmt="True">Er vergrößert sich</response>
+<response>Er ist nicht definierbar</response>
+<response>Er verkleinert sich</response>
+<response>Er bleibt unverändert</response>
+</question>
+
+<question id="55" punkte="1.0" category="PFA">
+Welche Eigenschaft sorgt für die auftriebserhöhende Wirkung einer Landeklappe?  
+<response>Verringerung des induzierten Widerstandes</response>
+<response>Verkleinerung des Anstellwinkels</response>
+<response>Verkleinerung des Formwiderstandes</response>
+<response stimmt="True">Vergrößerung der Profilwölbung</response>
+</question>
+
+<question id="56" punkte="1.0" category="PFA">
+Welcher Faktor kann sich durch die Betätigung der Landeklappen verändern?    
+<response stimmt="True">Die Lastigkeit (Trimmzustand)</response>
+<response>Die Lage des Schwerpunkts</response>
+<response>Die Wirksamkeit des Seitenruders</response>
+<response>Die Drallwirkung des Motors</response>
+</question>
+
+<question id="57" punkte="1.0" category="PFA">
+Welche Konstruktionsmerkmale weist die "Fowler-Klappe" auf?    
+<response>Bei größerem Anstellwinkel hebt sich ein Teil der Flügelnase ab</response>
+<response>Der hintere Teil des Tragflügels wird nach unten geklappt</response>
+<response>Eine Klappe wird aus der hinteren Unterseite des Flügels nach unten geklappt</response>
+<response stimmt="True">Aus dem hinteren Ende des Flügels wird eine profilartige Klappe ausgefahren</response>
+</question>
+
+<question id="58" punkte="1.0" category="PFA">
+Welche Art von Landehilfen darf in Bodennähe nicht plötzlich eingefahren werden?  
+<response>Schempp-Hirth-Klappen</response>
+<response stimmt="True">Wölbungs- und Spreizklappen</response>
+<response>Störklappen</response>
+<response>Bremsklappen</response>
+</question>
+
+<question id="59" punkte="1.0" category="PFA">
+Ein Start mit ausgefahrenen Klappen in Startstellung bewirkt...    
+<response>die Erhöhung der Steigrate.</response>
+<response stimmt="True">die Verkürzung der Startrollstrecke.</response>
+<response>die Erhöhung der Beschleunigung.</response>
+<response>die Verringerung des Widerstandes.</response>
+</question>
+
+<question id="60" punkte="1.0" category="PFA">
+Sofern laut Flughandbuch keine anderen Verfahren zu befolgen sind, dürfen die  
+Klappen beim Durchstarten nach Erhöhen der Motorleistung in der Regel...    
+<response>ohne Verzögerung voll eingefahren werden.</response>
+<response>bis zum Erreichen der Platzrunde voll ausgefahren bleiben.</response>
+<response stimmt="True">nur auf eine mittlere Stellung eingefahren werden.</response>
+<response>bis zur Sicherheitsmindesthöhe nicht betätigt werden.</response>
+</question>
+
+
+<question id="61" punkte="1.0" category="PFA">
+Wie verändern sich Auftrieb und Widerstand beim Ausfahren von Landeklappen?  
+<response>Auftrieb sinkt, Widerstand sinkt</response>
+<response stimmt="True">Auftrieb steigt, Widerstand steigt</response>
+<response>Auftrieb steigt, Widerstand sinkt</response>
+<response>Auftrieb sinkt, Widerstand steigt</response>
+</question>
+
+<question id="62" punkte="1.0" category="PFA">
+Die laminare Grenzschicht am Tragflügel befindet sich zwischen...    
+<response stimmt="True">Staupunkt und Umschlagpunkt.</response>
+<response>Umschlagpunkt und Druckpunkt.</response>
+<response>Staupunkt und Druckpunkt.</response>
+<response>Umschlagpunkt und Ablösepunkt.</response>
+</question>
+
+<question id="63" punkte="1.0" category="PFA">
+Welche Arten von Grenzschichten sind an einem Tragflächenprofil zu beobachten?  
+<response>Auf der gesamten Profiloberseite laminare Grenzschicht bei nicht abgelöster Strömung</response>
+<response stimmt="True">An der vorderen Tragflügeloberseite laminare Strömung, weiter hinten turbulente Strömung</response>
+<response>Auf der gesamten Profiloberseite turbulente Grenzschicht bei abgelöster Strömung</response>
+<response>An der vorderen Tragflügeloberseite turbulente Strömung, weiter hinten laminare Strömung</response>
+</question>
+
+<question id="64" punkte="1.0" category="PFA">
+Wie unterscheiden sich laminare und turbulente Grenzschicht am Tragflügelprofil?  
+<response>Die laminare Grenzschicht erzeugt Auftrieb, die turbulente Grenzschicht produziert ausschließlich Widerstand</response>
+<response>Die turbulente Grenzschicht ist dicker und besitzt einen geringeren Reibungswiderstand</response>
+<response>Die laminare Grenzschicht ist dünner und besitzt einen größeren Reibungswiderstand</response>
+<response stimmt="True">Die turbulente Grenzschicht ist auch bei höheren Anstellwinkeln in der Lage, der Profilwölbung zu folgen</response>
+</question>
+
+<question id="65" punkte="1.0" category="PFA">
+An welchen Stellen des Luftfahrzeuges setzt in Vereisungsbedingungen das meiste Eis an?    
+<response>Am Staurohr und an der statischen Druckabnahme</response>
+<response>Auf der Ober- und Unterseite der Tragflächen-Hinterkante</response>
+<response>Auf der Ober- und Unterseite der Ruderflächen</response>
+<response stimmt="True">An allen Stirnflächen von Flugzeugzelle, Tragflächen und Leitwerk</response>
+</question>
+
+<question id="66" punkte="1.0" category="PFA">
+Welches konstruktive Merkmal sorgt für die Erhöhung der Querstabilität eines Flächenflugzeuges?    
+<response stimmt="True">Positive V-Form der Tragflächen</response>
+<response>Differenzieller Querruderausschlag</response>
+<response>Seitenleitwerk</response>
+<response>Höhenleitwerk</response>
+</question>
+
+<question id="67" punkte="1.0" category="PFA">
+Welche Aussage beschreibt eine Situation statischer Stabilität?    
+<response>Wird ein Flugzustand durch äußere Einflüsse gestört, verbleibt das Luftfahrzeug im veränderten Flugzustand</response>
+<response stimmt="True">Wird ein Flugzustand durch äußere Einflüsse gestört, neigt das Luftfahrzeug dazu, sich in Richtung des ursprünglichen Zustands zurückzubewegen</response>
+<response>Wird ein Flugzustand durch äußere Einflüsse gestört, neigt das Luftfahrzeug dazu, sich noch weiter vom ursprünglichen Zustand zu entfernen</response>
+<response>Wird ein Flugzustand durch äußere Einflüsse gestört, kann das Luftfahrzeug durch Ruderkräfte in den ursprünglichen Zustand zurückgeführt werden</response>
+</question>
+
+<question id="68" punkte="1.0" category="PFA">
+Ein statisch instabiles Flugzeug...    
+<response>wird stabiler mit rückwärtiger Schwerpunktlage.</response>
+<response>wird stabil bei hohen Geschwindigkeiten.</response>
+<response stimmt="True">wird nie dynamisch stabil sein.</response>
+<response>íst immer dynamisch stabil.</response>
+</question>
+
+<question id="69" punkte="1.0" category="PFA">
+Welche Kraft ist im stationären, horizontalen Geradeausflug NICHT wirksam?    
+<response>Auftriebskraft</response>
+<response stimmt="True">Zentrifugalkraft</response>
+<response>Gewichtskraft.</response>
+<response>Widerstandskraft</response>
+</question>
+
+<question id="70" punkte="1.0" category="PFA" img="PFA-006">
+Welches konstruktive Merkmal ist in der Abbildung dargestellt?  
+Siehe Bild (PFA-006)   
+L: Auftrieb.    
+<response>Richtungsstabilität durch Abtriebserzeugung</response>
+<response stimmt="True">Querstabilität durch positive V-Form</response>
+<response>Längsstabilität durch V-Form</response>
+<response>Differenzieller Querruderausschlag</response>
+</question>
+
+<question id="71" punkte="1.0" category="PFA">
+Als "Längsstabilität" wird die Stabilität um welche Achse bezeichnet?    
+<response>Hochachse</response>
+<response stimmt="True">Querachse</response>
+<response>Propellerachse</response>
+<response>Längsachse</response>
+</question>
+
+<question id="72" punkte="1.0" category="PFA">
+Die Stabilität um welche Achse wird maßgeblich durch die horizontale  
+Schwerpunktlage mitbestimmt?    
+<response>Hochachse</response>
+<response>Schwerpunktachse</response>
+<response stimmt="True">Querachse</response>
+<response>Längsachse</response>
+</question>
+
+<question id="73" punkte="1.0" category="PFA">
+Welches konstruktive Merkmal sorgt für eine Erhöhung der Richtungsstabilität eines  
+Flächenflugzeuges?    
+<response>Differenzieller Querruderausschlag</response>
+<response stimmt="True">Großes Seitenleitwerk</response>
+<response>Großes Höhenleitwerk</response>
+<response>V-Form der Tragflächen</response>
+</question>
+
+<question id="74" punkte="1.0" category="PFA">
+Wie wird eine Drehung um die Hochachse genannt?    
+<response>Rollen</response>
+<response>Schieben</response>
+<response>Nicken</response>
+<response stimmt="True">Gieren</response>
+</question>
+
+<question id="75" punkte="1.0" category="PFA">
+Wie wird eine Drehung um die Querachse genannt?    
+<response>Kippen</response>
+<response>Gieren</response>
+<response stimmt="True">Nicken</response>
+<response>Rollen</response>
+</question>
+
+<question id="76" punkte="1.0" category="PFA">
+Der kritische Anstellwinkel...    
+<response>verändert sich bei zu- oder abnehmender Flugzeugmasse.</response>
+<response>verkleinert sich bei einer hinteren Schwerpunktlage.</response>
+<response>vergrößert sich bei einer vorderen Schwerpunktlage.</response>
+<response stimmt="True">verändert sich durch verschiedene Flugzeugmassen nicht.</response>
+</question>
+
+<question id="77" punkte="1.0" category="PFA">
+Bei gleichbleibender Leistung des Motors im Reiseflug ist der Anstellwinkel am Flügel...    
+<response stimmt="True">kleiner als im Steigflug.</response>
+<response>größer als beim Start.</response>
+<response>größer als im Steigflug.</response>
+<response>kleiner als im Sinkflug.</response>
+</question>
+
+<question id="78" punkte="1.0" category="PFA">
+Welches ist eine Funktion des Höhenleitwerks?    
+<response stimmt="True">Die Stabilisierung des Flugzeugs um die Querachse</response>
+<response>Die Stabilisierung des Flugzeugs um die Längsachse</response>
+<response>Das Einleiten von Kurven um die Hochachse</response>
+<response>Die Stabilisierung des Flugzeugs um die Hochachse</response>
+</question>
+
+<question id="79" punkte="1.0" category="PFA">
+Der Höhenruderausschlag für ein bestimmtes Manöver ist...    
+<response stimmt="True">kleiner bei hohen Fluggeschwindigkeiten.</response>
+<response>größer bei hinterer Schwerpunktlage.</response>
+<response>gleich für alle Schwerpunktlagen.</response>
+<response>gleich für alle Fluggeschwindigkeiten.</response>
+</question>
+
+<question id="80" punkte="1.0" category="PFA">
+Der Höhenruderausschlag beim Rotieren zum Start wird...    
+<response>unabhängig von der Fluggeschwindigkeit gleich groß sein.</response>
+<response>größer sein mit einer hinteren Schwerpunktlage.</response>
+<response stimmt="True">größer sein mit einer vorderen Schwerpunktlage.</response>
+<response>größer sein bei hohen Fluggeschwindigkeiten.</response>
+</question>
+
+<question id="81" punkte="1.0" category="PFA">
+Das Höhenruder bewegt ein Luftfahrzeug um die...    
+<response>Längsachse.</response>
+<response>Höhenachse.</response>
+<response>Hochachse.</response>
+<response stimmt="True">Querachse.</response>
+</question>
+
+<question id="82" punkte="1.0" category="PFA">
+Was ist hinsichtlich der Lage des Schwerpunktes zu beachten?    
+<response>Die Lage des Schwerpunktes kann erst während des Fluges bestimmt werden</response>
+<response stimmt="True">Bei der Beladung ist unbedingt auf eine zulässige Schwerpunktlage zu achten</response>
+<response>Der Schwerpunkt kann durch Trimmen des Höhenruders in eine zulässige Position bewegt werden</response>
+<response>Der Schwerpunkt kann durch Trimmen des Querruders in eine zulässige Position bewegt werden</response>
+</question>
+
+<question id="83" punkte="1.0" category="PFA">
+Das Seitenruder bewegt ein Luftfahrzeug um die...    
+<response>Längsachse.</response>
+<response>Seitenachse.</response>
+<response stimmt="True">Hochachse.</response>
+<response>Querachse.</response>
+</question>
+
+<question id="84" punkte="1.0" category="PFA">
+Ein Seitenruderausschlag nach links bewirkt...    
+<response>ein Kippen des Luftfahrzeugs nach links.</response>
+<response stimmt="True">ein Gieren des Luftfahrzeugs nach links.</response>
+<response>ein Kippen des Luftfahrzeugs nach rechts.</response>
+<response>ein Gieren des Luftfahrzeugs nach rechts.</response>
+</question>
+
+<question id="85" punkte="1.0" category="PFA">
+Welches ist ein Vorteil des differenzierten Querruderausschlages?    
+<response>Der totale Auftrieb wird beim Querruderausschlag konstant gehalten</response>
+<response stimmt="True">Der Widerstand des nach unten ausgeschlagenen Querruders wird verringert und damit ist das negative Wendemoment kleiner</response>
+<response>Das Verhältnis von Widerstandsbeiwert zu Auftriebsbeiwert wird erhöht</response>
+<response>Das negative Wendemoment wird verstärkt</response>
+</question>
+
+<question id="86" punkte="1.0" category="PFA">
+Wie wird das negative Wendemoment kompensiert?    
+<response>Durch einen Vollausschlag des Querruders</response>
+<response>Durch die Querrudertrimmung</response>
+<response>Durch eine Tragflächen-V-Form</response>
+<response stimmt="True">Durch differenzierten Querruderausschlag</response>
+</question>
+
+<question id="87" punkte="1.0" category="PFA">
+Welchen Vorteil hat die Verwendung von differenzierten Querrudern?    
+<response stimmt="True">Sie halten das negative Wendemoment gering</response>
+<response>Sie vermeiden einen Strömungsabriss bei niedrigen Anstellwinkeln</response>
+<response>Sie erhöhen die Sinkflugrate</response>
+<response>Sie reduzieren Wirbelschleppen</response>
+</question>
+
+<question id="88" punkte="1.0" category="PFA">
+Das rechte Querruder schlägt nach oben aus, das linke nach unten.  
+Wie reagiert das Luftfahrzeug?    
+<response>Rollen nach links, kein Gieren</response>
+<response>Rollen nach rechts, Gieren nach rechts</response>
+<response stimmt="True">Rollen nach rechts, Gieren nach links</response>
+<response>Rollen nach links, Gieren nach rechts</response>
+</question>
+
+<question id="89" punkte="1.0" category="PFA">
+Welche Funktion hat der aerodynamische Ruderausgleich?    
+<response>Er verbessert die Ruderwirksamkeit</response>
+<response stimmt="True">Er verringert die Steuerkräfte</response>
+<response>Er verkleinert die Ruderflächen</response>
+<response>Er verzögert das Abreißen der Strömung</response>
+</question>
+
+<question id="90" punkte="1.0" category="PFA">
+Welche konstruktive Maßnahme trägt zur Verringerung von Ruderkräften bei?    
+<response>Differenzieller Querruderausschlag</response>
+<response>T-Leitwerk</response>
+<response>Wirbelgeneratoren (Vortex Generators)</response>
+<response stimmt="True">Aerodynamischer Ruderausgleich</response>
+</question>
+
+<question id="91" punkte="1.0" category="PFA">
+Welche Funktion hat der statische Ruderausgleich?    
+<response>Er begrenzt die Steuerdrücke</response>
+<response stimmt="True">Er verhindert das "Flattern" der Ruder</response>
+<response>Das nahezu kraftlose Trimmen der Ruder</response>
+<response>Er erhöht die Steuerdrücke</response>
+</question>
+
+<question id="92" punkte="1.0" category="PFA">
+Ein Flugzeug besitzt im Reiseflug bei konstanter Leistungseinstellung die Tendenz,  
+die Nase zu heben.   
+Wie kann diese Tendenz unterdrückt werden?    
+<response>Durch den Ausschlag des Höhenruders nach oben</response>
+<response>Durch das Auslenken der Höhenruder-Trimmfläche nach unten</response>
+<response stimmt="True">Durch das Auslenken der Höhenruder-Trimmfläche nach oben</response>
+<response>Durch eine Verlagerung des Schwerpunkts nach hinten</response>
+</question>
+
+<question id="93" punkte="1.0" category="PFA">
+Was ist eine Bügelkante?    
+<response>Eine Bezeichnung für ein Ausgleichsruder</response>
+<response>Eine Ausgleichsmasse am Ruder</response>
+<response stimmt="True">Eine starr am entsprechenden Ruder befestigte Trimmfläche</response>
+<response>Eine während des Fluges verstellbare Trimmfläche</response>
+</question>
+
+<question id="94" punkte="1.0" category="PFA">
+Das Trimmruder am Höhenruder ist nach oben ausgeschlagen.  
+     In welcher Stellung befindet sich die zugehörige Anzeige?    
+<response>Hecklastig getrimmt.</response>
+<response>Neutrale Stellung (0-Stellung)</response>
+<response stimmt="True">Kopflastig getrimmt</response>
+<response>Seitlich getrimmt</response>
+</question>
+
+<question id="95" punkte="1.0" category="PFA">
+Welches Verhältnis bezeichnet der Begriff "Flächenbelastung"?    
+<response>Flügelfläche pro Fluggewichtskraft</response>
+<response>Rüstgewichtskraft pro Flügelfläche</response>
+<response stimmt="True">Luftfahrzeugmasse pro Flügelfläche</response>
+<response>Widerstandskraft pro Flügelfläche</response>
+</question>
+
+<question id="96" punkte="1.0" category="PFA">
+Durch welchen der aufgeführten Faktoren erhöht sich das wirkende Lastvielfache im  
+Reiseflug?    
+<response>Einen vorderen Schwerpunkt</response>
+<response stimmt="True">Eine aufwärtsgerichtete Böe</response>
+<response>Eine geringere Luftdichte</response>
+<response>Eine höhere Flugzeugmasse</response>
+</question>
+
+<question id="97" punkte="1.0" category="PFA">
+Durch welchen der aufgeführten Faktoren verringert sich das wirkende Lastvielfache  
+im Reiseflug?    
+<response>Eine geringere Flugzeugmasse</response>
+<response>Eine Zunahme der Luftdichte</response>
+<response>Eine hintere Schwerpunktlage</response>
+<response stimmt="True">Eine abwärtsgerichtete Böe</response>
+</question>
+
+<question id="98" punkte="1.0" category="PFA">
+Welche Aussage bezüglich des Verstellpropellers ("Constant-Speed Propeller") ist  
+korrekt?    
+<response>Der Propeller hält die Fluggeschwindigkeit des Flugzeuges konstant</response>
+<response>Die eingestellte Drehzahl wird durch die Motorleistung (MAP) konstant gehalten</response>
+<response>Die Drehzahl des Propellers wird mit zunehmender Fluggeschwindigkeit kleiner</response>
+<response stimmt="True">Der Einstellwinkel des Propellers wird mit zunehmender Fluggeschwindigkeit größer</response>
+</question>
+
+<question id="99" punkte="1.0" category="PFA">
+Warum ändert sich bei einem Propellerblatt der Einstellwinkel von der Nabe bis zur  
+Spitze?    
+<response>Um im Bereich der Propellerspitze einen möglichst großen Anstellwinkel zu gewährleisten</response>
+<response stimmt="True">Um eine möglichst konstante Belastung durch einen gleichbleibenden effektiven Anstellwinkel über die gesamte Länge des Blattes zu gewährleisten</response>
+<response>Um sicher zu stellen, dass im Bereich der Propellernabe der größte Schub produziert wird</response>
+<response>Um sicher zu stellen, dass im Bereich der Propellerspitze der größte Schub produziert wird</response>
+</question>
+
+<question id="100" punkte="1.0" category="PFA">
+Wie verhält sich nach einem Motorausfall ein im Wind drehender Propeller?    
+<response stimmt="True">Er produziert Widerstand anstatt Schub</response>
+<response>Er produziert weder Schub noch Widerstand</response>
+<response>Er verbessert die Gleitflugeigenschaften</response>
+<response>Er besitzt einen größeren Einstellwinkel als in der Segelstellung</response>
+</question>
+
+<question id="101" punkte="1.0" category="PFA">
+Wie verhalten sich Propellersteigung und Sinkrate, wenn während eines Sinkfluges  
+im Leerlauf bei konstanter Geschwindigkeit der Propellerverstellhebel nach hinten  
+gezogen wird?    
+<response>Propellersteigung wird größer. Sinkrate wird größer.</response>
+<response stimmt="True">Propellersteigung wird größer. Sinkrate wird kleiner.</response>
+<response>Propellersteigung wird kleiner. Sinkrate wird kleiner.</response>
+<response>Propellersteigung wird kleiner. Sinkrate wird größer.</response>
+</question>
+
+<question id="102" punkte="1.0" category="PFA" img="PFA-008">
+Der in der Polare bezeichnete Punkt 1 kennzeichnet welchen Flugzustand?  
+Siehe Bild (PFA-008)    
+<response>Strömungsabriss (stall)</response>
+<response>Langsamflug</response>
+<response>Bestes Gleiten</response>
+<response stimmt="True">Rückenflug</response>
+</question>
+
+<question id="103" punkte="1.0" category="PFA" img="PFA-008">
+Der in der Polare bezeichnete Punkt 5 kennzeichnet welchen Flugzustand?  
+Siehe Bild (PFA-008)     
+<response>Bestes Gleiten</response>
+<response>Strömungsabriss (stall)</response>
+<response stimmt="True">Langsamflug</response>
+<response>Rückenflug</response>
+</question>
+
+<question id="104" punkte="1.0" category="PFA">
+Die Schräglage (bank) in einer 2-Minuten Kurve (rate one turn) hängt von welchem der  
+aufgeführten Faktoren ab?    
+<response>Dem Lastvielfachen</response>
+<response>Dem Wind</response>
+<response>Dem Gewicht</response>
+<response stimmt="True">Der TAS</response>
+</question>
+
+<question id="105" punkte="1.0" category="PFA">
+Wie verhalten sich das Lastvielfache (n) und die Strömungsabrissgeschwindigkeit  
+(Vs) im koordinierten Kurvenflug?    
+<response>n ist kleiner als 1 und Vs ist kleiner als im Horizontalflug</response>
+<response stimmt="True">n ist größer als 1 und Vs ist größer als im Horizontalflug</response>
+<response>n ist größer als 1 und Vs ist kleiner als im Horizontalflug</response>
+<response>n ist kleiner als 1 und Vs größer als im Horizontalflug</response>
+</question>
+
+<question id="106" punkte="1.0" category="PFA">
+Wie wird das Kräftegleichgewicht aus Auftriebskraft und Schwerkraft im Kurvenflug  
+beeinflusst?    
+<response>Die resultierende Scheingewichtskraft im Kurvenflug ist kleiner als im Geradeausflug</response>
+<response>Die horizontale Komponente der Auftriebskraft bei Querlage ist die Zentrifugalkraft</response>
+<response stimmt="True">Die Auftriebskraft muss erhöht werden, um die größere Scheingewichtskraft auszugleichen</response>
+<response>Die Scheingewichtskraft ergibt sich als Resultierende aus Schwerkraft und Zentripetalkraft</response>
+</question>
+
+</source>
+
+<source url="ecqb-ppl.aircademy.com" file="ECQB-PPLA-51-OPR_DE.pdf" version="2018.3" sha256="0000000000000000" date="16-01-2019 12:23">
+
+
+<question id="1" punkte="1.0" category="OPR">
+Der Begriff "Flugzeit" ist definiert als...
+<response>die Gesamtzeit zwischen dem Beginn des Startlaufs auf der Piste bis zum Berühren der Piste bei der Landung.</response>
+<response stimmt="True">die Gesamtzeit zwischen der ersten Bewegung eines Luftfahrzeuges zum Zwecke des Starts bis zum endgültigen Stillstand nach der Landung.</response>
+<response>die Zeit vom Anlassen des Triebwerks vor dem Rollen bis zum Aussteigen aus dem Luftfahrzeug nach dem Abstellen des Triebwerks.</response>
+<response>die Gesamtzeit zwischen dem ersten Start und der letzten Landung im Rahmen eines oder mehrerer zusammenhängender Flüge.</response>
+</question>
+
+<question id="2" punkte="1.0" category="OPR">
+Bei einem geplanten Flug über Wasser kann während einer gewissen Zeitspanne im Falle einer Notlandung kein Land erreicht werden.
+Worauf ist zu achten?
+<response>Während des gesamten Fluges muss Kontakt zur nächsten Flugverkehrskontrollstelle bestehen</response>
+<response stimmt="True">Für alle Insassen müssen Rettungswesten oder Rettungsboote vorhanden sein</response>
+<response>Während des gesamten Fluges muss der Transpondercode 7600 geschaltet sein</response>
+<response>Der Flugplan für diesen Flug muss die exakten Wegpunkte (waypoints) enthalten</response>
+</question>
+
+<question id="3" punkte="1.0" category="OPR">
+Welche der folgenden Faktoren können einen Einfluss auf die am Boden empfundene Lärmbelästigung durch ein Luftfahrzeug haben?
+1) Triebwerksleistung
+2) Propellerdrehzahl
+3) Fahrwerksstellung
+4) Landeklappenstellung
+5) Wahl des Flugweges
+6) Flughöhe
+7) Flugregeln
+<response>1, 5, 6.</response>
+<response>3, 4, 5, 6, 7.</response>
+<response>1, 5, 6, 7.</response>
+<response stimmt="True">1, 2, 3, 4, 5, 6.</response>
+</question>
+
+<question id="4" punkte="1.0" category="OPR">
+Wie kann der Pilot eines motorgetriebenen Luftfahrzeuges die Lärmemission im Sink- und Anflug minimieren?
+<response>In Landekonfiguration mit angepasster Triebwerksleistung einen Sinkflugwinkel von 3° einhalten, möglichst Direktanflug durchführen</response>
+<response>Niedriger Anflug mit geringstmöglicher Triebwerksleistung, spät konfigurieren und steil sinken, vorgegebene Anflugstrecken einhalten</response>
+<response stimmt="True">Hoher Anflug mit geringstmöglicher Triebwerksleistung, spät sinken und spät konfigurieren, vorgegebene Anflugstrecken einhalten</response>
+<response>Normaler Anflug mit normaler Triebwerksleistung, vor dem Sinkflug konfigurieren, den kürzesten Anflugweg wählen</response>
+</question>
+
+<question id="5" punkte="1.0" category="OPR">
+Wann sollten Kurven aus Lärmschutzgründen in niedrigen Höhen über Ortschaften nicht geflogen werden?
+<response>Während des Landeanflugs</response>
+<response>Im Horizontalflug</response>
+<response>Im Sinkflug</response>
+<response stimmt="True">Im Steigflug</response>
+</question>
+
+<question id="6" punkte="1.0" category="OPR">
+Wie sollten Abflüge in der Nähe von Ortschaften erfolgen?
+<response stimmt="True">Ortschaften möglichst umfliegen oder in ausreichender Höhe überfliegen</response>
+<response>Steigflug und Richtungsänderungen möglichst langsam durchführen</response>
+<response>Langsam und mit geringer Propellerdrehzahl über den Ortschaften fliegen</response>
+<response>Möglichst tief und schnell zwischen den einzelnen Ortschaften abfliegen</response>
+</question>
+
+<question id="7" punkte="1.0" category="OPR">
+Welche Triebwerke sind anfällig für Vergaserbrände?
+<response>Turbinentriebwerke</response>
+<response>Turbopropmotoren</response>
+<response stimmt="True">Kolbentriebwerke</response>
+<response>Elektromotoren</response>
+</question>
+
+<question id="8" punkte="1.0" category="OPR">
+Welche Gefahr kann beim Anlassen des Triebwerks kurz nach dem "Pumpen" am Gashebel entstehen?
+<response>Triebwerkstart mit geringem Drehmoment</response>
+<response>Kondensation und Vergaservereisung</response>
+<response>Zersetzung der Additive im Getriebeöl</response>
+<response stimmt="True">Flammenrückschlag und Vergaserbrand</response>
+</question>
+
+<question id="9" punkte="1.0" category="OPR">
+Welche Gefahr kann beim Anlassen des Motors bestehen?
+<response stimmt="True">Vergaserbrand</response>
+<response>Rauchentwicklung</response>
+<response>Funkenbildung</response>
+<response>Kabelbrand</response>
+</question>
+
+<question id="10" punkte="1.0" category="OPR">
+Warum darf ein Triebwerk, das gebrannt hat, nicht wieder angelassen werden?
+<response>Eine ausreichende Luftzufuhr wäre nicht mehr gewährleistet</response>
+<response>Die Anzeigeelektronik muss durch eine Werft auf Null gestellt werden</response>
+<response stimmt="True">Die Gefahr eines erneuten Aufflammens des Feuers wäre zu groß</response>
+<response>Der Kraftstoff hat seine maximale Betriebstemperatur überschritten</response>
+</question>
+
+<question id="11" punkte="1.0" category="OPR">
+Welches bei einem Triebwerksbrand entstehende Gas ist besonders gefährlich?
+<response>Stickstoff</response>
+<response>Sauerstoff</response>
+<response>Kohlendioxid</response>
+<response stimmt="True">Kohlenmonoxid</response>
+</question>
+
+<question id="12" punkte="1.0" category="OPR">
+Wie wird ein Halonfeuerlöscher korrekt eingesetzt?
+<response stimmt="True">Entsichern. Aufrecht halten. Aus 1 m bis 1,5 m Entfernung auf den Brandherd richten und auslösen.</response>
+<response>Entsichern. Waagerecht halten. So nah wie möglich an den Brandherd bringen und auslösen.</response>
+<response>Entsichern. Aufrecht halten. So nah wie möglich an den Brandherd bringen und auslösen.</response>
+<response>Entsichern. Waagerecht halten. Aus 1 m bis 1,5 m Entfernung auf den Brandherd richten und auslösen.</response>
+</question>
+
+<question id="13" punkte="1.0" category="OPR">
+Was ist beim Einsatz eines Halonfeuerlöschers in der Luftfahrzeugkabine zu beachten?
+<response>Halonfeuerlöscher müssen in einem Stoß entleert werden, weil sich ansonsten giftige Folgeprodukte bilden können.</response>
+<response>Halon besitzt eine kühlende Wirkung; der Brandherd sollte daher nicht zusätzlich mit einer nichtbrennbaren Flüssigkeit nachgelöscht werden.</response>
+<response>Halon kühlt und erstickt das Feuer; Insassen müssen ausreichend gegen Kälte und Sauerstoffmangel geschützt werden.</response>
+<response stimmt="True">Bei Erhitzung kann sich das Löschmittel zu giftigen Folgeprodukten zersetzen; die Kabine muss daher gut ventiliert werden.</response>
+</question>
+
+<question id="14" punkte="1.0" category="OPR">
+Während eines Triebwerksbrandes dringt Rauch in die Kabine ein.
+Welche Maßnahmen sind umgehend zu ergreifen?
+<response>Hauptschalter und Zündung ausschalten</response>
+<response stimmt="True">Heizungsanlage und Lüftungsanlage ausschalten</response>
+<response>Avionik und Kabinenbeleuchtung ausschalten</response>
+<response>Staurohr- und Frontscheibenheizung ausschalten</response>
+</question>
+
+<question id="15" punkte="1.0" category="OPR">
+Welche erste Maßnahme ist bei einem Kabelbrand während des Fluges angemessen?
+<response>Brandhahn schließen</response>
+<response>Kabinenbelüftung öffnen</response>
+<response stimmt="True">Hauptschalter ausschalten</response>
+<response>Fenster öffnen</response>
+</question>
+
+<question id="16" punkte="1.0" category="OPR">
+Welches Löschmittel ist bei Luftfahrzeugbränden am wenigsten geeignet?
+<response stimmt="True">Wasser</response>
+<response>Löschpulver</response>
+<response>Halone</response>
+<response>Löschschaum</response>
+</question>
+
+<question id="17" punkte="1.0" category="OPR">
+Im Reiseflug dringt geringfügig Rauch hinter dem Instrumentenbrett hervor. Der Pilot vermutet einen elektrischen Brand.
+Welche Maßnahme sollte der Pilot unter Berücksichtigung des Flughandbuchs als erstes ergreifen?
+<response>Heizung schließen</response>
+<response>Feuerlöscher einsetzen</response>
+<response stimmt="True">Hauptschalter ausschalten</response>
+<response>Triebwerk abstellen</response>
+</question>
+
+<question id="18" punkte="1.0" category="OPR">
+Im Reiseflug dringt geringfügig Rauch hinter dem Instrumentenbrett hervor. Der Pilot vermutet eine Brandquelle im Motorraum.
+Welche Maßnahme sollte der Pilot unter Berücksichtigung des Flughandbuchs als erstes ergreifen?
+<response>Triebwerk abstellen</response>
+<response>Feuerlöscher einsetzen</response>
+<response>Hauptschalter ausschalten</response>
+<response stimmt="True">Heizung schließen.</response>
+</question>
+
+<question id="19" punkte="1.0" category="OPR">
+Eine Windscherung ist...
+<response>eine Änderung der mittleren Windgeschwindigkeit um mehr als 15 kt.</response>
+<response>die langsame Zunahme der Windgeschwindigkeit in Höhen oberhalb von 13.000 ft.</response>
+<response>ein meteorologisches Fallwind-Phänomen an der Nordseite der Alpen.</response>
+<response stimmt="True">eine vertikale oder horizontale Änderung von Windgeschwindigkeit und Windrichtung.</response>
+</question>
+
+<question id="20" punkte="1.0" category="OPR">
+In welcher der folgenden Situationen kann mit Windscherung (windshear) gerechnet werden?
+<response>Bei Windstille an einem winterlichen Tag</response>
+<response stimmt="True">Während einer Inversionswetterlage</response>
+<response>An Sommertagen mit südöstlicher Windlage</response>
+<response>Bei dem Durchgang einer Warmfront</response>
+</question>
+
+<question id="21" punkte="1.0" category="OPR">
+Während des Anfluges gerät das Luftfahrzeug in eine Windscherung (windshear) mit abnehmendem Gegenwind.
+Wie ändern sich der Anflugpfad und die wahre Eigengeschwindigkeit (TAS), wenn der Pilot keine Korrekturen vornimmt?
+<response>Anflugpfad wird tiefer. TAS wird zunehmen.</response>
+<response stimmt="True">Anflugpfad wird tiefer. TAS wird abnehmen.</response>
+<response>Anflugpfad wird höher. TAS wird abnehmen.</response>
+<response>Anflugpfad wird höher. TAS wird zunehmen.</response>
+</question>
+
+<question id="22" punkte="1.0" category="OPR">
+Während des Anfluges gerät das Luftfahrzeug in eine Windscherung (windshear) mit zunehmendem Gegenwind.
+Wie ändern sich der Anflugpfad und die wahre Eigengeschwindigkeit (TAS), wenn der Pilot keine Korrekturen vornimmt?
+<response>Anflugpfad wird höher. TAS wird abnehmen.</response>
+<response stimmt="True">Anflugpfad wird höher. TAS wird zunehmen.</response>
+<response>Anflugpfad wird tiefer. TAS wird zunehmen.</response>
+<response>Anflugpfad wird tiefer. TAS wird abnehmen.</response>
+</question>
+
+<question id="23" punkte="1.0" category="OPR">
+Während des Anfluges gerät das Luftfahrzeug in eine Windscherung (windshear) mit abnehmendem Rückenwind.
+Wie ändern sich der Anflugpfad und die wahre Eigengeschwindigkeit (TAS), wenn der Pilot keine Korrekturen vornimmt?
+<response>Anflugpfad wird höher. TAS wird abnehmen.</response>
+<response>Anflugpfad wird tiefer. TAS wird abnehmen.</response>
+<response>Anflugpfad wird tiefer. TAS wird zunehmen.</response>
+<response stimmt="True">Anflugpfad wird höher. TAS wird zunehmen.</response>
+</question>
+
+<question id="24" punkte="1.0" category="OPR">
+Nach dem Start gerät ein Luftfahrzeug in eine Windscherung (windshear) mit abnehmendem Gegenwind.
+Welches sind die Auswirkungen auf das Luftfahrzeug?
+<response>Die Geschwindigkeit über Grund (groundspeed - GS) nimmt ab</response>
+<response>Die wahre Eigengeschwindigkeit (true airspeed - TAS) steigt an</response>
+<response stimmt="True">Das Luftfahrzeug fliegt unterhalb des vorgesehenen Steigpfades</response>
+<response>Das Luftfahrzeug fliegt oberhalb des vorgesehenen Steigpfades</response>
+</question>
+
+<question id="25" punkte="1.0" category="OPR" img="OPR-001">
+Womit ist an Punkt 2 der abgebildeten Fallböe zu rechnen?
+Siehe Bild (OPR-001).
+<response stimmt="True">Abnahme der Steigrate</response>
+<response>Geschwindigkeitszunahme</response>
+<response>Abnahme der Sinkrate</response>
+<response>Konstante Sinkrate</response>
+</question>
+
+<question id="26" punkte="1.0" category="OPR" img="OPR-001">
+Womit ist an Punkt 3 der abgebildeten Fallböe zu rechnen?
+Siehe Bild (OPR-001).
+<response>Abnahme der Sinkrate</response>
+<response stimmt="True">Geschwindigkeitsabnahme</response>
+<response>Konstante Sinkrate</response>
+<response>Geschwindigkeitszunahme</response>
+</question>
+
+<question id="27" punkte="1.0" category="OPR">
+Wie lässt sich das Einfliegen in Scherwinde (windshear) vermeiden?
+<response>Auf Starts und Landungen im Gebirge wenn möglich verzichten und ins Flachland ausweichen</response>
+<response>Thermisch aktive Gebiete im Sommer umfliegen oder unterfliegen</response>
+<response stimmt="True">Während des Durchzugs von starken Schauern oder Gewittern nicht starten oder landen</response>
+<response>Niederschlagsgebiete vor allem im Winter großräumig umfliegen und niedrige Flughöhen aufsuchen</response>
+</question>
+
+<question id="28" punkte="1.0" category="OPR">
+Wie sollte beim Einflug in eine Windscherung unter Berücksichtigung des Flughandbuchs verfahren werden?
+1. Reduzierung der Geschwindigkeit.
+2. Fahrwerk und Klappen einfahren.
+3. Gegenwärtige Konfiguration beibehalten.
+4. Schub anpassen.
+<response>1 und 2</response>
+<response stimmt="True">3 und 4</response>
+<response>2 und 4</response>
+<response>1 und 3</response>
+</question>
+
+<question id="29" punkte="1.0" category="OPR">
+Nach dem Abheben von einem Flugplatz steigt die Geschwindigkeit im Anfangssteigflug wesentlich stärker an als erwartet.
+Welche Entwicklung ist zu erwarten, falls in eine Fallböe (microburst) eingeflogen wurde?
+<response>Zunahme der Steigrate und Zunahme der Fluggeschwindigkeit</response>
+<response>Zunahme der Steigrate und Abnahme der Fluggeschwindigkeit</response>
+<response>Abnahme der Steigrate und Zunahme der Fluggeschwindigkeit</response>
+<response stimmt="True">Abnahme der Steigrate und Abnahme der Fluggeschwindigkeit</response>
+</question>
+
+<question id="30" punkte="1.0" category="OPR">
+Unmittelbar nach dem Start wird in eine starke Fallböe (microburst) eingeflogen.
+Durch welche Reaktion lässt sich ein unbeabsichtigtes Sinken vermeiden?
+<response stimmt="True">Maximale Triebwerksleistung setzen, aktuelle Konfiguration beibehalten und mit der Geschwindigkeit der besten Steigrate weitersteigen</response>
+<response>Reiseleistung setzen, Fahrwerk und Landeklappen einfahren und nach links oder rechts aus dem Bereich der Fallböe hinaus kurven</response>
+<response>Maximale Triebwerksleistung setzen, Landekonfiguration einnehmen und Geschwindigkeit möglichst schnell abbauen</response>
+<response>Reiseleistung setzen, Fahrwerk und Landeklappen einfahren, Längsneigung bis zur optimalen Steiggeschwindigkeit vergrößern</response>
+</question>
+
+<question id="31" punkte="1.0" category="OPR">
+Wirbelschleppen entstehen beim Start, sobald das Luftfahrzeug...
+<response>eine Höhe von 15 ft erreicht.</response>
+<response>mit dem Hauptfahrwerk abhebt.</response>
+<response stimmt="True">mit dem Bugrad abhebt.</response>
+<response>beschleunigt.</response>
+</question>
+
+<question id="32" punkte="1.0" category="OPR">
+Wodurch entstehen Wirbelschleppen?
+<response>Durch den Abgasstrahl von Strahltriebwerken</response>
+<response>Durch Scherwinde im Bereich der Tragflächenenden</response>
+<response>Durch Verwirbelungen im Lee von Gebirgen</response>
+<response stimmt="True">Durch den Druckausgleich am Randbogen einer Tragfläche</response>
+</question>
+
+<question id="33" punkte="1.0" category="OPR">
+Wirbelschleppen sind besonders stark, wenn ein Flugzeug...
+<response>schnell fliegt.</response>
+<response>hoch fliegt.</response>
+<response stimmt="True">langsam fliegt.</response>
+<response>niedrig fliegt.</response>
+</question>
+
+<question id="34" punkte="1.0" category="OPR">
+Wirbelschleppen sind besonders stark, wenn ein Flugzeug...
+<response>mit hohem Schub fliegt.</response>
+<response>eine geringe Masse hat.</response>
+<response>mit geringem Schub fliegt.</response>
+<response stimmt="True">eine große Masse hat.</response>
+</question>
+
+<question id="35" punkte="1.0" category="OPR">
+Die Stärke von Wirbelschleppen ist abhängig von...
+<response>der Propellersteigung.</response>
+<response stimmt="True">dem Gewicht.</response>
+<response>der Flughöhe.</response>
+<response>der Temperatur.</response>
+</question>
+
+<question id="36" punkte="1.0" category="OPR">
+Zwei Flugzeuge gleichen Musters fliegen bei gleicher Masse und gleicher Klappen- Konfiguration mit verschiedenen Geschwindigkeiten in unterschiedlicher Höhe.
+Welches Flugzeug verursacht stärkere Wirbelschleppen?
+<response>Das höher fliegende Flugzeug</response>
+<response>Das tiefer fliegende Flugzeug</response>
+<response stimmt="True">Das Flugzeug mit geringerer Geschwindigkeit</response>
+<response>Das Flugzeug mit höherer Geschwindigkeit</response>
+</question>
+
+<question id="37" punkte="1.0" category="OPR">
+Auf einer langen Piste soll mit einem Luftfahrzeug unter zwei Tonnen Abflugmasse kurz hinter einem Verkehrsflugzeug der Wirbelschleppenkategorie "Medium" oder "Heavy" gelandet werden.
+Wie kann der Wirbelschleppenbereich des Verkehrsflugzeuges gemieden werden?
+<response stimmt="True">Durch einen hohen Anflug und eine Landung hinter dem Punkt, an dem das Bugfahrwerk des Verkehrsflugzeuges aufgesetzt hat</response>
+<response>Durch einen flachen Anflug und eine Landung hinter dem Punkt, an dem das Bugfahrwerk des Verkehrsflugzeuges aufgesetzt hat</response>
+<response>Durch einen hohen Anflug und eine sehr kurze Landung, um vor dem Aufsetzpunkt des Verkehrsflugzeuges zum Stillstand zu kommen</response>
+<response>Durch einen flachen Anflug und eine sehr kurze Landung, um vor dem Aufsetzpunkt des Verkehrsflugzeuges zum Stillstand zu kommen</response>
+</question>
+
+<question id="38" punkte="1.0" category="OPR">
+Was ist beim Rollen / Manövrieren hinter einem Verkehrsflugzeug zu beachten?
+<response>Aufgrund der Wirbelschleppen sollten mindestens 300 m Abstand gehalten werden</response>
+<response>Aufgrund der Wirbelschleppen sollten mindestens 700 m Abstand gehalten werden</response>
+<response>Aufgrund des Abgasstrahls sollten mindestens 600 m Abstand gehalten werden</response>
+<response stimmt="True">Aufgrund des Abgasstrahls sollten mindestens 200 m Abstand gehalten werden</response>
+</question>
+
+<question id="39" punkte="1.0" category="OPR">
+Welches Verfahren ist geeignet, um auf ein unvorbereitetes Außenlandefeld anzufliegen?
+<response>Flugsicherung informieren und technische Unterstützung anfordern, im Flughandbuch nach einer fachlichen Referenz suchen und Notlandung durchführen.</response>
+<response>Notruf absetzen, zutreffendes Notverfahren abarbeiten, so weit wie möglich in Richtung eines Flugplatzes fliegen, um den Rettungskräften entgegen zu kommen.</response>
+<response stimmt="True">Geeignetes Landefeld lokalisieren, Anflug planen, zutreffendes Notverfahren abarbeiten, Notruf absetzen, rechtzeitig voll konzentriert mit dem Anflug beginnen.</response>
+<response>Geschwindigkeit verringern und Landekonfiguration herstellen, um Zeit zu gewinnen, Notruf absetzen, zutreffendes Notverfahren abarbeiten, Notlandung durchführen.</response>
+</question>
+
+<question id="40" punkte="1.0" category="OPR">
+Welches der angegebenen Gelände ist für eine Außenlandung am besten geeignet?
+<response>Sportplatz in einer Ortschaft</response>
+<response stimmt="True">Abgeerntetes Getreidefeld</response>
+<response>Lichtung mit langem trockenem Gras</response>
+<response>Gepflügter Acker</response>
+</question>
+
+<question id="41" punkte="1.0" category="OPR">
+Bei einer Notlandung handelt es sich immer um eine...
+<response>zur Aufrechterhaltung der Sicherheit durchgeführte Landung.</response>
+<response>Landung ohne Triebwerkshilfe.</response>
+<response stimmt="True">durch die Umstände erzwungene Landung.</response>
+<response>Landung ohne Landeklappen.</response>
+</question>
+
+<question id="42" punkte="1.0" category="OPR">
+Wie wird eine durch die Umstände erzwungene Landung bezeichnet?
+<response>Sicherheitslandung</response>
+<response stimmt="True">Notlandung</response>
+<response>Außenlandung</response>
+<response>Dringlichkeitslandung</response>
+</question>
+
+<question id="43" punkte="1.0" category="OPR">
+Bei einer Sicherheitslandung handelt es sich immer um eine...
+<response stimmt="True">zur Aufrechterhaltung der Sicherheit durchgeführte Landung.</response>
+<response>Landung ohne Landeklappen.</response>
+<response>durch die Umstände erzwungene Landung.</response>
+<response>Landung ohne Triebwerkshilfe.</response>
+</question>
+
+<question id="44" punkte="1.0" category="OPR">
+Welches der genannten Gelände eignet sich am besten für eine Außenlandung?
+<response stimmt="True">Ein hellbrauner Acker mit kurzem Bewuchs</response>
+<response>Ein See mit ruhiger Wasseroberfläche</response>
+<response>Eine grüne Wiese ohne Tiere</response>
+<response>Ein Feld mit wogendem reifem Getreide</response>
+</question>
+
+<question id="45" punkte="1.0" category="OPR">
+Nach einer Sicherheitslandung sind die Bremsen und Reifen stark erhitzt.
+Wie sollte sich der Pilot den Reifen nur nähern?
+<response stimmt="True">Von der Vorder- oder Rückseite</response>
+<response>Von der linken oder rechten Seite</response>
+<response>Von vorne oder der Außenseite</response>
+<response>Diagonal in 45°-Winkeln</response>
+</question>
+
+<question id="46" punkte="1.0" category="OPR">
+Was muss bei überhitzten Bremsen beachtet werden?
+<response>Es kann zum Bersten von Reifen in Radial- oder Laufrichtung kommen</response>
+<response stimmt="True">Es kann zum Bersten von Reifen in Axialrichtung kommen</response>
+<response>Die Bremsen müssen umgehend mit Halon gekühlt werden</response>
+<response>Die Fahrwerksverkleidung sollte zur Kühlung abmontiert werden</response>
+</question>
+
+<question id="47" punkte="1.0" category="OPR">
+Wann sollten die Schwimmwesten nach einer Notwasserung aufgeblasen werden?
+<response>Noch im Luftfahrzeug</response>
+<response stimmt="True">Außerhalb des Luftfahrzeuges</response>
+<response>Beim Verlassen des Luftfahrzeuges</response>
+<response>In einer sicheren Entfernung (ca. 10 m) zum Luftfahrzeug</response>
+</question>
+
+<question id="48" punkte="1.0" category="OPR">
+Wie wirkt sich feuchtes Gras auf die Start- und Landestrecke aus?
+<response>Verkürzung der Startstrecke und Verkürzung der Landestrecke</response>
+<response>Verlängerung der Startstrecke und Verkürzung der Landestrecke</response>
+<response stimmt="True">Verlängerung der Startstrecke und Verlängerung der Landestrecke</response>
+<response>Verkürzung der Startstrecke und Verlängerung der Landestrecke</response>
+</question>
+
+<question id="49" punkte="1.0" category="OPR">
+Eine Piste gilt als kontaminiert, wenn...
+<response>die Pistenoberfläche innerhalb der benötigten Länge und Breite zu mehr als 50% durch Verunreinigungen wie Schnee, Reif, Eis oder Sand bedeckt ist.</response>
+<response>mehr als 50% der Pistenoberfläche innerhalb der benötigten Länge und Breite durch mehr als 3 mm Wasser, Schneematsch, Schnee oder Eis bedeckt sind.</response>
+<response stimmt="True">mehr als 25% der Pistenoberfläche innerhalb der benötigten Länge und Breite durch mehr als 3 mm Wasser, Schneematsch, Schnee oder Eis bedeckt sind.</response>
+<response>die Pistenoberfläche innerhalb der benötigten Länge und Breite zu 75% durch Verunreinigungen wie Schnee, Reif, Eis oder Sand bedeckt ist.</response>
+</question>
+
+<question id="50" punkte="1.0" category="OPR">
+Welchen Bedeckungsgrad mit Eis oder kompaktem Schnee muss eine Piste mindestens aufweisen, wenn diese als "kontaminiert" bezeichnet wird?
+<response stimmt="True"> 25 %</response>
+<response> 10 %</response>
+<response> 50 %</response>
+<response> 75 %</response>
+</question>
+
+<question id="51" punkte="1.0" category="OPR">
+Welche Gefahr geht von nassem Schnee auf der Piste aus?
+<response>Verringerung des Rollwiderstandes</response>
+<response>Vergaservereisung</response>
+<response>Verringerung des Auftriebs</response>
+<response stimmt="True">Erhöhung des Rollwiderstandes</response>
+</question>
+
+<question id="52" punkte="1.0" category="OPR">
+Welche Gefahr geht von stehendem Wasser auf der Piste aus?
+<response stimmt="True">Erhöhung des Rollwiderstandes</response>
+<response>Verringerung des Rollwiderstandes</response>
+<response>Erhöhung des Auftriebs</response>
+<response>Verringerung des Auftriebs</response>
+</question>
+
+<question id="53" punkte="1.0" category="OPR">
+Welche Gefahr besteht bei einer Landung nach einem starken Regenschauer?
+<response stimmt="True">Längerer Bremsweg durch Aquaplaning</response>
+<response>Verschiebung der Rutschmarkierung am Reifen</response>
+<response>Verkürzter Bremsweg durch Aquaplaning</response>
+<response>Schwierigkeiten beim Abfangen durch Blendung</response>
+</question>
+
+<question id="54" punkte="1.0" category="OPR">
+Welche Reaktion ist angemessen, wenn bei einer Landung Aquaplaning vermutet wird?
+<response>Zunächst stark bremsen, unterhalb der Aquaplaning-Geschwindigkeit normal ausrollen</response>
+<response stimmt="True">Bei drehenden Rädern mäßig bremsen; die Richtung mit aerodynamischen Mitteln halten</response>
+<response>Seiten- und Querruder kreuzen, um mit dem Rumpf aerodynamisch zu bremsen</response>
+<response>Leicht Gas geben und aerodynamisch mit Hilfe von Landeklappen und Spoilern bremsen</response>
+</question>
+
+<question id="55" punkte="1.0" category="OPR">
+Was gibt der Bremskoeffizient an?
+<response>Das Verhältnis zwischen aufgewendeter Bremskraft und Landerollstrecke</response>
+<response stimmt="True">Das Verhältnis zwischen Reibungskraft und Anpresskraft zwischen zwei Körpern</response>
+<response>Das Verhältnis zwischen Corioliskraft und Anpresskraft zwischen zwei Körpern</response>
+<response>Das Verhältnis zwischen aufgewendeter Bremskraft und Landestrecke</response>
+</question>
+
+<question id="56" punkte="1.0" category="OPR">
+Wie sollte die Landung auf einer kontaminierten Piste mit schlechten Bremswerten durchgeführt werden, wenn sich diese nicht vermeiden lässt?
+<response>Bei möglichst geringer Seitenwindkomponente mit minimaler Landeklappenstellung und positiver Längsneigung so weich wie möglich aufsetzen und nicht bremsen.</response>
+<response stimmt="True">Bei möglichst geringer Seitenwindkomponente mit maximaler Landeklappenstellung, positiver Längsneigung und Mindestfahrt aufsetzen, vorsichtig bremsen.</response>
+<response>Bei möglichst geringer Seitenwindkomponente mit minimaler Landeklappenstellung und Mindestfahrt so weich wie möglich aufsetzen und nicht bremsen.</response>
+<response>Bei möglichst geringer Seitenwindkomponente mit maximaler Landeklappenstellung, negativer Längsneigung und Mindestfahrt aufsetzen, vorsichtig bremsen.</response>
+</question>
+
+<question id="57" punkte="1.0" category="OPR">
+Welche der folgenden Wettererscheinungen, die im Zusammenhang mit Frontgewittern auftreten können, stellt im Landeanflug die größte Gefahr dar?
+<response stimmt="True">Böen</response>
+<response>Druckabfall</response>
+<response>Niederschlag</response>
+<response>Temperaturrückgang</response>
+</question>
+
+</source>
+
+<source url="ecqb-ppl.aircademy.com" file="ECQB-PPLA-51-HPL_DE.pdf" version="2018.3" sha256="0000000000000000" date="16-01-2019 11:22">
+
+  <question id="1" punkte="1.0" category="HPL">
+    Welcher Faktor ist ursächlich für die größte Zahl der Luftfahrt-Unfälle?
+    <response stimmt="True">Menschliches Versagen</response>
+    <response>Technisches Versagen</response>
+    <response>Geografische Einflüsse</response>
+    <response>Meteorologische Einflüsse</response>
+  </question>
+  <question id="2" punkte="1.0" category="HPL" img="HPL-001">
+    Das "E" im SHELL Model steht für...
+Siehe Bild (HPL-001)
+    <response>Effective</response>
+    <response stimmt="True">Environment</response>
+    <response>Equipment</response>
+    <response>Enroute</response>
+  </question>
+  <question id="3" punkte="1.0" category="HPL" img="HPL-001">
+    Das "L" im Shell-Modell steht für...
+Siehe Bild (HPL-001)
+    <response stimmt="True">Liveware.</response>
+    <response>Line check.</response>
+    <response>Loss of control.</response>
+    <response>Lift.</response>
+  </question>
+  <question id="4" punkte="1.0" category="HPL">
+    Was erläutert das "Schweizer Käse Modell"?
+    <response>Das Verfahren bei einer Notlandung</response>
+    <response stimmt="True">Das Prinzip der Fehlerkette</response>
+    <response>Den optimalen Problemlösungsweg</response>
+    <response>Die Handlungsbereitschaft des Piloten</response>
+  </question>
+  <question id="5" punkte="1.0" category="HPL">
+    Welche beiden Parameter sind bei einer Risikobewertung zu berücksichtigen?
+    <response>Bekanntheitsgrad und Vorschriftenlage</response>
+    <response>Eintrittswahrscheinlichkeit und eigene Erfahrung</response>
+    <response stimmt="True">Eintrittswahrscheinlichkeit und Schwere der Folgen</response>
+    <response>Schwere der Folgen und Versicherungssumme</response>
+  </question>
+  <question id="6" punkte="1.0" category="HPL">
+    Welchen Sauerstoffanteil hat Luft in einer Höhe von ungefähr 6.000 ft?
+    <response>78%</response>
+    <response>18,9%</response>
+    <response stimmt="True">21%</response>
+    <response>12%</response>
+  </question>
+  <question id="7" punkte="1.0" category="HPL">
+    Welches Gasgesetz ist für die Dekompressionserkrankung verantwortlich?
+    <response>Das Gasgesetz von Boyle-Mariotte</response>
+    <response>Das Gasgesetz von Bohr</response>
+    <response>Das Gasgesetz von Dalton</response>
+    <response stimmt="True">Das Gasgesetz von Henry</response>
+  </question>
+  <question id="8" punkte="1.0" category="HPL">
+    Wie hoch ist der Gasanteil von Stickstoff in der Luft?
+    <response>21%</response>
+    <response>1%</response>
+    <response stimmt="True">78%</response>
+    <response>0,1%</response>
+  </question>
+  <question id="9" punkte="1.0" category="HPL">
+    In welcher Höhe hat sich der atmosphärische Druck in Bezug auf den Standardluftdruck in MSL (1.013 hPa) halbiert?
+    <response stimmt="True">18.000 Fuß</response>
+    <response>5.000 Fuß</response>
+    <response>10.000 Fuß</response>
+    <response>22.000 Fuß</response>
+  </question>
+  <question id="10" punkte="1.0" category="HPL">
+    Luft besteht aus Sauerstoff, Stickstoff und anderen Gasen.
+Welcher Anteil der Zusammensetzung entfällt dabei auf die anderen Gase?
+    <response>0,1%</response>
+    <response>78%</response>
+    <response>21%</response>
+    <response stimmt="True">1%</response>
+  </question>
+  <question id="11" punkte="1.0" category="HPL">
+    Durch welchen der aufgeführten Faktoren kann eine Kohlenmonoxidvergiftung ausgelöst werden?
+    <response>Alkohol</response>
+    <response>Ungesundes Essen</response>
+    <response stimmt="True">Rauchen</response>
+    <response>Wenig Schlaf</response>
+  </question>
+  <question id="12" punkte="1.0" category="HPL">
+    Was ist ein "redout"?
+    <response>Eine durch Verletzung bedingte starke Blutarmut</response>
+    <response>Ein Hautausschlag bei Dekompressionserkrankungen</response>
+    <response stimmt="True">Das "Rot-sehen" bei negativen g-Belastungen</response>
+    <response>Die Farbverfälschung bei Sonnenauf- und -untergang</response>
+  </question>
+  <question id="13" punkte="1.0" category="HPL">
+    Welche Risiken bestehen bei der Nutzung von Pulsoximetern?
+    <response stimmt="True">Hyperventilation wird von einem Pulsoximeter nicht erkannt</response>
+    <response>Pulsoximeter funktionieren nicht unterhalb von 10.000 ft</response>
+    <response>Pulsoximeter stören die Avionik und beeinflussen den Sprechfunk</response>
+    <response>Ein Pulsoximeter kann maximal zwei Mal verwendet werden</response>
+  </question>
+  <question id="14" punkte="1.0" category="HPL">
+    Wodurch kann eine Kohlenmonoxidvergiftung verursacht werden?
+    <response>Generatorausfall</response>
+    <response>Kraftstoff oder Hydraulikflüssigkeit</response>
+    <response>Staurohrvereisung</response>
+    <response stimmt="True">Risse im Wärmetauscher</response>
+  </question>
+  <question id="15" punkte="1.0" category="HPL">
+    Welches ist KEIN Symptom von Hyperventilation (beschleunigte Atmung)?
+    <response stimmt="True">Zyanose</response>
+    <response>Krämpfe</response>
+    <response>Kribbeln</response>
+    <response>Bewusstseinsstörung</response>
+  </question>
+  <question id="16" punkte="1.0" category="HPL">
+    Welche der folgenden Symptome können auf Hypoxie (Mangelversorgung des Körpers mit Sauerstoff) hinweisen?
+    <response>Blaue Flecken am ganzen Körper</response>
+    <response stimmt="True">Bläuliche Verfärbung von Lippen und Fingernägeln</response>
+    <response>Muskelkrämpfe im oberen Bereich des Körpers</response>
+    <response>Gelenkschmerzen in den Knien und Füßen</response>
+  </question>
+  <question id="17" punkte="1.0" category="HPL">
+    Welcher der menschlichen Sinne wird am ehesten von Hypoxie (Mangelversorgung des Körpers mit Sauerstoff) beeinflusst?
+    <response>Die auditive Wahrnehmung (Hören)</response>
+    <response>Die taktile Wahrnehmung (Tasten)</response>
+    <response stimmt="True">Die visuelle Wahrnehmung (Sehen)</response>
+    <response>Die olfaktorische Wahrnehmung (Riechen)</response>
+  </question>
+  <question id="18" punkte="1.0" category="HPL">
+    Ab welcher ungefähren Flughöhe reagiert der Körper im Normalfall auf den abnehmenden atmosphärischen Luftdruck?
+    <response>10.000 Fuß</response>
+    <response stimmt="True">7.000 Fuß</response>
+    <response>2.000 Fuß</response>
+    <response>12.000 Fuß</response>
+  </question>
+  <question id="19" punkte="1.0" category="HPL">
+    Ab welcher Höhe ist der Körper nicht mehr in der Lage, die Auswirkungen des niedrigen atmosphärischen Luftdrucks vollständig zu kompensieren (Störschwelle)?
+    <response stimmt="True">12.000 Fuß</response>
+    <response>7.000 Fuß</response>
+    <response>5.000 Fuß</response>
+    <response>22.000 Fuß</response>
+  </question>
+  <question id="20" punkte="1.0" category="HPL">
+    Welche Funktion haben die roten Blutkörperchen (Erythrozyten)?
+    <response stimmt="True">Sauerstofftransport</response>
+    <response>Blutzuckerregulation</response>
+    <response>Blutgerinnung</response>
+    <response>Immunabwehr</response>
+  </question>
+  <question id="21" punkte="1.0" category="HPL">
+    Wodurch ist die Blutgerinnung gewährleistet?
+    <response stimmt="True">Die Blutplättchen (Thrombozyten)</response>
+    <response>Die roten Blutzellen (Erythrozyten)</response>
+    <response>Die Kapillare der Arterien</response>
+    <response>Die weißen Blutzellen (Leukozyten)</response>
+  </question>
+  <question id="22" punkte="1.0" category="HPL">
+    Welche Funktion haben die weißen Blutkörperchen (Leukozyten)?
+    <response>Sauerstofftransport</response>
+    <response>Blutgerinnung</response>
+    <response>Blutzuckerregulation</response>
+    <response stimmt="True">Immunabwehr</response>
+  </question>
+  <question id="23" punkte="1.0" category="HPL">
+    Welche Aufgabe haben die Blutplättchen (Thrombozyten)?
+    <response>Sauerstofftransport</response>
+    <response stimmt="True">Blutgerinnung</response>
+    <response>Blutzuckerregulation</response>
+    <response>Immunabwehr</response>
+  </question>
+  <question id="24" punkte="1.0" category="HPL">
+    Welches ist KEIN Risikofaktor für Hypoxie?
+    <response>Rauchen</response>
+    <response>Blutspenden</response>
+    <response stimmt="True">Tauchen</response>
+    <response>Menstruation</response>
+  </question>
+  <question id="25" punkte="1.0" category="HPL">
+    Anämische Hypoxie kann ausgelöst werden durch...
+    <response>niedrigen Druck.</response>
+    <response>große Flughöhen.</response>
+    <response stimmt="True">Kohlenmonoxidvergiftung.</response>
+    <response>Alkohol.</response>
+  </question>
+  <question id="26" punkte="1.0" category="HPL">
+    Welche Hypoxie kann durch große Flughöhen verursacht werden?
+    <response stimmt="True">Hypoxische Hypoxie</response>
+    <response>Stagnierende Hypoxie</response>
+    <response>Anämische Hypoxie</response>
+    <response>Histotoxische Hypoxie</response>
+  </question>
+  <question id="27" punkte="1.0" category="HPL">
+    Welches Verhalten ist angebracht, wenn sich ein Passagier im Reiseflug plötzlich unwohl fühlt?
+    <response>Heizungslüftungsmotor einschalten und Wärmedecken bereitstellen</response>
+    <response>Gespräche vermeiden und höhere Fluggeschwindigkeit wählen</response>
+    <response>Zusatzsauerstoff verabreichen und geringe Lastvielfache vermeiden</response>
+    <response stimmt="True">Kabinentemperatur anpassen und erhöhte Querlagen vermeiden</response>
+  </question>
+  <question id="28" punkte="1.0" category="HPL">
+    Wie wird eine stereotype und unwillkürliche Reaktion des Organismus auf die Stimulation von Rezeptoren genannt?
+    <response stimmt="True">Reflex</response>
+    <response>Reduktion</response>
+    <response>Kohärenz</response>
+    <response>Virulenz</response>
+  </question>
+  <question id="29" punkte="1.0" category="HPL">
+    Wie wird das System bezeichnet, das u.a. die Atmung, die Verdauung und die Herzfrequenz kontrolliert?
+    <response>Kritisches Nervensystem</response>
+    <response stimmt="True">Autonomes Nervensystem</response>
+    <response>Konformes Nervensystem</response>
+    <response>Automatisches Nervensystem</response>
+  </question>
+  <question id="30" punkte="1.0" category="HPL">
+    Ab welcher ungefähren Flughöhe ist die Nachtsehfähigkeit bereits eingeschränkt?
+    <response>3.000 Fuß</response>
+    <response stimmt="True">5.000 Fuß</response>
+    <response>7.000 Fuß</response>
+    <response>10.000 Fuß</response>
+  </question>
+  <question id="31" punkte="1.0" category="HPL">
+    Was ist der "Parallaxe-Fehler"?
+    <response>Ein Kodierungsfehler bei der Kommunikation zwischen Piloten</response>
+    <response stimmt="True">Ein fehlerhaftes Ablesen der Instrumente in Abhängigkeit vom Betrachtungswinkel</response>
+    <response>Eine altersbedingte Neigung zur Weitsichtigkeit, insbesondere nachts</response>
+    <response>Eine Fehleinschätzung der Geschwindigkeit beim Rollen</response>
+  </question>
+  <question id="32" punkte="1.0" category="HPL">
+    Welche Eigenschaft ist bei einer Sonnenbrille wichtig, sofern sie von Piloten verwendet wird?
+    <response>Gekrümmte Bügel</response>
+    <response stimmt="True">Nicht polarisiert</response>
+    <response>Unzerbrechlich</response>
+    <response>Kein UV Filter</response>
+  </question>
+  <question id="33" punkte="1.0" category="HPL">
+    Welche Zeit wird für die Anpassung des Sehvermögens an Helligkeit ungefähr benötigt?
+    <response>1 Minute</response>
+    <response>1 Sekunde</response>
+    <response>10 Minuten</response>
+    <response stimmt="True">10 Sekunden</response>
+  </question>
+  <question id="34" punkte="1.0" category="HPL">
+    Welcher Teil des Sehapparates ist für das Farbsehen verantwortlich?
+    <response>Blinder Fleck</response>
+    <response>Stäbchen</response>
+    <response>Gelber Fleck</response>
+    <response stimmt="True">Zapfen</response>
+  </question>
+  <question id="35" punkte="1.0" category="HPL">
+    Die Verbindung zwischen dem Mittelohr und dem Nasen-Rachenraum heißt...
+    <response stimmt="True">Eustachische Röhre.</response>
+    <response>Schnecke.</response>
+    <response>Innenohr.</response>
+    <response>Trommelfell.</response>
+  </question>
+  <question id="36" punkte="1.0" category="HPL">
+    In welcher Situation ist ein Druckausgleich zwischen dem Mittelohr und der Umgebung nicht möglich?
+    <response>Die Atmung erfolgt nur durch den Mund</response>
+    <response>Bei einem flachen und langsamen Steigflug</response>
+    <response>Bei vollständig geschlossenen Fenstern</response>
+    <response stimmt="True">Die Eustachische Röhre ist blockiert</response>
+  </question>
+  <question id="37" punkte="1.0" category="HPL">
+    Das Ausleiten nach einem längeren Kurvenflug kann dazu führen, dass die Illusion entsteht...
+    <response stimmt="True">in die Gegenrichtung zu kurven.</response>
+    <response>in die gleiche Richtung weiter zu kurven.</response>
+    <response>in den Sinkflug überzugehen.</response>
+    <response>in den Steigflug überzugehen.</response>
+  </question>
+  <question id="38" punkte="1.0" category="HPL">
+    Welche Situation unterstützt NICHT das Auftreten der Bewegungskrankheit (Desorientierung)?
+    <response stimmt="True">Unbeschleunigter Geradeausflug</response>
+    <response>Turbulenzen im Geradeausflug</response>
+    <response>Fliegen unter Alkoholeinfluss</response>
+    <response>Kopfbewegungen während des Kurvenfluges</response>
+  </question>
+  <question id="39" punkte="1.0" category="HPL">
+    Während der Beschleunigung im Geradeausflug besteht die Gefahr der Illusion...
+    <response stimmt="True">eines Steigfluges.</response>
+    <response>einer Schräglage.</response>
+    <response>eines Rückenfluges.</response>
+    <response>eines Sinkfluges.</response>
+  </question>
+  <question id="40" punkte="1.0" category="HPL">
+    Während einer starken Geschwindigkeitsabnahme im Geradeausflug besteht die Gefahr der Illusion...
+    <response>eines Kurvenfluges.</response>
+    <response stimmt="True">eines Sinkfluges.</response>
+    <response>eines Steigfluges.</response>
+    <response>eines Rückenfluges.</response>
+  </question>
+  <question id="41" punkte="1.0" category="HPL">
+    Was ist eine "Coriolis-Illusion"?
+    <response>Scheinbare Bewegung von statischen Objekten bei Nacht</response>
+    <response>Eine verfälschte Farbwahrnehmung bei hohen Beschleunigungen</response>
+    <response>Eine falsche Höheneinschätzung während des Landeanfluges</response>
+    <response stimmt="True">Ein starker Drehschwindel durch Kopfbewegungen im Kurvenflug</response>
+  </question>
+  <question id="42" punkte="1.0" category="HPL">
+    Welche optische Täuschung kann im Anflug durch eine ansteigende Piste verursacht werden?
+    <response>Der Pilot hat das Gefühl eines zu schnellen Anflugs und reduziert die Anfluggeschwindigkeit</response>
+    <response stimmt="True">Der Pilot hat das Gefühl eines zu hohen Anflugs und fliegt unterhalb des normalen Gleitpfades an</response>
+    <response>Der Pilot hat das Gefühl eines zu tiefen Anflugs und fliegt oberhalb des normalen Gleitpfades an</response>
+    <response>Der Pilot hat das Gefühl eines zu langsamen Anflugs und erhöht die Anfluggeschwindigkeit</response>
+  </question>
+  <question id="43" punkte="1.0" category="HPL">
+    Welcher Eindruck kann bei einem Anflug auf eine ansteigende Piste entstehen?
+    <response>Eines Zukurzkommens</response>
+    <response stimmt="True">Eines Zuweitkommens</response>
+    <response>Einer harten Landung</response>
+    <response>Einer Landung neben der Pistenmittellinie</response>
+  </question>
+  <question id="44" punkte="1.0" category="HPL">
+    Wann ist die Gefahr des Auftretens eines Drehschwindels am größten?
+    <response>Bei einer Kopfdrehung im Steigflug</response>
+    <response>Bei einer Kopfdrehung im Horizontalflug</response>
+    <response>Bei einer Kopfdrehung im Sinkflug</response>
+    <response stimmt="True">Bei einer Kopfdrehung im Kurvenflug</response>
+  </question>
+  <question id="45" punkte="1.0" category="HPL">
+    Was kann einen "Grey-out" verursachen?
+    <response>Hyperventilation</response>
+    <response stimmt="True">Positive g-Kräfte</response>
+    <response>Hypoxie</response>
+    <response>Müdigkeit</response>
+  </question>
+  <question id="46" punkte="1.0" category="HPL">
+    Optische Täuschungen werden meist ausgelöst durch...
+    <response>binokulares Sehen.</response>
+    <response>schnelle Augenbewegungen.</response>
+    <response>Farbenblindheit.</response>
+    <response stimmt="True">Fehlinterpretationen im Gehirn.</response>
+  </question>
+  <question id="47" punkte="1.0" category="HPL">
+    Der menschliche Schlaf-Wach-Rhythmus basiert auf einem Zyklus von ungefähr...
+    <response>13 Stunden.</response>
+    <response stimmt="True">25 Stunden.</response>
+    <response>10 Stunden.</response>
+    <response>22 Stunden.</response>
+  </question>
+  <question id="48" punkte="1.0" category="HPL">
+    Wie viel Alkohol baut sich bei einem Erwachsenen ungefähr pro Stunde ab?
+    <response>3,0 Promille</response>
+    <response>1,0 Promille</response>
+    <response>0,3 Promille</response>
+    <response stimmt="True">0,1 Promille</response>
+  </question>
+  <question id="49" punkte="1.0" category="HPL">
+    Was ist beim Vergleich zwischen verschreibungspflichtigen und nicht verschreibungspflichtigen Medikamenten zu beachten?
+    <response>Nicht verschreibungspflichtige Medikamente sind ungefährlich, wenn ein Arzt nicht das Gegenteil bestätigt hat</response>
+    <response>Verschreibungspflichtige Medikamente sind nur flugausschließend, wenn es explizit in der Packungsbeilage steht</response>
+    <response>Nicht verschreibungspflichtige Medikamente sind erst ab einer Einnahmedauer von über 10 Tagen meldepflichtig</response>
+    <response stimmt="True">Grundsätzlich sind verschreibungspflichtige und nicht verschreibungspflichtige Medikamente gleich zu behandeln</response>
+  </question>
+  <question id="50" punkte="1.0" category="HPL">
+    Welches ist ein Risikofaktor an Diabetes zu erkranken?
+    <response>Schlafdefizit</response>
+    <response stimmt="True">Übergewicht</response>
+    <response>Rauchen</response>
+    <response>Alkoholkonsum</response>
+  </question>
+  <question id="51" punkte="1.0" category="HPL">
+    Welches ist ein Risikofaktor für die Dekompressionserkrankung?
+    <response>100% Sauerstoff nach Dekompression</response>
+    <response>Rauchen</response>
+    <response>Sport</response>
+    <response stimmt="True">Tauchen vor dem Flug</response>
+  </question>
+  <question id="52" punkte="1.0" category="HPL">
+    Welches der folgenden Ereignisse bedarf KEINER unverzüglichen fliegerärztlichen Beratung?
+    <response>Regelmäßige Einnahme von Arzneimitteln</response>
+    <response>Erstmalige Verschreibung einer Sehhilfe</response>
+    <response stimmt="True">Zahnärztliche Jahreskontrolle</response>
+    <response>Schwangerschaft</response>
+  </question>
+  <question id="53" punkte="1.0" category="HPL">
+    Welche Aussage in Bezug auf die Wechselwirkung zwischen Wahrnehmung und Erfahrung ist korrekt?
+    <response stimmt="True">Erfahrung hat einen signifikanten Einfluss auf unsere Wahrnehmung</response>
+    <response>Die Wechselwirkung hat keine Relevanz für die Flugsicherheit</response>
+    <response>Die Wechselwirkung begrenzt sich auf optische Täuschungen</response>
+    <response>Erfahrung und Wahrnehmung sind zwei völlig getrennte Bereiche des Wahrnehmungsprozesses</response>
+  </question>
+  <question id="54" punkte="1.0" category="HPL">
+    Was ist in Bezug auf das Kurzzeitgedächtnis richtig?
+    <response>Es kann 5 (±2) Informationen für 1-2 Minuten speichern</response>
+    <response>Es kann 3 (±1) Informationen für 5-10 Sekunden speichern</response>
+    <response stimmt="True">Es kann 7 (±2) Informationen für 10-20 Sekunden speichern</response>
+    <response>Es kann 10 (±5) Informationen für 30-60 Sekunden speichern</response>
+  </question>
+  <question id="55" punkte="1.0" category="HPL">
+    Über welchen Zeitraum kann das Kurzzeitgedächtnis ungefähr Informationen speichern?
+    <response>30-40 Sekunden</response>
+    <response>3-7 Sekunden</response>
+    <response>35-50 Sekunden</response>
+    <response stimmt="True">10-20 Sekunden</response>
+  </question>
+  <question id="56" punkte="1.0" category="HPL">
+    Was ist ein "latenter Fehler"?
+    <response>Ein Fehler, der sich erst nach der Landung auswirkt</response>
+    <response stimmt="True">Ein längere Zeit unbemerkt im System vorhandener Fehler</response>
+    <response>Ein vom Piloten aktiv und bewusst verursachter Fehler</response>
+    <response>Ein Fehler, der sich unmittelbar auf die Steuerung auswirkt</response>
+  </question>
+  <question id="57" punkte="1.0" category="HPL">
+    Was bedeutet der Begriff "confirmation bias" (Bestätigungs-Tendenz)?
+    <response stimmt="True">Die Tendenz Argumente zu suchen, die das eigene mentale Modell unterstützen</response>
+    <response>Die Tendenz alle Funksprüche zu bestätigen</response>
+    <response>Die Rückkopplungsschleife in einer geschlossenen Kommunikation</response>
+    <response>Die kritische Überprüfung von zweifelhaften Situationen im Fluge</response>
+  </question>
+  <question id="58" punkte="1.0" category="HPL">
+    Wofür steht die Abkürzung "CFIT"?
+    <response>Cargo Fire in Tail compartment</response>
+    <response>Central Flight Instructor Training</response>
+    <response>Company Fuel Index Tool</response>
+    <response stimmt="True">Controlled Flight into Terrain</response>
+  </question>
+  <question id="59" punkte="1.0" category="HPL">
+    Wie nennt man den permanenten Prozess, die fortlaufende Flugsituation zu überwachen?
+    <response>Konstante Flugüberwachung (constant flight check)</response>
+    <response stimmt="True">Situative Aufmerksamkeit (situational awareness)</response>
+    <response>Vorausschauendes Prüfverfahren (anticipatory check procedure)</response>
+    <response>Situatives Denken (situational thinking)</response>
+  </question>
+  <question id="60" punkte="1.0" category="HPL">
+    Wie kann aus Sicht des Kommunikationsmodells sichergestellt werden, dass im Sprechfunkverkehr der gleiche Code verwendet wird?
+    <response>Durch die Nutzung geeigneter Kopfhörer</response>
+    <response>Durch die Nutzung nur für die Luftfahrt zugelassener Funkgeräte</response>
+    <response stimmt="True">Durch das Verwenden einer Funk-Phraseologie</response>
+    <response>Durch eine bestimmte Frequenz-Verteilung</response>
+  </question>
+  <question id="61" punkte="1.0" category="HPL">
+    Welcher der folgenden Persönlichkeitstypen ist beim Fliegen NICHT gefährlich?
+    <response>Unfehlbarkeits-Einstellung</response>
+    <response>Macho-Einstellung</response>
+    <response stimmt="True">Synergetische Cockpit-Einstellung</response>
+    <response>Impulsivität</response>
+  </question>
+  <question id="62" punkte="1.0" category="HPL">
+    Welche vier Möglichkeiten bestehen, um angemessen mit einem Risiko umzugehen?
+    <response>Ignorieren, Akzeptieren, Übertragen, Verdrängen.</response>
+    <response stimmt="True">Vermeiden, Verringern, Übertragen, Akzeptieren.</response>
+    <response>Vermeiden, Ignorieren, Beschönigen, Verringern.</response>
+    <response>Verdrängen, Vermeiden, Beschönigen, Übertragen.</response>
+  </question>
+  <question id="63" punkte="1.0" category="HPL">
+    In welcher der angegebenen Situationen ist die Neigung größer, höhere Risiken zu akzeptieren?
+    <response>Bei großer Nervosität während Prüfungsflügen</response>
+    <response>Bei Informationsmangel über die Situation</response>
+    <response stimmt="True">Im Rahmen von gruppendynamischen Prozessen</response>
+    <response>Während der Flugplanung bei sehr guter Wettervorhersage</response>
+  </question>
+  <question id="64" punkte="1.0" category="HPL">
+    Welche Bedeutung hat der Begriff "risky shift"?
+    <response>Das Verstellen der Sitzposition des Piloten während des Fluges</response>
+    <response stimmt="True">Die Tendenz, in Gruppen ein höheres Risiko zu akzeptieren</response>
+    <response>Das spontane Wechseln der Landerichtung bei ansteigender Piste</response>
+    <response>Die Kreuzung von Quer- und Seitenruder im Endanflug</response>
+  </question>
+  <question id="65" punkte="1.0" category="HPL">
+    Welche gefährlichen Einstellungen treten häufig zusammen auf?
+    <response>Unverwundbarkeit und Selbstaufgabe</response>
+    <response>Selbstaufgabe und Macho</response>
+    <response stimmt="True">Macho und Unverwundbarkeit</response>
+    <response>Impulsivität und Sorgfältigkeit</response>
+  </question>
+  <question id="66" punkte="1.0" category="HPL">
+    Welches ist ein Anzeichen für eine "Macho"-Einstellung?
+    <response>Eine umfassende Risikobewertung von unbekannten Situationen</response>
+    <response>Die Durchführung einer sorgfältigen Vorflugkontrolle</response>
+    <response>Schnelles Resignieren in komplexen und kritischen Situationen</response>
+    <response stimmt="True">Riskante Flugmanöver um Zuschauer am Boden zu beeindrucken</response>
+  </question>
+  <question id="67" punkte="1.0" category="HPL">
+    Welches Verhalten kann zu menschlichen Fehlern führen?
+    <response>Ein geeigneter Umgang mit Checklisten</response>
+    <response>Zweifeln, wenn etwas unklar oder zweideutig erscheint</response>
+    <response>Wesentliche Handlungen doppelt überprüfen</response>
+    <response stimmt="True">Die Tendenz Dinge zu sehen, die auch erwartet werden</response>
+  </question>
+  <question id=" 68" punkte="1.0" category="HPL">
+    Welche ist die beste Kombination von Eigenschaften in Bezug auf die persönliche Einstellung bzw. das Verhalten eines Piloten?
+    <response>Introvertiert - labil</response>
+    <response>Extrovertiert - labil</response>
+    <response>Introvertiert - stabil</response>
+    <response stimmt="True">Extrovertiert - stabil</response>
+  </question>
+  <question id="69" punkte="1.0" category="HPL">
+    Selbstgefälligkeit (complacency) ist ein Risiko und resultiert aus...
+    <response>besseren Trainingsmöglichkeiten für jüngere Piloten.</response>
+    <response>der hohen Fehlerrate, die dem Menschen eigen ist.</response>
+    <response>der hohen Fehlerzahl technischer Systeme.</response>
+    <response stimmt="True">gesteigerter Cockpit-Automatisierung.</response>
+  </question>
+  <question id="70" punkte="1.0" category="HPL" img="HPL-002">
+    An welchem Punkt der Abbildung befindet sich der ideale Erregungsgrad?
+Siehe Bild (HPL-002) P: Leistung
+A: Erregung / Stress
+    <response stimmt="True">Punkt B</response>
+    <response>Punkt D</response>
+    <response>Punkt C</response>
+    <response>Punkt A</response>
+  </question>
+  <question id="71" punkte="1.0" category="HPL"  img="HPL-002">
+    An welchem Punkt der Abbildung ist der Pilot überfordert?
+Siehe Bild (HPL-002) P: Leistung
+A: Erregung / Stress
+    <response>Punkt A</response>
+    <response stimmt="True">Punkt D</response>
+    <response>Punkt C</response>
+    <response>Punkt B</response>
+  </question>
+  <question id="72" punkte="1.0" category="HPL">
+    Welche der folgenden Eigenschaften werden durch Stress beeinflusst?
+1. Aufmerksamkeit.
+2. Konzentration.
+3. Reaktionsfähigkeit.
+4. Erinnerungsvermögen.
+    <response>2,4.</response>
+    <response stimmt="True">1,2,3,4.</response>
+    <response>1,2,3.</response>
+    <response>1.</response>
+  </question>
+  <question id="73" punkte="1.0" category="HPL">
+    Welche Antwort ist in Bezug auf Stress richtig?
+    <response>Training und Erfahrung haben keinen Einfluss auf das Vorkommen von Stress</response>
+    <response stimmt="True">Stress kann auftreten, wenn man glaubt, keine Lösung für ein Problem zu haben</response>
+    <response>Stress und seine verschiedenen Symptome haben keinen Einfluss auf die Flugsicherheit</response>
+    <response>Alle Menschen reagieren in der gleichen Situation mit den gleichen Stresssymptomen</response>
+  </question>
+  <question id="74" punkte="1.0" category="HPL">
+    Was kann zu einer erhöhten Fehlerzahl, Tunnelblick und verminderter Aufmerksamkeit führen?
+    <response>Entspannungsübungen</response>
+    <response>Ungesundes Essen</response>
+    <response>Sport</response>
+    <response stimmt="True">Ermüdung</response>
+  </question>
+
+</source>
+
+<source url="ecqb-ppl.aircademy.com" file="ECQB-PPLA-51-ALW_DE.pdf" version="2018.3" sha256="0000000000000000" date="16-01-2019 11:17">
+</source>
+
+<source url="ecqb-ppl.aircademy.com" file="ECQB-PPLA-51-AGK_DE.pdf" version="2018.3" sha256="0000000000000000" date="16-01-2019 12:33">
+</source>
+
+<source url="ecqb-ppl.aircademy.com" file="ECQB-PPLA-51-MET_DE.pdf" version="2018.3" sha256="0000000000000000" date="16-01-2019 11:27">
+</source>
+
+<source url="ecqb-ppl.aircademy.com" file="ECQB-PPLA-51-NAV_DE.pdf" version="2018.3" sha256="0000000000000000" date="16-01-2019 12:40">
+
+  <question id="1" punkte="1.0" category="NAV">
+    Wie ist die Erdachse in Bezug zur Ebene ihrer Umlaufbahn die Sonne (Ekliptik) orientiert?
+    <response>Die Erdachse verläuft parallel zur Ebene der Ekliptik</response>
+    <response>Die Erdachse bildet einen Winkel von 90° zur Ebene der Ekliptik</response>
+    <response>Die Erdachse bildet einen Winkel von ungefähr 23,5° zur Ebene der Ekliptik</response>
+    <response stimmt="True">Die Erdachse bildet einen Winkel von ungefähr 66,5° zur Ebene der Ekliptik</response>
+  </question>
+  <question id="2" punkte="1.0" category="NAV">
+    Die (gedachte) Erdachse geht durch den...
+    <response stimmt="True">geografischen Nordpol und den geografischen Südpol.</response>
+    <response>geografischen Nordpol und den magnetischen Südpol.</response>
+    <response>magnetischen Nordpol und den magnetischen Südpol.</response>
+    <response>magnetischen Nordpol und den geografischen Südpol.</response>
+  </question>
+  <question id="3" punkte="1.0" category="NAV">
+    Welche Aussage ist in Bezug auf die Erdachse korrekt?
+    <response>Die Erdachse schneidet den magnetischen Südpol sowie den magnetischen Nordpol und steht senkrecht auf der Äquatorebene</response>
+    <response stimmt="True">Die Erdachse schneidet den geografischen Südpol sowie den geografischen Nordpol und steht senkrecht auf der Äquatorebene</response>
+    <response>Die Erdachse schneidet den geografischen Südpol sowie den geografischen Nordpol und hat einen Winkel von 23,5° zur Äquatorebene</response>
+    <response>Die Erdachse schneidet den magnetischen Südpol sowie den magnetischen Nordpol und hat einen Winkel von 66,5° zur Äquatorebene</response>
+  </question>
+  <question id="4" punkte="1.0" category="NAV">
+    Welche angenäherte, geometrische Form der Erde dient als Grundlage für Navigationssysteme wie GPS?
+    <response>Perfekte Kugel</response>
+    <response stimmt="True">Ellipsoid</response>
+    <response>Kugel von ekliptischer Form</response>
+    <response>Flache Scheibe</response>
+  </question>
+  <question id="5" punkte="1.0" category="NAV">
+    Welche Aussage trifft auf eine Kursgleiche (Loxodrome) zu?
+    <response>Die kürzeste Verbindung zwischen zwei Punkten auf der Erdkugel verläuft entlang einer Kursgleichen.</response>
+    <response stimmt="True">Eine Kursgleiche schneidet alle Meridiane unter dem gleichen Winkel.</response>
+    <response>Der vollständige Umlauf einer Kursgleiche hat immer den Erdmittelpunkt im Zentrum.</response>
+    <response>Eine Kursgleiche ist ein Großkreis, der den Äquator in einem 45°-Winkel schneidet.</response>
+  </question>
+  <question id="6" punkte="1.0" category="NAV">
+    Welcher der folgenden Kreisbögen hat den Erdmittelpunkt NICHT im Zentrum?
+    <response>Äquator</response>
+    <response>Längengrad</response>
+    <response stimmt="True">Kleinkreis</response>
+    <response>Großkreis</response>
+  </question>
+  <question id="7" punkte="1.0" category="NAV">
+    Die kürzeste Distanz zweier Punkte auf der Erde entspricht einem Teil...
+    <response stimmt="True">eines Großkreises.</response>
+    <response>eines Breitenkreises.</response>
+    <response>einer Kursgleiche.</response>
+    <response>eines Kleinkreises.</response>
+  </question>
+  <question id="8" punkte="1.0" category="NAV" img="NAV-002">
+    Der Umfang der Erde am Äquator beträgt ungefähr...
+Siehe Bild (NAV-002)
+    <response>10.800 km.</response>
+    <response stimmt="True">21.600 NM.</response>
+    <response>12.800 km.</response>
+    <response>40.000 NM.</response>
+  </question>
+  <question id="9" punkte="1.0" category="NAV">
+    Ein Luftfahrzeug fliegt genau mit Nordkurs von Hannover (N52°28', E009°59') nach Hamburg (N53°38', E009°59').
+Wie groß ist die geflogene Distanz?
+    <response>70 km</response>
+    <response stimmt="True">70 NM</response>
+    <response>83 NM</response>
+    <response>83 km</response>
+  </question>
+  <question id="10" punkte="1.0" category="NAV">
+    Ein Luftfahrzeug fliegt genau mit Nordkurs von Hannover (N52°28', E009°59') nach Kiel (N54°23', E009°59').
+Wie groß ist die geflogene Distanz?
+    <response stimmt="True">115 NM</response>
+    <response>115 km</response>
+    <response>83 km</response>
+    <response>83 NM</response>
+  </question>
+  <question id="11" punkte="1.0" category="NAV">
+    Der Äquator ist ein...
+    <response>Längenkreis.</response>
+    <response stimmt="True">Breitenkreis.</response>
+    <response>Polarkreis.</response>
+    <response>Kleinkreis.</response>
+  </question>
+  <question id="12" punkte="1.0" category="NAV">
+    Die Breitendifferenz zwischen den beiden Orten
+A (N12°53'30'') und B (S07°34'30'') beträgt:
+    <response>05,19°</response>
+    <response>20,28°</response>
+    <response stimmt="True">20°28'00''</response>
+    <response>05°19'00''</response>
+  </question>
+  <question id="13" punkte="1.0" category="NAV">
+    Die beiden Polarkreise befinden sich...
+    <response>23,5° nördlich bzw. südlich des Äquators.</response>
+    <response stimmt="True">jeweils 23,5° von den Polen entfernt.</response>
+    <response>bei jeweils 20,5° Breite.</response>
+    <response>20,5° südlich des jeweiligen Poles.</response>
+  </question>
+  <question id="14" punkte="1.0" category="NAV">
+    Die Entfernung zwischen den Breitengraden N48° und N49° entlang eines Längengrades beträgt:
+    <response stimmt="True">60 NM</response>
+    <response>111 NM</response>
+    <response>60 Bogensekunden</response>
+    <response>60 km</response>
+  </question>
+  <question id="15" punkte="1.0" category="NAV">
+    Welcher Distanz entspricht die Strecke von einem Grad Breitendifferenz entlang eines Längengrades?
+    <response>1 NM</response>
+    <response>60 km</response>
+    <response stimmt="True">60 NM</response>
+    <response>30 NM</response>
+  </question>
+  <question id="16" punkte="1.0" category="NAV">
+    Ein Punkt auf der Erdoberfläche liegt bei 47°50'27'' nördlicher Breite.
+Welcher Punkt liegt genau 240 NM nördlich davon?
+    <response>53°50'27'' N</response>
+    <response>43°50'27'' N</response>
+    <response stimmt="True">51°50'27'' N</response>
+    <response>49°50'27'' N</response>
+  </question>
+  <question id="17" punkte="1.0" category="NAV">
+    Ein Luftfahrzeug fliegt genau mit Nordkurs von Klagenfurt (N46°40', E014°20') nach Linz (N48°15', E014°20').
+Wie groß ist die geflogene Distanz?
+    <response stimmt="True">95 NM</response>
+    <response>51 km</response>
+    <response>95 km</response>
+    <response>51 NM</response>
+  </question>
+  <question id="18" punkte="1.0" category="NAV">
+    Die Entfernung zwischen den beiden Längengraden 150° E und 151° E entlang des Äquators beträgt:
+    <response stimmt="True">111 km</response>
+    <response>60 Bogensekunden</response>
+    <response>60 km</response>
+    <response>111 NM</response>
+  </question>
+  <question id="19" punkte="1.0" category="NAV">
+    Wie groß ist die Längendifferenz zwischen 9° E und 10° E auf dem 50. Breitengrad?
+    <response stimmt="True">60'</response>
+    <response>60 NM</response>
+    <response>222 km</response>
+    <response>56 km</response>
+  </question>
+  <question id="20" punkte="1.0" category="NAV">
+    Welches ist die Distanz zwischen zwei Punkten auf dem Äquator, wenn die Längendifferenz dieser Punkte ein Grad beträgt?
+    <response>120 NM</response>
+    <response stimmt="True">60 NM</response>
+    <response>216 NM</response>
+    <response>400 NM</response>
+  </question>
+  <question id="21" punkte="1.0" category="NAV">
+    Zwei beliebige Punkte A und B liegen auf demselben Breitengrad (nicht der Äquator). Punkt A befindet sich auf dem Längengrad E010°, Punkt B auf E020°.
+Welche der folgenden Aussagen zur Entfernung entlang der Kursgleichen von A nach B ist korrekt?
+    <response stimmt="True">Die Entfernung entlang der Kursgleichen zwischen A und B ist immer kleiner als 600 NM</response>
+    <response>Die Entfernung entlang der Kursgleichen zwischen A und B ist immer größer als 600 NM</response>
+    <response>Die Entfernung entlang der Kursgleichen zwischen A und B ist immer größer als 300 NM</response>
+    <response>Die Entfernung entlang der Kursgleichen zwischen A und B ist immer kleiner als 300 NM</response>
+  </question>
+  <question id="22" punkte="1.0" category="NAV">
+    Die Punkte A und B liegen beide auf dem Breitengrad N60°. Punkt A befindet sich auf W020°, Punkt B auf W010°.
+Welche Distanz hat die Loxodrome zwischen den beiden Punkten?
+    <response>600 NM</response>
+    <response>600 km</response>
+    <response>300 km</response>
+    <response stimmt="True">300 NM</response>
+  </question>
+  <question id="23" punkte="2.0" category="NAV">
+    Ein Luftfahrzeug befindet sich an der Position N60° W040°.
+Die Distanz entlang der Loxodrome zum Punkt N60° W000° beträgt...
+    <response>600 NM.</response>
+    <response stimmt="True">1.200 NM.</response>
+    <response>1.200 km.</response>
+    <response>2.400 km.</response>
+  </question>
+  <question id="24" punkte="1.0" category="NAV">
+    Wie groß ist die Zeitdifferenz, wenn die Sonne von einem bestimmten Punkt aus um 20 Längengrade weitergewandert ist?
+    <response stimmt="True">1:20 h</response>
+    <response>1:00 h</response>
+    <response>0:40 h</response>
+    <response>0:20 h</response>
+  </question>
+  <question id="25" punkte="1.0" category="NAV">
+    Wie groß ist die Zeitdifferenz, wenn die Sonne von einem bestimmten Punkt aus um 10 Längengrade weitergewandert ist?
+    <response>1:00 h</response>
+    <response stimmt="True">0:40 h</response>
+    <response>0:30 h</response>
+    <response>0:04 h</response>
+  </question>
+  <question id="26" punkte="1.0" category="NAV">
+    Wie groß ist die Zeitdifferenz, wenn die Sonne von einem bestimmten Punkt aus um 10 Längengrade weitergewandert ist?
+    <response stimmt="True">0,66 h</response>
+    <response>1,0 h</response>
+    <response>0,33 h</response>
+    <response>0,40 h</response>
+  </question>
+  <question id="27" punkte="1.0" category="NAV">
+    Mitteleuropäische Sommerzeit (CEST) ist festgelegt als UTC+2.
+Welche Zeit in UTC entspricht somit 1600 MESZ (CEST)?
+    <response>1700 UTC.</response>
+    <response stimmt="True">1400 UTC.</response>
+    <response>1600 UTC.</response>
+    <response>1500 UTC.</response>
+  </question>
+  <question id="28" punkte="1.0" category="NAV">
+    UTC ist die...
+    <response stimmt="True">für die Luftfahrt verbindliche Zeit.</response>
+    <response>Lokalzeit (MEZ bzw. MEST).</response>
+    <response>Zonenzeit (gesetzliche Zeit).</response>
+    <response>mittlere Sonnenzeit an einem beliebigen Punkt.</response>
+  </question>
+  <question id="29" punkte="1.0" category="NAV">
+    Mitteleuropäische Zeit (MEZ) ist festgelegt als UTC+1.
+Welche Zeit in UTC entspricht somit 1700 MEZ?
+    <response>1700 UTC.</response>
+    <response stimmt="True">1600 UTC.</response>
+    <response>1500 UTC.</response>
+    <response>1800 UTC.</response>
+  </question>
+  <question id="30" punkte="2.0" category="NAV">
+    Ort 1 befindet sich bei etwa E 016° 34', Ort 2 bei etwa E 013° 00'. Beide Orte liegen etwa auf derselben geografischen Breite.
+Um welchen Wert unterscheiden sich die Sonnenauf- und Sonnenuntergangszeiten (angegeben in Standardzeit - SZ) in Ort 1 und Ort 2?
+    <response stimmt="True">In Ort 1 erfolgen der Sonnenaufgang und der Sonnenuntergang ca. 14 Minuten früher</response>
+    <response>In Ort 1 erfolgt der Sonnenaufgang ca. 4 Minuten später und der Sonnenuntergang ca. 4 Minuten früher</response>
+    <response>In Ort 1 erfolgt der Sonnenaufgang ca. 14 Minuten früher und der Sonnenuntergang ca. 14 Minuten später</response>
+    <response>In Ort 1 erfolgen der Sonnenaufgang und der Sonnenuntergang ca. 4 Minuten später</response>
+  </question>
+  <question id="31" punkte="1.0" category="NAV">
+    Der Begriff "Sonnenaufgang" ist definiert als:
+    <response>der Zeitpunkt, an dem der Mittelpunkt der Sonnenscheibe über dem Horizont erscheint.</response>
+    <response stimmt="True">der Zeitpunkt, an dem der obere Rand der Sonnenscheibe über dem Horizont erscheint.</response>
+    <response>der Zeitpunkt, an dem ein Beobachter zum ersten Mal die halbe Sonnenscheibe erblickt.</response>
+    <response>der Zeitpunkt, an dem die volle Sonnenscheibe über dem Horizont erscheint.</response>
+  </question>
+  <question id="32" punkte="1.0" category="NAV">
+    Der Begriff "Sonnenuntergang" ist definiert als der Zeitpunkt, an dem...
+    <response>der Mittelpunkt der Sonnenscheibe unter dem Horizont verschwindet.</response>
+    <response>der untere Rand der Sonnenscheibe unter dem Horizont verschwindet.</response>
+    <response>ein Beobachter nicht mehr die komplette Sonnenscheibe sehen kann.</response>
+    <response stimmt="True">der obere Rand der Sonnenscheibe unter dem Horizont verschwindet.</response>
+  </question>
+  <question id="33" punkte="1.0" category="NAV">
+    Der Begriff "bürgerliche Dämmerung" ist definiert als...
+    <response stimmt="True">der Zeitraum vor Sonnenaufgang oder nach Sonnenuntergang, wobei der Mittelpunkt der Sonnenscheibe gleich oder weniger als 6 Grad unter dem wahren Horizont steht.</response>
+    <response>der Zeitraum nach Sonnenaufgang oder vor Sonnenuntergang, wobei der Mittelpunkt der Sonnenscheibe gleich oder weniger als 6 Grad unter dem scheinbaren Horizont steht.</response>
+    <response>der Zeitraum nach Sonnenaufgang oder vor Sonnenuntergang, wobei der Mittelpunkt der Sonnenscheibe gleich oder weniger als 12 Grad unter dem scheinbaren Horizont steht.</response>
+    <response>der Zeitraum vor Sonnenaufgang oder nach Sonnenuntergang, wobei der Mittelpunkt der Sonnenscheibe gleich oder weniger als 12 Grad unter dem wahren Horizont steht.</response>
+  </question>
+  <question id="34" punkte="2.0" category="NAV">
+    Gegeben sind: TC: 032°; WCA: +11°; DEV: 001° W; CH: 049°.
+Welche Werte haben TH, VAR und MH?
+    <response>TH: 048°. VAR: 005°E. MH: 050°.</response>
+    <response>TH: 043°. VAR: 005°E. MH: 048°.</response>
+    <response>TH: 048°. VAR: 005°W. MH: 043°.</response>
+    <response stimmt="True">TH: 043°. VAR: 005°W. MH: 048°.</response>
+  </question>
+  <question id="35" punkte="2.0" category="NAV">
+    Gegeben sind: TC: 105°; WCA: +009°; MH: 119°; CH: 120°.
+Welche Werte haben VAR und DEV?
+    <response>VAR: 005°E. DEV: +001°.</response>
+    <response stimmt="True">VAR: 005°W. DEV: -001°.</response>
+    <response>VAR: 005°E. DEV: -001°.</response>
+    <response>VAR: 005°W. DEV: +001°.</response>
+  </question>
+  <question id="36" punkte="2.0" category="NAV">
+    Gegeben sind: WCA: -012°; TH: 125°; MC: 139°; DEV: 002°E.
+Welche Werte haben: TC, MH und CH?
+    <response>TC: 137°. MH: 139°. CH: 125°.</response>
+    <response stimmt="True">TC: 137°. MH: 127°. CH: 125°.</response>
+    <response>TC: 113°. MH: 139°. CH: 129°.</response>
+    <response>TC: 113°. MH: 127°. CH: 129°.</response>
+  </question>
+  <question id="37" punkte="1.0" category="NAV">
+    Gegeben sind:
+TC: 179°; WCA: -12°; VAR: 004°E; DEV: +002°.
+Welche Werte haben MH und MC?
+    <response>MH: 167°. MC: 161°.</response>
+    <response stimmt="True">MH: 163°. MC: 175°.</response>
+    <response>MH: 163°. MC: 161°.</response>
+    <response>MH: 167°. MC: 175°.</response>
+  </question>
+  <question id="38" punkte="1.0" category="NAV">
+    Mit welcher Formel wird der magnetische Steuerkurs (MH) berechnet?
+    <response>MH = TH + DEV</response>
+    <response>MH = TH - DEV</response>
+    <response stimmt="True">MH = TH - VAR</response>
+    <response>MH = TH + VAR</response>
+  </question>
+  <question id="39" punkte="1.0" category="NAV">
+    Wie wird der Winkel zwischen dem rechtweisenden Kurs (TC) und dem rechtweisenden Steuerkurs (TH) bezeichnet?
+    <response stimmt="True">WCA</response>
+    <response>Inklination</response>
+    <response>Variation</response>
+    <response>Deviation</response>
+  </question>
+  <question id="40" punkte="1.0" category="NAV">
+    Wie wird der Winkel zwischen dem magnetischen Kurs (MC) und dem rechtweisenden Kurs (TC) bezeichnet?
+    <response>Deviation</response>
+    <response>Inklination</response>
+    <response>WCA</response>
+    <response stimmt="True">Variation</response>
+  </question>
+  <question id="41" punkte="1.0" category="NAV">
+    Der Begriff "magnetischer Kurs" (MC) ist definiert als...
+    <response>der Winkel zwischen geografisch Nord und der Kurslinie.</response>
+    <response>die Richtung von einem beliebigen Punkt der Erde zum magnetischen Nordpol.</response>
+    <response>die Richtung von einem beliebigen Punkt der Erde zum geografischen Nordpol.</response>
+    <response stimmt="True">der Winkel zwischen magnetisch Nord und der Kurslinie.</response>
+  </question>
+  <question id="42" punkte="1.0" category="NAV">
+    Der Begriff "rechtweisender Kurs" (TC) ist definiert als...
+    <response>die Richtung von einem beliebigen Punkt der Erde zum magnetischen Nordpol.</response>
+    <response>der Winkel zwischen magnetisch Nord und der Kurslinie.</response>
+    <response>die Richtung von einem beliebigen Punkt der Erde zum geografischen Nordpol.</response>
+    <response stimmt="True">der Winkel zwischen geografisch Nord und der Kurslinie.</response>
+  </question>
+  <question id=" 43" punkte="2.0" category="NAV">
+    Gegeben sind: TC: 183°; WCA: +011°; MH: 198°; CH: 200°.
+Welche Werte haben TH und DEV?
+    <response>TH: 172°. DEV: +002°.</response>
+    <response>TH: 172°. DEV: -002°.</response>
+    <response>TH: 194°. DEV: +002°.</response>
+    <response stimmt="True">TH: 194°. DEV: -002°.</response>
+  </question>
+  <question id="44" punkte="2.0" category="NAV">
+    Gegeben sind: TC: 183°; WCA: +011°; MH: 198°; CH: 200°.
+Welche Werte haben VAR und DEV?
+    <response>VAR: 004°E. DEV: -002°.</response>
+    <response>VAR: 004°E. DEV: +002°.</response>
+    <response>VAR: 004°W. DEV: +002°.</response>
+    <response stimmt="True">VAR: 004°W. DEV: -002°.</response>
+  </question>
+  <question id=" 45" punkte="2.0" category="NAV">
+    Gegeben sind: TC: 168°; WCA: +012°; MH: 178°; CH 176°.
+Welche Werte haben TH und VAR?
+    <response stimmt="True">TH: 180°. VAR: 002°E.</response>
+    <response>TH: 152°. VAR: 002°E.</response>
+    <response>TH: 152°. VAR: 002°W.</response>
+    <response>TH: 180°. VAR: 002°W.</response>
+  </question>
+  <question id="46" punkte="2.0" category="NAV">
+    Gegeben sind: TC: 168°; WCA: +012°; MH: 178°; CH 176°.
+Welche Werte haben VAR und DEV?
+    <response>VAR: 002°W. DEV: -002°.</response>
+    <response>VAR: 002°E. DEV: -002°.</response>
+    <response>VAR: 002°W. DEV: +002°.</response>
+    <response stimmt="True">VAR: 002°E. DEV: +002°.</response>
+  </question>
+  <question id="47" punkte="1.0" category="NAV">
+    Wo ist die vertikale Ablenkung (Inklination) der Kompassnadel am geringsten?
+    <response>An den magnetischen Polen</response>
+    <response stimmt="True">Am magnetischen Äquator</response>
+    <response>Am geografischen Äquator</response>
+    <response>An den geografischen Polen</response>
+  </question>
+  <question id="48" punkte="1.0" category="NAV">
+    Wie wird der Winkel zwischen Kompass Nord (CN) und magnetisch Nord (MN) bezeichnet?
+    <response>WCA</response>
+    <response stimmt="True">Deviation</response>
+    <response>Variation</response>
+    <response>Inklination</response>
+  </question>
+  <question id="49" punkte="1.0" category="NAV">
+    Welche Richtung entspricht "Kompass Nord" (CN)?
+    <response>Der Winkel zwischen der Ausrichtung der Luftfahrzeugnase und der magnetischen Nordrichtung</response>
+    <response stimmt="True">Die Richtung, in die sich der Magnetkompass unter Einfluss des Erdmagnetfelds und vorhandener Flugzeugmagnetfelder ausrichtet</response>
+    <response>Die Richtung von einem beliebigen Punkt auf der Erde zum geografischen Nordpol</response>
+    <response>Der nördlichste Teil des Magnetkompasses im Luftfahrzeug, an welchem die Ablesung erfolgt</response>
+  </question>
+  <question id="50" punkte="1.0" category="NAV">
+    Eine "Isogone" ist definiert als eine Linie...
+    <response stimmt="True">die alle Punkte mit derselben Variation verbindet.</response>
+    <response>die alle Punkte mit derselben Deviation verbindet.</response>
+    <response>die alle Punkte mit demselben Steuerkurs verbindet.</response>
+    <response>die alle Punkte mit derselben Inklination verbindet.</response>
+  </question>
+  <question id="51" punkte="1.0" category="NAV">
+    Eine "Agone" ist definiert als eine Linie...
+    <response stimmt="True">die alle Punkte mit der Variation 0° verbindet.</response>
+    <response>die alle Punkte mit der Deviation 0° verbindet.</response>
+    <response>die alle Punkte mit dem Kartenkurs 0° verbindet.</response>
+    <response>die alle Punkte mit der Inklination 0° verbindet.</response>
+  </question>
+  <question id="52" punkte="1.0" category="NAV">
+    Welche Basiseinheiten und Abkürzungen werden in der Luftfahrt für Entfernungen verwendet?
+    <response>Yards (yd) und Meter (m)</response>
+    <response>Landmeilen (SM) und Quarter (qt)</response>
+    <response>Fuß (ft) und Zoll (in)</response>
+    <response stimmt="True">Nautische Meilen (NM) und Kilometer (km)</response>
+  </question>
+  <question id="53" punkte="1.0" category="NAV">
+    1.000 ft (Fuß) entsprechen ca.
+    <response>3.000 m (Meter).</response>
+    <response>30 m (Meter).</response>
+    <response stimmt="True">300 m (Meter).</response>
+    <response>30 km (Kilometer).</response>
+  </question>
+  <question id="54" punkte="1.0" category="NAV">
+    5.500 m entsprechen ca.
+    <response>10.000 ft (Fuß).</response>
+    <response stimmt="True">18.000 ft (Fuß).</response>
+    <response>7.500 ft (Fuß).</response>
+    <response>30.000 ft (Fuß).</response>
+  </question>
+  <question id="55" punkte="1.0" category="NAV" img="NAV-004">
+    Bei welchen Punkten in der abgebildeten Checkliste ist der Magnetkompass zu berücksichtigen?
+Siehe Anlage (NAV-004) Siehe Anlage 1
+    <response>Nur "Turning Instruments"</response>
+    <response stimmt="True">"Gyro" und "Turning Instruments"</response>
+    <response>"Turning Instruments" und "Circuit Breaker"</response>
+    <response>"Gyro" und "Circuit Breaker"</response>
+  </question>
+  <question id="56" punkte="1.0" category="NAV">
+    Welche Aussage in Bezug auf den Begriff "Variation" (VAR) ist korrekt?
+    <response>Die Variation ist unmittelbar vom Längengrad eines Ortes abhängig</response>
+    <response stimmt="True">Die Variation ist unter anderem vom Ort abhängig</response>
+    <response>Die Variation besitzt überall auf der Erde einen konstanten Wert</response>
+    <response>Die Variation ist vom magnetischen Feld des Luftfahrzeuges abhängig</response>
+  </question>
+  <question id="57" punkte="1.0" category="NAV">
+    Welches kann ein Grund für die Änderung der Pisten-Kennziffern an Flugplätzen sein (z.B. von Piste 06 auf Piste 07)?
+    <response>Die magnetische Deviation am Ort der Piste hat sich geändert</response>
+    <response>Die rechtweisende Richtung der Piste hat sich geändert</response>
+    <response>Der Anflugwinkel auf die Piste hat sich geändert</response>
+    <response stimmt="True">Die magnetische Variation am Ort der Piste hat sich geändert</response>
+  </question>
+  <question id="58" punkte="1.0" category="NAV">
+    Elektronische Geräte an Bord eines Luftfahrzeuges haben Einfluss auf den...
+    <response stimmt="True">Magnetkompass.</response>
+    <response>künstlichen Horizont.</response>
+    <response>Fahrtmesser.</response>
+    <response>Wendezeiger.</response>
+  </question>
+  <question id="59" punkte="1.0" category="NAV">
+    Welche Eigenschaften hat eine Mercator-Karte?
+    <response stimmt="True">Der Maßstab nimmt mit der geographischen Breite zu, Großkreise erscheinen als gekrümmte Linien, Kursgleiche als Geraden.</response>
+    <response>Der Maßstab nimmt mit der geographischen Breite zu, Großkreise erscheinen als Geraden, Kursgleiche als gekrümmte Linien.</response>
+    <response>Der Maßstab ist konstant, Großkreise erscheinen als Geraden, Kursgleiche als gekrümmte Linien.</response>
+    <response>Der Maßstab ist konstant, Großkreise erscheinen als gekrümmte Linien, Kursgleiche als Geraden.</response>
+  </question>
+  <question id="60" punkte="1.0" category="NAV">
+    Welche Eigenschaft muss eine konforme Karte erfüllen?
+    <response>Der Maßstab muss auf der ganzen Karte konstant sein.</response>
+    <response>Großkreise müssen gerade Linien sein.</response>
+    <response stimmt="True">Längen- und Breitengrade schneiden sich überall mit 90°.</response>
+    <response>Kursgleiche müssen gerade Linien sein.</response>
+  </question>
+  <question id="61" punkte="1.0" category="NAV">
+    Wie werden Kursgleichen und Großkreise auf einer Mercator-Karte dargestellt?
+    <response>Kursgleichen: als gekrümmte Linien. Großkreise: als gekrümmte Linien.</response>
+    <response>Kursgleichen: als gekrümmte Linien. Großkreise: als gerade Linien.</response>
+    <response stimmt="True">Kursgleichen: als gerade Linien. Großkreise: als gekrümmte Linien.</response>
+    <response>Kursgleichen: als gerade Linien. Großkreise: als gerade Linien.</response>
+  </question>
+  <question id="62" punkte="1.0" category="NAV">
+    Welche Eigenschaften besitzt eine Lambert-Karte?
+    <response>Kursgleichen werden als gerade Linien dargestellt, die Karte ist winkeltreu</response>
+    <response>Die Karte ist winkeltreu und überall genau längen- und flächentreu</response>
+    <response>Großkreise werden als gerade Linien dargestellt, die Karte ist flächentreu</response>
+    <response stimmt="True">Die Karte ist winkeltreu und annähernd maßstabstreu</response>
+  </question>
+  <question id="63" punkte="1.0" category="NAV">
+    Welche Standlinien muss ein Pilot in seine Luftfahrtkarte einzeichnen, um mit Hilfe von NDBs seine Position zu bestimmen?
+    <response stimmt="True">Rechtweisende Peilungen (QTEs)</response>
+    <response>Magnetische Peilungen (QDRs)</response>
+    <response>Magnetische Steuerkurse (MHs)</response>
+    <response>Relative Peilungen (RBs)</response>
+  </question>
+  <question id="64" punkte="1.0" category="NAV" img="NAV-031">
+    Das Radial vom VOR Brünkendorf (BKD) (53°02?N, 011°33?E) nach Pritzwalk (EDBU) (53°11'N, 12°11'E) lautet...
+Siehe Anlage (NAV-031) Siehe Anlage 2
+    <response stimmt="True">068°.</response>
+    <response>024°.</response>
+    <response>204°.</response>
+    <response>248°.</response>
+  </question>
+  <question id="65" punkte="1.0" category="NAV" img="NAV-031">
+    Welche Position hat das Luftfahrzeug unter Berücksichtigung der folgenden Kreuzpeilung?
+VOR Hamburg (HAM) (53°41?N, 010°12?E): Radial 119°
+VOR Brünkendorf (BKD) (53°02?N, 011°33?E): Radial 320° Siehe Anlage (NAV-031)
+Siehe Anlage 2
+    <response stimmt="True">53°20'N, 11°10'E</response>
+    <response>52°10'N, 10°20'E</response>
+    <response>52°20'N, 10°10'E</response>
+    <response>54°40'N, 12°50'E</response>
+  </question>
+  <question id="66" punkte="1.0" category="NAV">
+    Auf einer aeronautischen Navigationskarte werden zwei 220 NM voneinander entfernte Flugplätze in einem Abstand von 40,7 cm dargestellt.
+Wie groß ist der Kartenmaßstab?
+    <response>1 : 2.000.000</response>
+    <response stimmt="True">1 : 1.000.000</response>
+    <response>1 : 500.000</response>
+    <response>1 : 250.000</response>
+  </question>
+  <question id="67" punkte="1.0" category="NAV" img="NAV-031">
+    Die Distanz vom VOR Brünkendorf (BKD) (53°02?N, 011°33?E) nach Pritzwalk (EDBU) (53°11'N, 12°11'E) beträgt...
+Siehe Anlage (NAV-031) Siehe Anlage 2
+    <response>42 km.</response>
+    <response>24 km.</response>
+    <response stimmt="True">24 NM.</response>
+    <response>42 NM.</response>
+  </question>
+  <question id="68" punkte="1.0" category="NAV">
+    Der Abstand von 7,5 cm auf einer aeronautischen Karte entspricht in der Realität einer Distanz von 60,745 NM.
+Der Kartenmaßstab beträgt...
+    <response>1 : 150.000.</response>
+    <response>1 : 500.000.</response>
+    <response stimmt="True">1 : 1.500.000.</response>
+    <response>1 : 1.000.000.</response>
+  </question>
+  <question id="69" punkte="1.0" category="NAV" img="NAV-006">
+    Welche der Zuordnungen ist korrekt?
+Siehe Bild (NAV-006)
+    <response>1: VOR/DME. 2: VOR. 3: VORTAC. 4: NDB.</response>
+    <response>1: VOR. 2: VOR/DME. 3: NDB. 4: VORTAC.</response>
+    <response stimmt="True">1: VOR. 2: VOR/DME. 3: VORTAC. 4: NDB.</response>
+    <response>1: VORTAC. 2: VOR/DME. 3: VOR. 4: NDB.</response>
+  </question>
+  <question id="70" punkte="1.0" category="NAV">
+    Für einen kurzen Flug von A nach B entnimmt der Pilot einer aeronautischen Karte folgende Information:
+Rechtweisender Kurs (TC): 245°. Magnetische Variation: 7° W.
+Der magnetische Kurs (MC) beträgt...
+    <response>007°.</response>
+    <response>245°.</response>
+    <response>238°.</response>
+    <response stimmt="True">252°.</response>
+  </question>
+  <question id="71" punkte="1.0" category="NAV">
+    Ein Luftfahrzeug fliegt mit einer angezeigten Fluggeschwindigkeit (IAS) von 150 kt in
+8.000 ft MSL.
+Die wahre Fluggeschwindigkeit (TAS) beträgt nach der Faustregel...
+    <response stimmt="True">174 kt.</response>
+    <response>208 kt.</response>
+    <response>150 kt.</response>
+    <response>142 kt.</response>
+  </question>
+  <question id="72" punkte="2.0" category="NAV">
+    Folgende Werte sind gegeben: Rechtweisender Kurs (TC) von A nach B: 250°. Distanz am Boden: 210 NM.
+TAS: 130 kt.
+Gegenwindkomponente: 15 kt.
+Voraussichtliche Abflugzeit (estimated time of departure - ETD): 0915 UTC.
+Die voraussichtliche Ankunftszeit (estimated time of arrival - ETA) beträgt...
+    <response>1115 UTC.</response>
+    <response stimmt="True">1105 UTC.</response>
+    <response>1005 UTC.</response>
+    <response>1052 UTC.</response>
+  </question>
+  <question id="73" punkte="1.0" category="NAV">
+    Folgende Werte sind gegeben: Rechtweisender Kurs (TC) von A nach B: 283°. Distanz am Boden: 75 NM.
+TAS: 105 kt.
+Gegenwindkomponente: 12 kt.
+Voraussichtliche Abflugzeit (estimated time of departure - ETD): 1242 UTC.
+Die voraussichtliche Ankunftszeit (estimated time of arrival - ETA) beträgt...
+    <response>1320 UTC.</response>
+    <response>1356 UTC.</response>
+    <response stimmt="True">1330 UTC.</response>
+    <response>1430 UTC.</response>
+  </question>
+  <question id="74" punkte="1.0" category="NAV">
+    Folgende Werte sind gegeben: Rechtweisender Kurs (TC) von A nach B: 182°. Distanz am Boden: 110 NM.
+GS: 77 kt.
+Voraussichtliche Abflugzeit (estimated time of departure - ETD): 1513 UTC.
+Die voraussichtliche Ankunftszeit (estimated time of arrival - ETA) beträgt...
+    <response stimmt="True">1639 UTC.</response>
+    <response>1724 UTC.</response>
+    <response>1647 UTC.</response>
+    <response>1623 UTC.</response>
+  </question>
+  <question id="75" punkte="1.0" category="NAV">
+    Folgende Werte sind gegeben: Rechtweisender Kurs (TC) von A nach B: 352°. Distanz am Boden: 100 NM.
+GS: 107 kt.
+Voraussichtliche Abflugzeit (estimated time of departure - ETD): 0933 UTC.
+Die voraussichtliche Ankunftszeit (estimated time of arrival - ETA) beträgt...
+    <response>1146 UTC.</response>
+    <response>1129 UTC.</response>
+    <response stimmt="True">1029 UTC.</response>
+    <response>1045 UTC.</response>
+  </question>
+  <question id="76" punkte="1.0" category="NAV">
+    Ein Luftfahrzeug legt 50 NM in 42 Minuten zurück.
+Wie groß ist die Geschwindigkeit über Grund?
+    <response>35 km/h.</response>
+    <response>244 km/h.</response>
+    <response>132 kt.</response>
+    <response stimmt="True">71 kt.</response>
+  </question>
+  <question id="77" punkte="1.0" category="NAV">
+    Ein Luftfahrzeug legt 15 km in 4 Minuten zurück.
+Wie groß ist die Geschwindigkeit über Grund (GS)?
+    <response>122 MPH</response>
+    <response>225 kt</response>
+    <response>122 km/h</response>
+    <response stimmt="True">225 km/h</response>
+  </question>
+  <question id=" 78" punkte="1.0" category="NAV">
+    Ein Luftfahrzeug legt 100 km in 56 Minuten zurück.
+Wie groß ist die Geschwindigkeit über Grund?
+    <response stimmt="True">107 km/h.</response>
+    <response>198 kt.</response>
+    <response>93 kt.</response>
+    <response>58 km/h.</response>
+  </question>
+  <question id="79" punkte="1.0" category="NAV">
+    Ein Luftfahrzeug legt 120 NM in 55 Minuten zurück.
+Wie groß ist die Geschwindigkeit über Grund?
+    <response>71 km/h.</response>
+    <response>242 kt.</response>
+    <response>110 km/h.</response>
+    <response stimmt="True">131 kt.</response>
+  </question>
+  <question id="80" punkte="1.0" category="NAV">
+    Wie lange benötigt ein Luftfahrzeug für eine Distanz von 236 NM bei einer Geschwindigkeit über Grund (GS) von 134 kt?
+    <response>1:34 h</response>
+    <response>0:46 h</response>
+    <response>0:34 h</response>
+    <response stimmt="True">1:46 h</response>
+  </question>
+  <question id="81" punkte="1.0" category="NAV">
+    Ein Luftfahrzeug fliegt mit einer wahren Fluggeschwindigkeit (TAS) von 120 kt bei einem Rückenwind von 35 kt.
+Die Flugdauer für eine Distanz von 185 NM beträgt...
+    <response stimmt="True">1 h 12 Min.</response>
+    <response>1 h 32 Min.</response>
+    <response>2 h 11 Min.</response>
+    <response>0 h 50 Min.</response>
+  </question>
+  <question id="82" punkte="1.0" category="NAV">
+    Welche Entfernung legt ein Luftfahrzeug bei einer Wahren Fluggeschwindigkeit (TAS) von 180 kt und einem Gegenwind von 25 kt in 2 Stunden und 25 Minuten zurück?
+    <response stimmt="True">375 NM</response>
+    <response>435 NM</response>
+    <response>693 NM</response>
+    <response>202 NM</response>
+  </question>
+  <question id="83" punkte="1.0" category="NAV">
+    Eine Steigrate von ca. 900 ft/min entspricht...
+    <response stimmt="True">4,5 m/Sek.</response>
+    <response>6,7 m/Sek.</response>
+    <response>5,4 m/Sek.</response>
+    <response>14,8 m/Sek.</response>
+  </question>
+  <question id="84" punkte="1.0" category="NAV">
+    Eine Steigrate von ca. 2.900 ft/min entspricht...
+    <response>4,5 m/Sek.</response>
+    <response>16,8 m/Sek.</response>
+    <response>6,7 m/Sek.</response>
+    <response stimmt="True">14,8 m/Sek.</response>
+  </question>
+  <question id="85" punkte="1.0" category="NAV">
+    Eine Steigrate von ca. 1.100 ft/min entspricht...
+    <response>14,8 m/Sek.</response>
+    <response stimmt="True">5,6 m/Sek.</response>
+    <response>6,7 m/Sek.</response>
+    <response>4,5 m/Sek.</response>
+  </question>
+  <question id="86" punkte="1.0" category="NAV">
+    Gegeben: CAS: 155 kt. FL 80.
+Außentemperatur (OAT): +15°C.
+Die Wahre Fluggeschwindigkeit (TAS) beträgt...
+    <response>134 kt.</response>
+    <response>170 kt.</response>
+    <response stimmt="True">180 kt.</response>
+    <response>155 kt.</response>
+  </question>
+  <question id="87" punkte="1.0" category="NAV" img="NAV-031">
+    Der rechtweisende Kurs (TC) von Uelzen (EDVU) (52°59?N, 10°28?E) nach Neustadt (EDAN) (53°22'N, 011°37'E) beträgt...
+Siehe Anlage (NAV-031) Siehe Anlage 2
+    <response stimmt="True">061°.</response>
+    <response>055°.</response>
+    <response>241°.</response>
+    <response>235°.</response>
+  </question>
+  <question id="88" punkte="1.0" category="NAV">
+    Ein Luftfahrzeug fliegt in einer Druckhöhe von 7.000 ft bei einer Außentemperatur (OAT) von -9°C. Die QNH-Höhe beträgt 6.500 ft.
+Die wahre Höhe gerundet auf den nächsten 50 ft-Wert beträgt...
+    <response stimmt="True">6.250 ft.</response>
+    <response>7.000 ft.</response>
+    <response>6.750 ft.</response>
+    <response>6.500 ft.</response>
+  </question>
+  <question id="89" punkte="1.0" category="NAV" img="NAV-031">
+    Die Distanz von Neustadt (EDAN) (53°22'N, 011°37'E) nach Uelzen (EDVU) (52°59?N, 10°28?E) beträgt...
+Siehe Anlage (NAV-031) Siehe Anlage 2
+    <response>46 km.</response>
+    <response stimmt="True">46 NM.</response>
+    <response>78 km.</response>
+    <response>78 NM.</response>
+  </question>
+  <question id="90" punkte="1.0" category="NAV">
+    Ein Luftfahrzeug fliegt in einer Druckhöhe von 7.000 ft bei einer Außentemperatur (OAT) von +11°C. Die QNH-Höhe beträgt 6.500 ft.
+Die wahre Höhe beträgt:
+Runden Sie auf den nächsten 50 ft-Wert.
+    <response stimmt="True">6.750 ft</response>
+    <response>7.000 ft</response>
+    <response>6.250 ft</response>
+    <response>6.500 ft</response>
+  </question>
+  <question id="91" punkte="1.0" category="NAV">
+    Ein Luftfahrzeug fliegt in einer Druckhöhe von 7.000 ft bei einer Außentemperatur (OAT) von +21°C. Die QNH-Höhe beträgt 6.500 ft.
+Die wahre Höhe beträgt:
+Runden Sie auf den nächsten 50 ft-Wert.
+    <response>6.500 ft</response>
+    <response>6.750 ft</response>
+    <response stimmt="True">7.000 ft</response>
+    <response>6.250 ft</response>
+  </question>
+  <question id="92" punkte="1.0" category="NAV">
+    Ein Luftfahrzeug fliegt auf einem rechtweisenden Steuerkurs (TH) von 250° mit einer Geschwindigkeit über Grund (GS) von 120 kt. Der Wind beträgt 010°/30 kt.
+Der rechtweisende Kurs (TC) beträgt:
+    <response>257°</response>
+    <response>243°</response>
+    <response stimmt="True">237°</response>
+    <response>263°</response>
+  </question>
+  <question id="93" punkte="1.0" category="NAV">
+    Folgende Werte sind gegeben: Rechtweisender Kurs (TC): 255°. TAS: 100 kt.
+Wind: 200°/10 kt.
+Der rechtweisende Steuerkurs (TH) beträgt...
+    <response>275°.</response>
+    <response>265°.</response>
+    <response>245°.</response>
+    <response stimmt="True">250°.</response>
+  </question>
+  <question id="94" punkte="1.0" category="NAV">
+    Folgende Werte sind gegeben: Rechtweisender Kurs (TC): 165°. TAS: 90 kt.
+Wind: 130°/20 kt.
+Distanz: 153 NM.
+Der rechtweisende Steuerkurs (TH) beträgt...
+    <response>152°.</response>
+    <response stimmt="True">158°.</response>
+    <response>126°.</response>
+    <response>165°.</response>
+  </question>
+  <question id="95" punkte="1.0" category="NAV">
+    Folgende Werte sind gegeben: Geschwindigkeit über Grund (GS): 160 kt. Rechtweisender Kurs (TC): 177°. Windvektor (W/V): 140°/20 kt.
+Die wahre Eigengeschwindigkeit (TAS) beträgt...
+    <response>182 kt.</response>
+    <response stimmt="True">176 kt.</response>
+    <response>144 kt.</response>
+    <response>138 kt.</response>
+  </question>
+  <question id=" 96" punkte="1.0" category="NAV">
+    Folgende Werte sind gegeben: Geschwindigkeit über Grund (GS): 160 kt. Rechtweisender Kurs (TC): 177°. Windvektor (W/WS): 140°/20 kt.
+Der rechtweisende Steuerkurs (TH) beträgt...
+    <response>180°.</response>
+    <response stimmt="True">173°.</response>
+    <response>169°.</response>
+    <response>184°.</response>
+  </question>
+  <question id="97" punkte="1.0" category="NAV">
+    Ein Luftfahrzeug fliegt auf einem rechtweisenden Kurs (TC) von 220° mit einer wahren Fluggeschwindigkeit (TAS) von 220 kt. Der Wind beträgt 270°/50 kt.
+Die Geschwindigkeit über Grund (GS) beträgt...
+    <response stimmt="True">185 kt.</response>
+    <response>170 kt.</response>
+    <response>135 kt.</response>
+    <response>255 kt.</response>
+  </question>
+  <question id="98" punkte="1.0" category="NAV">
+    Ein Luftfahrzeug folgt einem rechtweisenden Kurs (TC) von 040° bei einer konstanten Wahren Eigengeschwindigkeit (TAS) von 180 kt. Der Windvektor beträgt 350°/30 kt.
+Die Geschwindigkeit über Grund (GS) beträgt...
+    <response>172 kt.</response>
+    <response stimmt="True">159 kt.</response>
+    <response>155 kt.</response>
+    <response>168 kt.</response>
+  </question>
+  <question id="99" punkte="1.0" category="NAV">
+    Ein Luftfahrzeug folgt einem rechtweisenden Kurs (TC) von 040° bei einer konstanten Wahren Eigengeschwindigkeit (TAS) von 180 kt. Der Windvektor beträgt 350°/30 kt.
+Der Windvorhaltewinkel (WCA) beträgt...
+    <response>+ 11°</response>
+    <response>+ 5°</response>
+    <response>- 9°</response>
+    <response stimmt="True">- 7°</response>
+  </question>
+  <question id="100" punkte="1.0" category="NAV">
+    Folgende Werte sind gegeben: Rechtweisender Kurs (TC): 270°. TAS: 100 kt.
+Wind: 090°/25 kt.
+Distanz: 100 NM.
+Die Geschwindigkeit über Grund (GS) beträgt...
+    <response>117 kt.</response>
+    <response>120 kt.</response>
+    <response stimmt="True">125 kt.</response>
+    <response>131 kt.</response>
+  </question>
+  <question id="101" punkte="1.0" category="NAV">
+    Folgende Werte sind gegeben: Rechtweisender Kurs (TC): 270°. TAS: 100 kt.
+Wind: 090°/25 kt.
+Distanz: 100 NM.
+Die Flugzeit beträgt...
+    <response>37 Min.</response>
+    <response>62 Min.</response>
+    <response>84 Min.</response>
+    <response stimmt="True">48 Min.</response>
+  </question>
+  <question id="102" punkte="1.0" category="NAV">
+    Ein Luftfahrzeug fliegt auf einem rechtweisenden Steuerkurs (TH) von 290° mit einer Wahren Eigengeschwindigkeit (TAS) von 150 kt. Der Wind beträgt 260°/20 kt.
+Der rechtweisende Kurs (TC) beträgt...
+    <response>286°.</response>
+    <response stimmt="True">294°.</response>
+    <response>299°.</response>
+    <response>297°.</response>
+  </question>
+  <question id="103" punkte="1.0" category="NAV">
+    Ein Luftfahrzeug folgt einem rechtweisenden Kurs (TC) von 040° bei einer konstanten Wahren Eigengeschwindigkeit (TAS) von 180 kt. Der Windvektor beträgt 350°/30 kt.
+Der Windvorhaltewinkel (WCA) beträgt...
+    <response>7° rechts.</response>
+    <response stimmt="True">7° links.</response>
+    <response>3° links.</response>
+    <response>3° rechts.</response>
+  </question>
+  <question id="104" punkte="1.0" category="NAV">
+    Ein Luftfahrzeug fliegt auf einem rechtweisenden Kurs (TC) von 140° mit einer Geschwindigkeit über Grund (GS) von 120 kt. Die Wahre Fluggeschwindigkeit (TAS) beträgt 150 kt, der rechtweisende Steuerkurs (TH) beträgt 150°.
+Windrichtung und Windgeschwindigkeit betragen...
+    <response>200° / 20 kt.</response>
+    <response>220° / 30 kt.</response>
+    <response>225° / 16 kt.</response>
+    <response stimmt="True">183° / 38 kt.</response>
+  </question>
+  <question id="105" punkte="1.0" category="NAV">
+    Folgende Werte sind gegeben: Rechtweisender Kurs (TC): 120°. TAS: 120 kt.
+Wind 150°/12 kt.
+Der WCA beträgt...
+    <response stimmt="True">3° nach rechts.</response>
+    <response>3° nach links.</response>
+    <response>6° nach links.</response>
+    <response>6° nach rechts.</response>
+  </question>
+  <question id="106" punkte="1.0" category="NAV">
+    Beim Passieren einer bekannten Bodenmarkierung während eines Streckenfluges stellt der Pilot fest, dass er 5 Minuten schneller als geplant ist. Die geplante Geschwindigkeit über Grund (GS) beträgt 120 kt, die Distanz des vorherigen Teilstücks betrug 30 NM.
+Die zusätzliche Windkomponente (WK) beträgt...
+    <response>18 kt Rückenwind.</response>
+    <response>20 kt Rückenwind.</response>
+    <response>25 kt Rückenwind.</response>
+    <response stimmt="True">60 kt Rückenwind.</response>
+  </question>
+  <question id="107" punkte="1.0" category="NAV">
+    Die Entfernung von A nach B beträgt 120 NM. Nach 55 NM stellt der Pilot eine Abweichung von der geplanten Kursstrecke von 7 NM nach rechts fest.
+Welche Steuerkursänderung muss durchgeführt werden, um B direkt zu erreichen?
+    <response>6° links</response>
+    <response>8° links</response>
+    <response stimmt="True">14° links</response>
+    <response>7° links</response>
+  </question>
+  <question id="108" punkte="1.0" category="NAV">
+    Ein Luftfahrzeug fliegt auf einem Steuerkurs von 090°. Die zu fliegende Distanz beträgt 90 NM. Nach 45 NM ist das Luftfahrzeug 4,5 NM nördlich des Flugweges.
+Welche Steuerkursänderung muss durchgeführt werden, um am Zielflughafen anzukommen?
+    <response>6° nach rechts</response>
+    <response>9° nach rechts</response>
+    <response stimmt="True">12° nach rechts</response>
+    <response>18° nach rechts</response>
+  </question>
+  <question id="109" punkte="1.0" category="NAV">
+    Welche vereinfachte Annahme ist die Grundlage der "1 zu 60 Regel"?
+    <response>6 NM seitlicher Versatz auf 10 NM Flugstrecke entsprechen einem Driftwinkel von 1°.</response>
+    <response>60 NM seitlicher Versatz auf 1 NM Flugstrecke entsprechen einem Driftwinkel von 1°.</response>
+    <response stimmt="True">1 NM seitlicher Versatz auf 60 NM Flugstrecke entspricht einem Driftwinkel von 1°.</response>
+    <response>10 NM seitlicher Versatz auf 60 NM Flugstrecke entsprechen einem Driftwinkel von 1°.</response>
+  </question>
+  <question id="110" punkte="1.0" category="NAV">
+    Während des Fluges werden folgende Werte ermittelt: Rechtweisender Kurs (TC): 120°.
+Geschwindigkeit über Grund (GS): 140 kt. Rechtweisender Steuerkurs (TH): 115°.
+Wahre Fluggeschwindigkeit (TAS): 150 kt.
+Welcher Windvektor ist korrekt?
+    <response>85° / 16 kt.</response>
+    <response>85° / 24 kt.</response>
+    <response stimmt="True">65° / 16 kt.</response>
+    <response>65° / 24 kt.</response>
+  </question>
+  <question id="111" punkte="1.0" category="NAV">
+    Ein Luftfahrzeug befindet sich auf dem Flug von A nach B (Entfernung 220 NM) bei einer kalkulierten Geschwindigkeit über Grund (GS) von 120 kt. Der Start erfolgte um 1200 UTC. Nach 70 NM entlang der Strecke ist das Luftfahrzeug 5 Minuten vor seiner geplanten Zeit.
+Welches ist die revidierte voraussichtliche Ankunftszeit (estimated time of arrival - ETA) für B, wenn die neu ermittelte GS für die gesamte Strecke gilt?
+    <response>1345 UTC</response>
+    <response stimmt="True">1335 UTC</response>
+    <response>1340 UTC</response>
+    <response>1330 UTC</response>
+  </question>
+  <question id="112" punkte="1.0" category="NAV">
+    Unter der Annahme von Windstille sinkt ein Luftfahrzeug von 9.000 ft auf 1.500 ft bei einer Sinkrate von 1.200 ft/Min.
+Wie lange dauert der Sinkflug?
+    <response>Dauer: 15 Min</response>
+    <response>Dauer: 8 Min</response>
+    <response>Dauer: 12 Min</response>
+    <response stimmt="True">Dauer: 6 Min</response>
+  </question>
+  <question id="113" punkte="1.0" category="NAV">
+    Unter der Annahme von Windstille sinkt ein Luftfahrzeug von 7.500 ft auf 1.200 ft. Die durchschnittliche wahre Eigengeschwindigkeit (TAS) beträgt 105 kt bei einer Sinkrate von 800 ft/Min.
+Wie lange dauert der Sinkflug?
+    <response>Dauer: 6 Min</response>
+    <response>Dauer: 12 Min</response>
+    <response stimmt="True">Dauer: 8 Min</response>
+    <response>Dauer: 15 Min</response>
+  </question>
+  <question id="114" punkte="3.0" category="NAV" img="NAV-014">
+    Welche Werte ergänzen den Flugdurchführungsplan (markierte Kästchen) korrekt?
+Siehe Anlage (NAV-014) Siehe Anlage 3
+    <response stimmt="True">TH: 185°. MH: 184°. MC: 178°.</response>
+    <response>TH: 173°. MH: 184°. MC: 178°.</response>
+    <response>TH: 185°. MH: 185°. MC: 180°.</response>
+    <response>TH: 173°. MH: 174°. MC: 178°.</response>
+  </question>
+  <question id="115" punkte="1.0" category="NAV" img="NAV-017">
+    Welche Empfangsantenne befindet sich unter dem abgebildeten Antennenschutz?
+Siehe Bild (NAV-017)
+    <response>DME</response>
+    <response>VDF</response>
+    <response>VOR</response>
+    <response stimmt="True">ADF</response>
+  </question>
+  <question id="116" punkte="1.0" category="NAV">
+    Mit welcher Geschwindigkeit breiten sich elektromagnetische Wellen ungefähr aus?
+    <response>300.000 NM/s</response>
+    <response>300.000 ft/s</response>
+    <response stimmt="True">300.000 km/s</response>
+    <response>300.000 m/s</response>
+  </question>
+  <question id="117" punkte="1.0" category="NAV">
+    Welche Modulationsarten gibt es?
+    <response stimmt="True">Amplitudenmodulation, Frequenzmodulation, Pulsmodulation</response>
+    <response>Schwingungsmodulation, Phasenmodulation, Frequenzmodulation</response>
+    <response>Frequenzmodulation, Schwingungsmodulation, Hertzmodulation</response>
+    <response>Phasenmodulation, Hertzmodulation, Amplitudenmodulation</response>
+  </question>
+  <question id="118" punkte="1.0" category="NAV">
+    Wie breiten sich Funkwellen im Lang- und Mittelwellenbereich (z.B. NDB) aus?
+    <response>Ausschließlich als Bodenwelle</response>
+    <response stimmt="True">Als Raumwelle und Bodenwelle</response>
+    <response>Als quasioptische (direkte) Welle</response>
+    <response>Ausschließlich als Raumwelle</response>
+  </question>
+  <question id="119" punkte="1.0" category="NAV">
+    Wie breiten sich Funkwellen im Ultrakurzwellenbereich (z.B. VOR) aus?
+    <response>Ausschließlich als Bodenwelle</response>
+    <response>Als Raumwelle und Bodenwelle</response>
+    <response>Ausschließlich als Raumwelle</response>
+    <response stimmt="True">Als quasioptische (direkte) Welle</response>
+  </question>
+  <question id="120" punkte="1.0" category="NAV">
+    Wie breiten sich quasioptische (direkte) Wellen aus?
+    <response>Entlang der Erdoberfläche, werden aber durch Wassermassen absorbiert</response>
+    <response>Entlang der Erdoberfläche und deren Krümmung folgend</response>
+    <response stimmt="True">Direkt durch die Atmosphäre vom Sender zum Empfänger</response>
+    <response>Direkt durch die Atmosphäre, werden aber durch die Ionosphäre beeinflusst</response>
+  </question>
+  <question id="121" punkte="1.0" category="NAV">
+    Welche Information kann ein UKW-Peiler (VDF) ermitteln?
+    <response>Schrägentfernungen</response>
+    <response>Annäherungsgeschwindigkeiten</response>
+    <response stimmt="True">Magnetische Peilungen</response>
+    <response>Rechtweisende Steuerkurse</response>
+  </question>
+  <question id="122" punkte="1.0" category="NAV">
+    Welche Ausrüstung muss an Bord eines Luftfahrzeuges vorhanden sein, um einen UKW-Peiler (VDF) zu nutzen?
+    <response stimmt="True">Ein UKW-Funkgerät</response>
+    <response>Ein UKW-Peilempfänger</response>
+    <response>Ein Funkkompass (RBI)</response>
+    <response>Wenigstens zwei UKW-Antennen</response>
+  </question>
+  <question id="123" punkte="1.0" category="NAV">
+    Gegeben: QDM: 138°; VAR: 010°E. Welchen Wert hat das QUJ?
+    <response>168°</response>
+    <response stimmt="True">148°</response>
+    <response>318°</response>
+    <response>328°</response>
+  </question>
+  <question id="124" punkte="1.0" category="NAV">
+    Gegeben: QTE: 229°; VAR: 010°W. Welchen Wert hat das QDM?
+    <response>239°</response>
+    <response>049°</response>
+    <response stimmt="True">059°</response>
+    <response>039°</response>
+  </question>
+  <question id="125" punkte="1.0" category="NAV">
+    Gegeben: QDR: 022°; VAR 010°E. Welchen Wert hat das QTE?
+    <response>212°</response>
+    <response>052°</response>
+    <response>202°</response>
+    <response stimmt="True">032°</response>
+  </question>
+  <question id="126" punkte="1.0" category="NAV">
+    Gegeben: QDR: 067°; VAR: 005°E. Welchen Wert hat das QDM?
+    <response>252°</response>
+    <response stimmt="True">247°</response>
+    <response>072°</response>
+    <response>257°</response>
+  </question>
+  <question id="127" punkte="1.0" category="NAV">
+    Gegeben: QDM: 279°; VAR: 005°W; DEV 005°E.
+Welchen Wert hat das QDR?
+    <response stimmt="True">099°</response>
+    <response>094°</response>
+    <response>274°</response>
+    <response>089°</response>
+  </question>
+  <question id="128" punkte="1.0" category="NAV">
+    Gegeben: QDM: 300°; VAR: 005°E; DEV: 005°W. Welchen Wert hat das QDR?
+    <response>125°</response>
+    <response>130°</response>
+    <response stimmt="True">120°</response>
+    <response>305°</response>
+  </question>
+  <question id="129" punkte="1.0" category="NAV">
+    Gegeben: QDR 152°; VAR: 005°W; DEV: 005°E. Welchen Wert hat das QUJ?
+    <response>332°</response>
+    <response>147°</response>
+    <response>317°</response>
+    <response stimmt="True">327°</response>
+  </question>
+  <question id="130" punkte="1.0" category="NAV">
+    Gegeben: QDM: 348°; VAR: 005°W. Welchen Wert hat das QTE?
+    <response>168°</response>
+    <response stimmt="True">163°</response>
+    <response>153°</response>
+    <response>343°</response>
+  </question>
+  <question id="131" punkte="1.0" category="NAV">
+    Gegeben: QTE 203°; VAR 010°E. Welchen Wert hat das QDR?
+    <response>023°</response>
+    <response>213°</response>
+    <response>013°</response>
+    <response stimmt="True">193°</response>
+  </question>
+  <question id="132" punkte="1.0" category="NAV">
+    Gegeben: QTE: 248°; VAR: 010°W.
+Welchen Wert hat das QDR?
+    <response>238°</response>
+    <response>078°</response>
+    <response stimmt="True">258°</response>
+    <response>068°</response>
+  </question>
+  <question id="133" punkte="1.0" category="NAV">
+    Gegeben: QDR: 254°; VAR: 010°E. Welchen Wert hat das QTE?
+    <response>074°</response>
+    <response>084°</response>
+    <response>284°</response>
+    <response stimmt="True">264°</response>
+  </question>
+  <question id="134" punkte="1.0" category="NAV">
+    Gegeben: QDM: 134°; VAR: 005°W. Welchen Wert hat das QTE?
+    <response>129°</response>
+    <response>314°</response>
+    <response>299°</response>
+    <response stimmt="True">309°</response>
+  </question>
+  <question id="135" punkte="1.0" category="NAV">
+    Wo befindet sich das Luftfahrzeug in Bezug auf die Bodenstation bei einem QDR von 225°?
+    <response>Nordwestlich</response>
+    <response>Südöstlich</response>
+    <response stimmt="True">Südwestlich</response>
+    <response>Nordöstlich</response>
+  </question>
+  <question id="136" punkte="1.0" category="NAV">
+    Das "QDR" ist definiert als...
+    <response>die rechtweisende Peilung von der Station zum Luftfahrzeug.</response>
+    <response>die rechtweisende Peilung vom Luftfahrzeug zur Station.</response>
+    <response>die magnetische Peilung vom Luftfahrzeug zur Station.</response>
+    <response stimmt="True">die magnetische Peilung von der Station zum Luftfahrzeug.</response>
+  </question>
+  <question id="137" punkte="1.0" category="NAV">
+    Das "QUJ" ist definiert als...
+    <response>die magnetische Peilung vom Luftfahrzeug zur Station.</response>
+    <response stimmt="True">die rechtweisende Peilung vom Luftfahrzeug zur Station.</response>
+    <response>die rechtweisende Peilung von der Station zum Luftfahrzeug.</response>
+    <response>die magnetische Peilung von der Station zum Luftfahrzeug.</response>
+  </question>
+  <question id="138" punkte="1.0" category="NAV">
+    Das "QTE" ist definiert als...
+    <response stimmt="True">die rechtweisende Peilung von der Station zum Luftfahrzeug.</response>
+    <response>die magnetische Peilung vom Luftfahrzeug zur Station.</response>
+    <response>die rechtweisende Peilung vom Luftfahrzeug zur Station.</response>
+    <response>die magnetische Peilung von der Station zum Luftfahrzeug.</response>
+  </question>
+  <question id="139" punkte="1.0" category="NAV">
+    Wo befindet sich das Luftfahrzeug in Bezug auf die Bodenstation bei einem QDM von 035°?
+    <response stimmt="True">Südwestlich</response>
+    <response>Nordwestlich</response>
+    <response>Nordöstlich</response>
+    <response>Südöstlich</response>
+  </question>
+  <question id="140" punkte="1.0" category="NAV">
+    Wo befindet sich das Luftfahrzeug in Bezug auf die Bodenstation bei einem QDM von 305°?
+    <response>Nordwestlich</response>
+    <response>Südwestlich</response>
+    <response stimmt="True">Südöstlich</response>
+    <response>Nordöstlich</response>
+  </question>
+  <question id="141" punkte="1.0" category="NAV">
+    Wo befindet sich das Luftfahrzeug in Bezug auf die Bodenstation bei einem QDM von 215°?
+    <response>Nordwestlich</response>
+    <response stimmt="True">Nordöstlich</response>
+    <response>Südöstlich</response>
+    <response>Südwestlich</response>
+  </question>
+  <question id="142" punkte="1.0" category="NAV">
+    Wo befindet sich das Luftfahrzeug in Bezug auf die Bodenstation bei einem QDR von 135°?
+    <response>Nordwestlich</response>
+    <response>Nordöstlich</response>
+    <response stimmt="True">Südöstlich</response>
+    <response>Südwestlich</response>
+  </question>
+  <question id="143" punkte="1.0" category="NAV">
+    Wo befindet sich das Luftfahrzeug in Bezug auf die Bodenstation bei einem QDR von 315°?
+    <response>Südwestlich</response>
+    <response>Südöstlich</response>
+    <response>Nordöstlich</response>
+    <response stimmt="True">Nordwestlich</response>
+  </question>
+  <question id="144" punkte="1.0" category="NAV">
+    Die Reichweite eines UKW-Peilers (VDF) ist abhängig von...
+    <response>der Geschwindigkeit des Luftfahrzeuges.</response>
+    <response>dem Zustand der Ionosphäre.</response>
+    <response stimmt="True">der Flughöhe des Luftfahrzeuges.</response>
+    <response>der Reichweite der Bodenwelle.</response>
+  </question>
+  <question id="145" punkte="1.0" category="NAV">
+    Welche Ausrüstung an Bord des Luftfahrzeuges wird zum Empfang eines ungerichteten Funkfeuers (NDB) benötigt?
+    <response>Horizontal Situation Indicator (HSI)</response>
+    <response>Course Deviation Indicator (CDI)</response>
+    <response stimmt="True">Automatic Direction Finder (ADF)</response>
+    <response>Secondary Surveillance Radar (SSR)</response>
+  </question>
+  <question id="146" punkte="1.0" category="NAV">
+    Ungerichtete Funkfeuer (NDBs) senden in welchem Frequenzbereich?
+    <response>Ultrakurzwellen (UKW)</response>
+    <response stimmt="True">Langwellen (LW) und Mittelwellen (MW)</response>
+    <response>Ultralangwellen (ULW) und Langwellen (LW)</response>
+    <response>Kurzwellen (KW)</response>
+  </question>
+  <question id="147" punkte="1.0" category="NAV">
+    Ein Pilot möchte mit einem QDM von 090° auf ein NDB zufliegen. Das Luftfahrzeug fliegt für 5 Minuten mit einem magnetischen Steuerkurs (MH) von 095° und einer Funkkompass-Anzeige (RBI) von 355° stabil auf ein NDB zu. Nach 6 Minuten zeigt der Funkkompass den Wert 358° an.
+Welche Aussage ist korrekt?
+    <response>Die Seitenwindkomponente ist kleiner geworden; der Pilot muss einen kleineren Steuerkurs fliegen.</response>
+    <response stimmt="True">Die Seitenwindkomponente ist größer geworden; der Pilot muss einen größeren Steuerkurs fliegen.</response>
+    <response>Die Seitenwindkomponente ist größer geworden; der Pilot muss einen kleineren Steuerkurs fliegen.</response>
+    <response>Die Seitenwindkomponente ist kleiner geworden; der Pilot muss einen größeren Steuerkurs fliegen.</response>
+  </question>
+  <question id="148" punkte="1.0" category="NAV" img="NAV-019">
+    Welches QDM muss der Pilot fliegen, um bei Windstille direkt zum eingestellten NDB zu gelangen?
+Siehe Bild (NAV-019)
+    <response>230°</response>
+    <response>200°</response>
+    <response>080°</response>
+    <response stimmt="True">260°</response>
+  </question>
+  <question id="149" punkte="1.0" category="NAV">
+    Welcher Unterschied besteht zwischen einem Anflug-NDB und einem Strecken-NDB?
+    <response>Anflug-NDBs sind präziser</response>
+    <response stimmt="True">Anflug-NDBs haben eine geringere Reichweite</response>
+    <response>Anflug-NDBs haben eine höhere Reichweite</response>
+    <response>Anflug-NDBs senden nur bei Bedarf (Anflügen)</response>
+  </question>
+  <question id="150" punkte="1.0" category="NAV">
+    Wann ist die Reichweite von NDBs im Mittelwellenbereich am größten?
+    <response>Vormittags</response>
+    <response>Tagsüber</response>
+    <response>Mittags</response>
+    <response stimmt="True">Nachts</response>
+  </question>
+  <question id="151" punkte="1.0" category="NAV">
+    Unter welchen Bedingungen ist der Küstenfehler am größten?
+    <response>Funkwellenausbreitung im spitzen Winkel zur Küste. Luftfahrzeug fliegt oberhalb einer Flughöhe von 6.000 ft.</response>
+    <response stimmt="True">Funkwellenausbreitung im spitzen Winkel zur Küste. Luftfahrzeug fliegt unterhalb einer Flughöhe von 6.000 ft.</response>
+    <response>Funkwellenausbreitung im rechten Winkel zur Küste. Luftfahrzeug fliegt oberhalb einer Flughöhe von 6.000 ft.</response>
+    <response>Funkwellenausbreitung im rechten Winkel zur Küste. Luftfahrzeug fliegt unterhalb einer Flughöhe von 6.000 ft.</response>
+  </question>
+  <question id="152" punkte="1.0" category="NAV">
+    Zu welcher Tageszeit kann es im LF/MF-Frequenzbereich zu "fading" kommen?
+    <response>Mittags</response>
+    <response>Am späten Nachmittag</response>
+    <response stimmt="True">Nachts</response>
+    <response>Tagsüber</response>
+  </question>
+  <question id="153" punkte="1.0" category="NAV">
+    Welcher Winkel beschreibt das zeitliche oder räumliche Fortschreiten einer elektromagnetischen Schwingung?
+    <response stimmt="True">Phasenwinkel</response>
+    <response>Amplitudenwinkel</response>
+    <response>Wellenwinkel</response>
+    <response>Frequenzwinkel</response>
+  </question>
+  <question id="154" punkte="1.0" category="NAV">
+    Nähern sich Sender und Empfänger einander an...
+    <response>verringert sich die wahrgenommene Frequenz.</response>
+    <response>entspricht die wahrgenommene der gesendeten Frequenz.</response>
+    <response stimmt="True">erhöht sich die vom Empfänger wahrgenommene Frequenz.</response>
+    <response>variiert die Frequenz, die Wellenlänge bleibt jedoch gleich.</response>
+  </question>
+  <question id="155" punkte="1.0" category="NAV">
+    Entfernen sich Sender und Empfänger voneinander...
+    <response>entspricht die wahrgenommene der gesendeten Frequenz.</response>
+    <response>erhöht sich die vom Empfänger wahrgenommene Frequenz.</response>
+    <response stimmt="True">verringert sich die wahrgenommene Frequenz.</response>
+    <response>variiert die Frequenz, die Wellenlänge bleibt jedoch gleich.</response>
+  </question>
+  <question id="156" punkte="1.0" category="NAV">
+    Nach welchem Prinzip werden die Radiale eines VORs definiert?
+    <response>Amplitudenvergleich zweier Signale</response>
+    <response>Impulsvergleich zweier Signale</response>
+    <response stimmt="True">Phasenvergleich zweier Signale</response>
+    <response>Frequenzvergleich zweier Signale</response>
+  </question>
+  <question id="157" punkte="1.0" category="NAV">
+    Ein VOR-Radial entspricht dem...
+    <response>QDM.</response>
+    <response>QTE.</response>
+    <response>QUJ.</response>
+    <response stimmt="True">QDR.</response>
+  </question>
+  <question id="158" punkte="1.0" category="NAV">
+    Wo befindet sich das Luftfahrzeug, wenn die VOR-Nadel voll ausgeschlagen ist?
+    <response>10 NM (oder mehr) neben der eingestellten Kurslinie</response>
+    <response>2 NM neben der eingestellten Kurslinie</response>
+    <response>2° neben der eingestellten Kurslinie</response>
+    <response stimmt="True">10° (oder mehr) neben der eingestellten Kurslinie</response>
+  </question>
+  <question id="159" punkte="1.0" category="NAV" img="NAV-021">
+    Wo befindet sich das Luftfahrzeug in Bezug auf das VOR?
+Siehe Anlage (NAV-021) Siehe Anlage 4
+    <response>Südöstlich</response>
+    <response stimmt="True">Nordöstlich</response>
+    <response>Nordwestlich</response>
+    <response>Südwestlich</response>
+  </question>
+  <question id="160" punkte="1.0" category="NAV" img="NAV-022">
+    Wo befindet sich das Luftfahrzeug in Bezug auf das VOR?
+Siehe Anlage (NAV-022) Siehe Anlage 5
+    <response stimmt="True">Nordöstlich</response>
+    <response>Südwestlich</response>
+    <response>Südöstlich</response>
+    <response>Nordwestlich</response>
+  </question>
+  <question id="161" punkte="1.0" category="NAV" img="NAV-024">
+    Auf welchem Radial befindet sich das Luftfahrzeug?
+Siehe Anlage (NAV-024) Siehe Anlage 6
+    <response>066°</response>
+    <response>060°</response>
+    <response stimmt="True">234°</response>
+    <response>246°</response>
+  </question>
+  <question id="162" punkte="1.0" category="NAV">
+    Die Reichweite eines VORs wird entscheidend beeinflusst durch...
+    <response>Atmosphärische Interferenzen bei Tageslicht</response>
+    <response>Mehrfachausbreitung der Bodenwelle</response>
+    <response stimmt="True">Sender- und Empfängerhöhe</response>
+    <response>Reflektierte Raumwellen</response>
+  </question>
+  <question id="163" punkte="1.0" category="NAV">
+    In welchem Frequenzband arbeiten Entfernungsmessgeräte (DMEs)?
+    <response>VHF</response>
+    <response>HF</response>
+    <response stimmt="True">UHF</response>
+    <response>SHF</response>
+  </question>
+  <question id="164" punkte="1.0" category="NAV">
+    Nach welchem Prinzip bestimmt ein Entfernungsmessgerät (DME) die Distanz?
+    <response>Lasermessung</response>
+    <response>Phasenvergleich</response>
+    <response>Doppler</response>
+    <response stimmt="True">Laufzeitmessung</response>
+  </question>
+  <question id="165" punkte="1.0" category="NAV">
+    Welche Entfernung kann auf dem Entfernungsmessgerät (DME) im Cockpit abgelesen werden?
+    <response>Radialentfernung</response>
+    <response stimmt="True">Schrägentfernung</response>
+    <response>Entfernung über Grund</response>
+    <response>Luftentfernung</response>
+  </question>
+  <question id="166" punkte="1.0" category="NAV">
+    Wie viele Luftfahrzeuge können ungefähr maximal gleichzeitig von einer Entfernungsmessstation (DME) bedient werden?
+    <response>70</response>
+    <response>150</response>
+    <response stimmt="True">100</response>
+    <response>50</response>
+  </question>
+  <question id="167" punkte="1.0" category="NAV">
+    Die Differenz zwischen der abgelesenen DME-Entfernung und der horizontalen Entfernung zur DME-Station nimmt zu...
+    <response>mit steigender Entfernung von der Station.</response>
+    <response>während des Sinkfluges.</response>
+    <response stimmt="True">mit Annäherung an die Station.</response>
+    <response>bei einem Kreisflug um die Station.</response>
+  </question>
+  <question id="168" punkte="1.0" category="NAV">
+    Das primäre Bodenradar bestimmt die Richtung eines Luftfahrzeuges in Bezug auf die Antenne durch...
+    <response>Frequenzverschiebung.</response>
+    <response>das Impulspaarintervall.</response>
+    <response>Laufzeitmessung.</response>
+    <response stimmt="True">die Stellung der Antenne.</response>
+  </question>
+  <question id="169" punkte="1.0" category="NAV">
+    Das primäre Bodenradar bestimmt die Entfernung eines Luftfahrzeuges in Bezug auf die Antenne durch...
+    <response>das Impulspaarintervall.</response>
+    <response>die Stellung der Antenne.</response>
+    <response>Die Frequenzverschiebung.</response>
+    <response stimmt="True">Laufzeitmessung.</response>
+  </question>
+  <question id="170" punkte="1.0" category="NAV">
+    Welche unmittelbaren Informationen erhält die Flugsicherung von einer primären Bodenradaranlage?
+    <response>Geschwindigkeit (TAS) und Entfernung</response>
+    <response>Richtung und Geschwindigkeit (TAS)</response>
+    <response stimmt="True">Richtung und Entfernung</response>
+    <response>Geschwindigkeit (TAS) und Steuerkurs</response>
+  </question>
+  <question id="171" punkte="1.0" category="NAV">
+    Wie erfolgt die Anzeige der Bodenradarinformationen für die Flugsicherung?
+    <response>Auf einem Computerbildschirm, der neben dem Sekundärradar-Anzeigegerät stehen muss</response>
+    <response>Auf einer Digitalanzeige, welche die relevanten Werte für alle erfassten Luftfahrzeuge anzeigt</response>
+    <response>Auf einem Informationsstreifen, der auf Anfrage ausgedruckt wird</response>
+    <response stimmt="True">Auf einem Computerbildschirm mit weiteren optionalen Informationen (z.B. Lufträume)</response>
+  </question>
+  <question id="172" punkte="1.0" category="NAV">
+    Wie wird das bordseitige Antwortgerät eines Sekundärradars (secondary surveillance radar - SSR) bezeichnet?
+    <response stimmt="True">Transponder</response>
+    <response>Course indicator</response>
+    <response>Decoder</response>
+    <response>Interrogator</response>
+  </question>
+  <question id="173" punkte="1.0" category="NAV">
+    Welches ist ein Unterschied zwischen Primär- und Sekundärradar?
+    <response>Das Primärradar wird auf einem Computerbildschirm angezeigt, das Sekundärradar durch einen ausgedruckten Radarstreifen</response>
+    <response stimmt="True">Beim Primärradar werden die ausgesandten Impulse vom Luftfahrzeug reflektiert, beim Sekundärradar vom Transponder beantwortet</response>
+    <response>Primärradar-Signale sind variabel oder statisch impulsmoduliert, Sekundärradar-Signale immer amplitudenmoduliert</response>
+    <response>Primärradar-Signale sind variabel amplitudenmoduliert, Sekundärradar-Signale statisch impulsmoduliert</response>
+  </question>
+  <question id="174" punkte="1.0" category="NAV">
+    Der Transpondercode bei einem Funkausfall lautet...
+    <response>7000.</response>
+    <response>7500.</response>
+    <response>7700.</response>
+    <response stimmt="True">7600.</response>
+  </question>
+  <question id="175" punkte="1.0" category="NAV">
+    Der Transpondercode bei einem Notfall lautet...
+    <response>7600.</response>
+    <response>7500.</response>
+    <response stimmt="True">7700.</response>
+    <response>7000.</response>
+  </question>
+  <question id="176" punkte="1.0" category="NAV">
+    Welche Höhe übermittelt der Transponder in Modus C?
+    <response>QFE-Höhe</response>
+    <response>Radarhöhe</response>
+    <response stimmt="True">Druckhöhe</response>
+    <response>QNH-Höhe</response>
+  </question>
+  <question id="177" punkte="1.0" category="NAV">
+    Aus welchen Segmenten besteht ein "Global Positioning System" (GPS)?
+    <response stimmt="True">Raumsegment, Boden(Kontroll-)segment, Bordsegment</response>
+    <response>Boden(Kontroll-)segment, Bestätigungssegment, Flugsegment</response>
+    <response>Bestätigungssegment, Bordsegment, Raumsegment</response>
+    <response>Bordsegment, Flugsegment, Raumsegment</response>
+  </question>
+  <question id="178" punkte="1.0" category="NAV">
+    Wie viele aktive Satelliten benötigt das Raumsegment des NAVSTAR/GPS?
+    <response>26</response>
+    <response>20</response>
+    <response stimmt="True">24</response>
+    <response>22</response>
+  </question>
+
+</source>
+
+<source url="ecqb-ppl.aircademy.com" file="ECQB-PPLA-51-FPP_DE.pdf" version="2018.3" sha256="0000000000000000" date="16-01-2019 12:28">
+</source>
+
+<source url="ecqb-ppl.aircademy.com" file="ECQB-PPLA-51-COM_DE.pdf" version="2018.3" sha256="0000000000000000" date="16-01-2019 11:40">
+</source>
+</questionlist>

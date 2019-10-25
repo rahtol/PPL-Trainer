@@ -21,7 +21,9 @@
 <?import javafx.scene.text.Font?>
 
 
-<AnchorPane fx:id="parent" maxHeight="-Infinity" prefHeight="710.0" prefWidth="820.0" stylesheets="@../css/home.css" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.houarizegai.quizappfx.controllers.JavaQuizController">
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.image.Image?>
+<AnchorPane fx:id="parent" maxHeight="-Infinity" prefHeight="710.0" prefWidth="820.0" stylesheets="@../css/home.css" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.becke.quizappfx.controllers.JavaQuizController">
    <children>
       <Pane layoutX="1.0" prefHeight="38.0" prefWidth="820.0" style="-fx-background-color: #E4E2E4;">
          <children>
@@ -35,7 +37,7 @@
                   <Cursor fx:constant="HAND" />
                </cursor>
             </Label>
-            <Label layoutX="393.0" layoutY="6.0" text="Java Quiz">
+            <Label layoutX="393.0" layoutY="6.0" text="PPL(A) - Trainer">
                <font>
                   <Font name="System Bold" size="12.0" />
                </font>
@@ -53,19 +55,26 @@
                               <Insets bottom="30.0" />
                            </VBox.margin>
                         </Label>
-                        <Label prefHeight="44.0" prefWidth="747.0" styleClass="title2" text="Question:" />
+                        <Label fx:id="questionId" prefHeight="44.0" prefWidth="747.0" styleClass="title2" text="Frage #7" />
                         <ScrollPane prefHeight="214.0" prefWidth="790.0">
                            <content>
-                              <TextArea fx:id="questionLbl" editable="false" minHeight="-Infinity" minWidth="-Infinity" prefHeight="207.0" prefWidth="788.0" styleClass="label_head" />
+                               <VBox spacing="5.0" alignment="TOP_CENTER">
+                                  <TextArea fx:id="questionLbl" editable="false" wrapText="true" prefRowCount="2" styleClass="label_head" />
+                                  <ImageView fx:id="questionImage" preserveRatio="true">
+                                     <image>
+                                        <Image url="@../images/PFA-009.png" />
+                                     </image>
+                                  </ImageView>
+                               </VBox>
                            </content>
                         </ScrollPane>
-                        <Label prefHeight="44.0" prefWidth="752.0" styleClass="title2" text="Answer:" />
+                        <Label prefHeight="44.0" prefWidth="752.0" styleClass="title2" text="Antwort" />
                         <VBox maxWidth="-Infinity" prefHeight="152.0" prefWidth="725.0" spacing="20.0">
                            <children>
-                              <JFXRadioButton fx:id="response1" onAction="#radioClicked" text=" " />
-                              <JFXRadioButton fx:id="response2" onAction="#radioClicked" text=" " />
-                              <JFXRadioButton fx:id="response3" onAction="#radioClicked" text=" " />
-                              <JFXRadioButton fx:id="response4" onAction="#radioClicked" text=" " />
+                              <JFXRadioButton fx:id="response1" onAction="#radioClicked" text=" " prefWidth="725.0" wrapText="true"/>
+                              <JFXRadioButton fx:id="response2" onAction="#radioClicked" text=" " prefWidth="725.0" wrapText="true"/>
+                              <JFXRadioButton fx:id="response3" onAction="#radioClicked" text=" " prefWidth="725.0" wrapText="true"/>
+                              <JFXRadioButton fx:id="response4" onAction="#radioClicked" text=" " prefWidth="725.0" wrapText="true"/>
                            </children>
                         </VBox>
                         <HBox alignment="CENTER" prefHeight="69.0" prefWidth="680.0" spacing="20.0">
@@ -85,6 +94,7 @@
                      </children>
                   </VBox>
                   <Icons525View glyphName="SIGN_OUT" layoutX="9.0" layoutY="57.0" onMouseClicked="#btnBackHome" size="25" styleClass="icon" />
+                  <Label fx:id="detailedprogress" styleClass="detailed_progress" text="aa / bb / cc" layoutX="680.0" layoutY="-12"/>
                   <ProgressIndicator fx:id="progress" layoutX="744.0" layoutY="18.0" prefHeight="60.0" prefWidth="70.0" progress="0.0">
                      <effect>
                         <Blend />
@@ -142,21 +152,24 @@
                <children>
                   <VBox alignment="TOP_CENTER" layoutX="1.0" prefHeight="680.0" prefWidth="820.0" spacing="40.0">
                      <children>
-                        <Label styleClass="title" text="Java Quiz" />
-                        <VBox alignment="TOP_CENTER" prefHeight="200.0" prefWidth="140.0" spacing="20.0">
+                        <Label styleClass="title" text="ECQB Fragenkatalog PPL(A) and BZF" />
+                        <VBox alignment="TOP_CENTER" prefHeight="100.0" prefWidth="140.0" spacing="10.0">
                            <children>
-                              <JFXButton buttonType="RAISED" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onAction="#btnBasic" styleClass="btn-choose" text="Basic" />
-                              <JFXButton buttonType="RAISED" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onAction="#btnOperator" styleClass="btn-choose" text="Operator/Condition" />
-                              <JFXButton buttonType="RAISED" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onAction="#btnTables" styleClass="btn-choose" text="Tables/Loops" />
-                              <JFXButton buttonType="RAISED" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onAction="#btnOOP" styleClass="btn-choose" text="OOP(Oriented Object Programming)" />
-                              <JFXButton buttonType="RAISED" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onAction="#btnPoly" styleClass="btn-choose" text="Polymorphisme/Enum" />
-                              <JFXButton buttonType="RAISED" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onAction="#btnException" styleClass="btn-choose" text="Exceptions" />
-                              <JFXButton buttonType="RAISED" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onAction="#btnAdvanced" styleClass="btn-choose" text="Advanced" />
+                              <JFXButton buttonType="RAISED" maxHeight="20" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onAction="#btnALW" styleClass="btn-choose" text="Luftrecht" />
+                              <JFXButton buttonType="RAISED" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onAction="#btnAGK" styleClass="btn-choose" text="Allgemeine Luftfahrzeugkunde" />
+                              <JFXButton buttonType="RAISED" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onAction="#btnHPL" styleClass="btn-choose" text="Menschliches Leistungsvermögen" />
+                              <JFXButton buttonType="RAISED" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onAction="#btnMET" styleClass="btn-choose" text="Meteorologie" />
+                              <JFXButton buttonType="RAISED" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onAction="#btnNAV" styleClass="btn-choose" text="Navigation" />
+                              <JFXButton buttonType="RAISED" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onAction="#btnOPR" styleClass="btn-choose" text="Betriebliche Verfahren" />
+                              <JFXButton buttonType="RAISED" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onAction="#btnFPP" styleClass="btn-choose" text="Flugleistung und Flugplanung" />
+                              <JFXButton buttonType="RAISED" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onAction="#btnCOM" styleClass="btn-choose" text="Kommunikation" />
+                              <JFXButton buttonType="RAISED" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onAction="#btnPFA" styleClass="btn-choose" text="Grundlagen des Fluges (Flugzeug)" />
+                              <JFXButton buttonType="RAISED" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onAction="#btnBZF" styleClass="btn-choose" text="BZF (Sprechfunk)" />
                            </children>
                         </VBox>
                      </children>
                      <padding>
-                        <Insets top="50.0" />
+                        <Insets top="50.0" bottom="40.0" />
                      </padding>
                   </VBox>
                   <MaterialDesignIconView fx:id="iconAbout" glyphName="INFORMATION_OUTLINE" layoutX="770.0" layoutY="45.0" onMouseClicked="#btnAbout" size="38" styleClass="about-icon" />

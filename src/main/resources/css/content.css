@@ -13,12 +13,16 @@
 }
 
 .label_head {
-    -fx-font-size: 20px;
+    -fx-font-size: 14px;
     -fx-background-color: #EEE
 }
 
-JFXRadioButton {
+.detailed_progress {
     -fx-font-size: 18px;
+}
+
+JFXRadioButton {
+    -fx-font-size: 14px;
     -fx-cursor: hand
 }
 
