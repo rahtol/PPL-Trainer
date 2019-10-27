@@ -5201,7 +5201,7 @@ Siehe Anlage (NAV-004) Siehe Anlage 1
     <response>Relative Peilungen (RBs)</response>
   </question>
   <question id="64" punkte="1.0" category="NAV" img="NAV-031">
-    Das Radial vom VOR Brünkendorf (BKD) (53°02?N, 011°33?E) nach Pritzwalk (EDBU) (53°11'N, 12°11'E) lautet...
+    Das Radial vom VOR Brünkendorf (BKD) (53°02'N, 011°33'E) nach Pritzwalk (EDBU) (53°11'N, 12°11'E) lautet...
 Siehe Anlage (NAV-031) Siehe Anlage 2
     <response stimmt="True">068°.</response>
     <response>024°.</response>
@@ -5210,8 +5210,8 @@ Siehe Anlage (NAV-031) Siehe Anlage 2
   </question>
   <question id="65" punkte="1.0" category="NAV" img="NAV-031">
     Welche Position hat das Luftfahrzeug unter Berücksichtigung der folgenden Kreuzpeilung?
-VOR Hamburg (HAM) (53°41?N, 010°12?E): Radial 119°
-VOR Brünkendorf (BKD) (53°02?N, 011°33?E): Radial 320° Siehe Anlage (NAV-031)
+VOR Hamburg (HAM) (53°41'N, 010°12'E): Radial 119°
+VOR Brünkendorf (BKD) (53°02'N, 011°33'E): Radial 320° Siehe Anlage (NAV-031)
 Siehe Anlage 2
     <response stimmt="True">53°20'N, 11°10'E</response>
     <response>52°10'N, 10°20'E</response>
@@ -7427,7 +7427,7 @@ Wie lange sollte bis zum erneuten Absetzen eines Funkspruchs gewartet werden?
     <response stimmt="True">Das Telekommunikationsgesetz (TKG)</response>
   </question>
   <question id="3" punkte="1.0" category="BZF">
-    Wer erteilt in der Bundesrepublik Deutschland die Frequenzzuteilungen zum Betrieb
+    Wer erteilt in der Bundesrepublik Deutschland die Frequenzzuteilungen zum Betrieb von Boden- und Luftfunkstellen?
     <response>Die Luftfahrtbehörden der Länder</response>
     <response stimmt="True">Die Regulierungsbehörde für Telekommunikation und Post</response>
     <response>Der Bundesminister des Innern</response>
@@ -7435,7 +7435,7 @@ Wie lange sollte bis zum erneuten Absetzen eines Funkspruchs gewartet werden?
   </question>
   <question id="4" punkte="1.0" category="BZF">
     Wer benötigt zur Durchführung des Sprechfunkverkehrs ein Flugfunkzeugnis?
-    <response stimmt="True">Der Luftsportgeräteführer im Luftraum ‘D‘</response>
+    <response stimmt="True">Der Luftsportgeräteführer im Luftraum D</response>
     <response>Der Betreiber einer Bodentunkstelle, die ausschließlich der Übermittlung von Flugbetriebsmeldungen dient</response>
     <response>Der Flugschüler an Bord eines Ausbildungsluftfahrzeuges in der Platzrunde eines unkontrollierten Flugplatzes</response>
     <response>Der Flugschüler an Bord eines Ausbildungsluftfahrzeuges in der Platzrunde eines kontrollierten Flugplatzes</response>
@@ -7445,14 +7445,14 @@ Wie lange sollte bis zum erneuten Absetzen eines Funkspruchs gewartet werden?
     <response stimmt="True">Betreiber einer Funkstelle mit dem Rufzeichen: RÜCKHOLER</response>
     <response>Flugleiter an einem Segelfluggelände</response>
     <response>Fluglehrer</response>
-    <response>Ballonfahrer im Luftraum “C“</response>
+    <response>Ballonfahrer im Luftraum C</response>
   </question>
   <question id="6" punkte="1.0" category="BZF">
     Zur Durchführung des Sprechfunkverkehrs ist der Besitz eines Flugfunkzeugnisses erforderlich. Kein Flugfunkzeugnis braucht der...
     <response>Flugleiter an einem Landeplatz</response>
     <response>Fluglehrer</response>
-    <response>Segelflugzeugführer im Luftraum –D-</response>
-    <response stimmt="True">Flugschüler in der Platzrunde von Flugplätzen mit! ohne Flugverkehrskontrolle</response>
+    <response>Segelflugzeugführer im Luftraum D</response>
+    <response stimmt="True">Flugschüler in der Platzrunde von Flugplätzen mit / ohne Flugverkehrskontrolle</response>
   </question>
   <question id="7" punkte="1.0" category="BZF">
     Wozu berechtigt das “Beschränkt Gültige Sprechfunkzeugnis II für den Flugfunkdienst (BZF II)? Zur Ausübung des Sprechfunkverkehrs..
@@ -7464,8 +7464,8 @@ Wie lange sollte bis zum erneuten Absetzen eines Funkspruchs gewartet werden?
   <question id="8" punkte="1.0" category="BZF">
     Wozu berechtigt das “Beschränkt Gültige Sprechfunkzeugnis II für den Flugfunkdienst“ (BZF II)? Zur Ausübung des Sprechfunkverkehrs bei...
     <response>IFR Flügen</response>
-    <response stimmt="True">einer deutschen Luftfunkstelle bei VER Flügen innerhalb der Bundesrepublik Deutschland in deutscher Sprache</response>
-    <response>einer deutschen Luftfunkstelle bei VFR Flügen innerhalb der Bundesrepublik Deutschland</response>
+    <response stimmt="True">einer deutschen Luftfunkstelle bei VFR Flügen innerhalb der Bundesrepublik Deutschland in deutscher Sprache</response>
+    <response>einer deutschen Luftfunkstelle bei VFR Flügen innerhalb der Bundesrepublik Deutschland in englischer Sprache</response>
     <response>VFR Flügen in einer der ICAO-Sprachen</response>
   </question>
   <question id="9" punkte="1.0" category="BZF">
@@ -7553,7 +7553,7 @@ Wie lange sollte bis zum erneuten Absetzen eines Funkspruchs gewartet werden?
     <response stimmt="True">Sonnenaufgang bis Sonnenuntergang</response>
   </question>
   <question id="21" punkte="1.0" category="BZF">
-    Welche Bedeutung hat die Abkürzung “AlS“?
+    Welche Bedeutung hat die Abkürzung “AIS“?
     <response>Flughafeninformationssystem</response>
     <response>Allgemeine Informationsstelle</response>
     <response stimmt="True">Flugberatungsdienst</response>
@@ -7567,7 +7567,7 @@ Wie lange sollte bis zum erneuten Absetzen eines Funkspruchs gewartet werden?
     <response>“Stop am RolIhalt!</response>
   </question>
   <question id="23" punkte="1.0" category="BZF">
-    WeIche Abkürzung wird für den Begriff “Koordinierte Weltzeit verwendet ?
+    WeIche Abkürzung wird für den Begriff “Koordinierte Weltzeit“ verwendet ?
     <response>GMT</response>
     <response>Z-Zeit</response>
     <response stimmt="True">UTC</response>
@@ -7581,14 +7581,14 @@ Wie lange sollte bis zum erneuten Absetzen eines Funkspruchs gewartet werden?
     <response>Automatisches Informationssystem (Automatic Information system)</response>
   </question>
   <question id="25" punkte="1.0" category="BZF">
-    Was bedeutet die 0-Gruppe “OFE“?
+    Was bedeutet die Q-Gruppe “QFE“?
     <response stimmt="True">DerLuftdruck in Flugplatzhöhe oder an der Landebahnschwelle</response>
     <response>Luftdruck bezogen auf das höchste feste Hindernis eines Flugplatzes</response>
     <response>Der Luftdruck bezogen auf einen Punkt auf der Erdoberfläche</response>
     <response>Die Höhenmesser-Skalaeinstellung, die nach der Landung die Platzhöhe anzeigt</response>
   </question>
   <question id="26" punkte="1.0" category="BZF">
-    Was bedeutet die Q-Gruppe “ONH“?
+    Was bedeutet die Q-Gruppe “QNH“?
     <response>Der Luftdruck in Flugplatzhöhe oder an der Landebahnschwelle</response>
     <response>Der am Flughafenbezugspunkt gemessene Luftdruck</response>
     <response stimmt="True">Die Höhenmesser-Skalaeinstellung, die einem am Boden befindlichen Luftfahrzeug die Flugplatzhöhe anzeigt</response>
@@ -7623,7 +7623,7 @@ Wie lange sollte bis zum erneuten Absetzen eines Funkspruchs gewartet werden?
     <response>QNE</response>
   </question>
   <question id="31" punkte="1.0" category="BZF">
-    Was bedeutet die 0-Gruppe “OTE“?
+    Was bedeutet die Q-Gruppe “OTE“?
     <response stimmt="True">Rechtweisende Funkstandlinie/Peilung von der Station</response>
     <response>Missweisende Peilung von der Station</response>
     <response>Rechtweisender Steuerkurs zur Station (kein Wind)</response>
@@ -7634,7 +7634,7 @@ Wie lange sollte bis zum erneuten Absetzen eines Funkspruchs gewartet werden?
     <response>QDR</response>
     <response>QDM</response>
     <response stimmt="True">QTE</response>
-    <response>OFE</response>
+    <response>QFE</response>
   </question>
   <question id="33" punkte="1.0" category="BZF">
     Was bedeutet die Q-Gruppe “QDR“?
@@ -7644,7 +7644,7 @@ Wie lange sollte bis zum erneuten Absetzen eines Funkspruchs gewartet werden?
     <response>Rechtweisender Steuerkurs zur Station</response>
   </question>
   <question id="34" punkte="1.0" category="BZF">
-    Wie heißt die 0-Gruppe für “missweisende Peilung / Funkstandlinie von der Station“?
+    Wie heißt die Q-Gruppe für “missweisende Peilung / Funkstandlinie von der Station“?
     <response>QTE</response>
     <response>QDM</response>
     <response>QFE</response>
@@ -7665,11 +7665,11 @@ Wie lange sollte bis zum erneuten Absetzen eines Funkspruchs gewartet werden?
     <response>Flugbetriebsmeldung</response>
   </question>
   <question id="37" punkte="1.0" category="BZF">
-    Meldungen, die bei der Durchführung der Flugverkehrskontrollel übermittelt werden, sind...
+    Meldungen, die bei der Durchführung der Flugverkehrskontrolle übermittelt werden, sind...
     <response>Flugbetriebsmeldungen</response>
     <response>Peilfunkmeldungen</response>
     <response>Dringlichkeitsmeldungen</response>
-    <response stimmt="True">FIugsicherheitsmeldungen</response>
+    <response stimmt="True">Flugsicherheitsmeldungen</response>
   </question>
   <question id="38" punkte="1.0" category="BZF">
     Eine Meldung, welche die Sicherheit eines anderen Lufttahrzeuges, Fahrzeuges oder einer Person betrifft, ist eine...
@@ -7693,7 +7693,7 @@ Wie lange sollte bis zum erneuten Absetzen eines Funkspruchs gewartet werden?
     <response>Fernschreibmeldungen</response>
   </question>
   <question id="41" punkte="1.0" category="BZF">
-    Die Meldung eines Piloten an den Kontrollturm ‘meine voraussichtliche Ankunftszeit ist 1206, bestellen Sie mir bitte ein Taxi“ ist...
+    Die Meldung eines Piloten an den Kontrollturm ‘meine voraussichtliche Ankunftszeit ist 1206, bestellen Sie mir bitte ein Taxi‘ ist...
     <response>eine Flugsicherheitsmeldung</response>
     <response>eine Flugbetriebsmeldung</response>
     <response>eine Dringlichkeitsmeldung</response>
@@ -7714,10 +7714,10 @@ Wie lange sollte bis zum erneuten Absetzen eines Funkspruchs gewartet werden?
     <response>Flugbetriebsmeldung</response>
   </question>
   <question id="44" punkte="1.0" category="BZF">
-    Die Priorität der Meldung “erbitte 0DM“ ist...
+    Die Priorität der Meldung “erbitte QDM“ ist...
     <response>niedriger als erbitte QNH</response>
     <response>niedriger als steigen Sie auf Flugfläche 85</response>
-    <response stimmt="True">höher als “Start frei</response>
+    <response stimmt="True">höher als “Start frei"</response>
     <response>gleichwertig mit Landung frei „Piste 32“</response>
   </question>
   <question id="45" punkte="1.0" category="BZF">
@@ -7745,7 +7745,7 @@ Wie lange sollte bis zum erneuten Absetzen eines Funkspruchs gewartet werden?
     Wie ist das Rufzeichen DIJYF richtig buchstabiert?
     <response>DELTA YULIETT INDIA JANKEE FOXTROT</response>
     <response>DELTA INDIA JULIETT YANKEE FOX</response>
-    <response stimmt="True">DELTA INDIA JULIE1T YANKEE FOXTROT</response>
+    <response stimmt="True">DELTA INDIA JULIETT YANKEE FOXTROT</response>
     <response>DELTA INDIA JANKEE YULIETT FOXTROT</response>
   </question>
   <question id="49" punkte="1.0" category="BZF">
@@ -7765,7 +7765,7 @@ Wie lange sollte bis zum erneuten Absetzen eines Funkspruchs gewartet werden?
   <question id="51" punkte="1.0" category="BZF">
     Wie wird die Frequenz 120,275 MHz übermittelt (Kanalabstand 25 kHz)?
     <response>eins zwei null Komma zwei sieben fünf</response>
-    <response stimmt="True">eins zwo null Komma zwo sieben</response>
+    <response stimmt="True">eins zwo null Komma zwo sieben fünf</response>
     <response>eins zwanzig Komma zwo sieben</response>
     <response>eins zwo null zwo sieben füneff</response>
   </question>
@@ -7905,19 +7905,19 @@ Wie lange sollte bis zum erneuten Absetzen eines Funkspruchs gewartet werden?
   <question id="71" punkte="1.0" category="BZF">
     Der Inhalt einer klar verständlichen Meldung erscheint Ihnen zweifelhaft. Welche Redewendung wenden Sie an, um die Zweifel auszuräumen?
     <response>Übermitteln Sie nochmals</response>
-    <response stimmt="True">Überprüfen Sie</response>
+    <response stimmt="True">Bestätigen Sie</response>
     <response>Wiederholen Sie wörtlich</response>
     <response>Berichtigung</response>
   </question>
   <question id="72" punkte="1.0" category="BZF">
     Der Höhenmesser ist auf den Druckwert 1013,2 hPa eingestellt und zeigt 7500 Fuß an. Die Bodenfunkstelle fragt nach der augenblicklichen Höhe des Luftfahrzeuges. Wie muss die Antwort des Luftfahrzeugführers lauten?
     <response stimmt="True">FL75</response>
-    <response>7500 ft GND</response>
-    <response>7500ft</response>
-    <response>7500 if MSL</response>
+    <response>7500 ft AGL</response>
+    <response>7500 ft</response>
+    <response>7500 ff MSL</response>
   </question>
   <question id="73" punkte="1.0" category="BZF">
-    Welche Redewendung soll angewandt werden um auszudrücken: ‘Bei der Übermittlung ist ein Fehler unterlaufen, es muss richtig heißen...?
+    Welche Redewendung soll angewandt werden um auszudrücken: ‘Bei der Übermittlung ist ein Fehler unterlaufen, es muss richtig heißen...‘?
     <response>QNH 1003 NEGATIV QNH 1002</response>
     <response>QNH 1003 ICH WIEDERHOLE 1002</response>
     <response>QNH 1003 TRENNUNG TRENNUNG 1002</response>
@@ -7938,7 +7938,7 @@ Wie lange sollte bis zum erneuten Absetzen eines Funkspruchs gewartet werden?
     <response stimmt="True">SQUAWK</response>
   </question>
   <question id="76" punkte="1.0" category="BZF">
-    Die Redewendung WILCO‘ bedeutet:
+    Die Redewendung "WILCO" bedeutet:
     <response>Warten Sie, ich werde Sie rufen</response>
     <response>Ich habe Ihre letzte Meldung vollständig erhalten</response>
     <response stimmt="True">Ich verstehe Ihre Meldung und werde entsprechend handeln.</response>
@@ -7980,14 +7980,14 @@ Wie lange sollte bis zum erneuten Absetzen eines Funkspruchs gewartet werden?
     <response stimmt="True">DEKUL ABFLUGBEREIT</response>
   </question>
   <question id="82" punkte="1.0" category="BZF">
-    Was bedeutet die Anweisung einer Flugverkehrskontrollstelle “(Rufzeichen) SQUAWK ?“
+    Was bedeutet die Anweisung einer Flugverkehrskontrollstelle “(Rufzeichen) SQUAWK 1234 ?“
     <response>Zählen Sie 1-2-3-4- für Funkpeilung</response>
     <response>Erbitte Testsendung auf Frequenz 123,4 MHz</response>
-    <response stimmt="True">Senden Sie Mode Ab, Code 1234 mit Ihrem SSR-Antwortgerät (Transponder)</response>
+    <response stimmt="True">Senden Sie Mode A/C, Code 1234 mit Ihrem SSR-Antwortgerät (Transponder)</response>
     <response>Schalten Sie um auf Frequenz 123,4</response>
   </question>
   <question id="83" punkte="1.0" category="BZF">
-    Von der Radarkontrolle erhalten Sie folgenden Verkehrshinweis: UNBEKANNTES FLUGZIEL ZEHN UHR ENTFERNUNG 4NM“. Wo befindet sich das Flugziel, wenn Sie aus der Flugzeugkanzel sehen?
+    Von der Radarkontrolle erhalten Sie folgenden Verkehrshinweis: "UNBEKANNTES FLUGZIEL ZEHN UHR ENTFERNUNG 4 NM“. Wo befindet sich das Flugziel, wenn Sie aus der Flugzeugkanzel sehen?
     <response stimmt="True">Links voraus</response>
     <response>Rechts voraus</response>
     <response>Querab rechts</response>
@@ -8008,14 +8008,14 @@ Wie lange sollte bis zum erneuten Absetzen eines Funkspruchs gewartet werden?
     <response>D2468 für Wasserkuppe SEGELFLUG wie hören Sie mich?</response>
   </question>
   <question id="86" punkte="1.0" category="BZF">
-    Muss ein ‘Allgemeiner Anruf bestätigt werden?
+    Muss ein ‘Allgemeiner Anruf‘ bestätigt werden?
     <response>Ja, nur von dem zuerst gerufenen Luftfahrzeugführer</response>
     <response>Ja, von allen Luftfahrzeugführern in beliebiger Reihenfolge</response>
     <response stimmt="True">Nein</response>
     <response>Ja, von allen Luftfahrzeugführern in der Reihenfolge des Anrufs</response>
   </question>
   <question id="87" punkte="1.0" category="BZF">
-    Welcher der folgenden Funkanrufe ist ein ‘Allgemeiner Anruf?
+    Welcher der folgenden Funkanrufe ist ein ‘Allgemeiner Anruf‘?
     <response>DEKOF, DIEBS, DKARL Nürnberg ROLLKONTROLLE</response>
     <response>D8765 Berlin INFORMATION</response>
     <response stimmt="True">An alle Hamburg TURM</response>
@@ -8047,7 +8047,7 @@ Wie lange sollte bis zum erneuten Absetzen eines Funkspruchs gewartet werden?
     <response>Das Luftfahrzeug muss sich in der Luft befinden</response>
     <response stimmt="True">Nach Wahl der richtigen Frequenz sicherstellen, dass kein laufender Funkverkehr gestört wird</response>
     <response>Es muss eine Funkprobe stattgefunden haben</response>
-    <response>Die Entfernung zwischen Boden- und Luftfunkstelle darf nicht weniger als 3ONM betragen</response>
+    <response>Die Entfernung zwischen Boden- und Luftfunkstelle darf nicht weniger als 30NM betragen</response>
   </question>
   <question id="92" punkte="1.0" category="BZF">
     Vor Einflug in den Luftraum “C“ unter FL 100 in der Umgebung von Verkehrsflughäfen muss Sprechfunkverbindung mit der zuständigen Flugverkehrskontrollstelle spätestens aufgenommen werden:
@@ -8065,10 +8065,10 @@ Wie lange sollte bis zum erneuten Absetzen eines Funkspruchs gewartet werden?
   </question>
   <question id="94" punkte="1.0" category="BZF">
     DGIGA erhält die Anweisung, HAMBURG TURM auf Frequenz 126,85 MHz zu rufen. Wie lautet die richtige Bestätigung des Piloten?
-    <response stimmt="True">D-GA 126,85</response>
-    <response>D-GA werde TURM rufen D-GA</response>
-    <response>D-GA wechsele Frequenz</response>
-    <response>HAMBURG TURM D-GA</response>
+    <response stimmt="True">DGA 126,85</response>
+    <response>DGA werde TURM rufen DGA</response>
+    <response>DGA wechsele Frequenz</response>
+    <response>HAMBURG TURM DGA</response>
   </question>
   <question id="95" punkte="1.0" category="BZF">
     Dauernde Hörbereitschaft ist aufrechtzuerhalten bei VFR-Flügen im Luftraum:
@@ -8092,11 +8092,11 @@ Wie lange sollte bis zum erneuten Absetzen eines Funkspruchs gewartet werden?
     <response>über den Alpen</response>
   </question>
   <question id="98" punkte="1.0" category="BZF">
-    Bei welchen Flügen nach Sichtflugregeln muss der Luftfahrzeugführer ständige Hörbe¬reitschaft auf der zugewiesenen Frequenz halten? Bei Flügen...
+    Bei welchen Flügen nach Sichtflugregeln muss der Luftfahrzeugführer ständige Hörbereitschaft auf der zugewiesenen Frequenz halten? Bei Flügen...
     <response>über geschlossenen Wolkendecken</response>
     <response>während der Nacht im Luftraum G</response>
     <response>im Luftraum F</response>
-    <response stimmt="True">im Luftraum 0</response>
+    <response stimmt="True">im Luftraum C</response>
   </question>
   <question id="99" punkte="1.0" category="BZF">
     Wer ein Luftfahrzeug auf einem Flugplatz mit Flugverkehrskontrolle oder in dessen Umgebung führt, ist
@@ -8142,7 +8142,7 @@ u.a. verpflichtet, durch Funk oder Zeichen die vorherige Genehmigung für alle B
     <response>schlecht verständlich</response>
   </question>
   <question id="105" punkte="1.0" category="BZF">
-    Eine Testsendung ist “verständlich“. Wie wird dieses im Sprechfunkverkehr ausge¬drückt?
+    Eine Testsendung ist “verständlich“. Wie wird dieses im Sprechfunkverkehr ausgedrückt?
     <response>Höre Sie drei</response>
     <response>Höre Sie laut und deutlich</response>
     <response stimmt="True">Höre Sie vier</response>
@@ -8213,7 +8213,7 @@ u.a. verpflichtet, durch Funk oder Zeichen die vorherige Genehmigung für alle B
   </question>
   <question id="115" punkte="1.0" category="BZF">
     Bei einem VFR-Anflug zu einem Flughafen mit Flugverkehrskontrolle gelten die im “Lufttahrthandbuch VFR“ festgelegten Verfahren. Standortmeldungen über den Pflichtmeldepunkten müssen...
-    <response>unabhängig von der erteilten Freigabe nur dann abgesetzt werden, wenn die Platzkon¬trollstelle dazu auffordert</response>
+    <response>unabhängig von der erteilten Freigabe nur dann abgesetzt werden, wenn die Platzkontrollstelle dazu auffordert</response>
     <response>nicht abgesetzt werden. Durch die Anweisung, in die Platzrunde einzufliegen, wird auf jede weitere Standortmeldung über Pflichtmeldepunkten verzichtet</response>
     <response>nur abgesetzt werden, wenn es sich um einen Sonderflug nach Sichtflugregeln handelt</response>
     <response stimmt="True">unabhängig von der erteilten Freigabe in jedem Fall abgesetzt werden, sofern nicht ausdrücklich darauf verzichtet wird</response>
@@ -8239,18 +8239,18 @@ u.a. verpflichtet, durch Funk oder Zeichen die vorherige Genehmigung für alle B
     <response>Rufzeichen, Standort, Zeit</response>
     <response>Rufzeichen, Standort, Höhe, Zeit</response>
   </question>
-  <question id="119" punkte="1.0" category="BZF">
+  <question id="119" punkte="1.0" img="BZF-001" category="BZF">
     Welche Bedeutung hat das abgebildete Symbol auf der Sichtanflugkarte?
     <response>Funknavigationsanlage</response>
-    <response>Pflichtmeldepunkt</response>
-    <response stimmt="True">Meldepunkt auf Anforderung (Bedarfsmeldepunkt)</response>
+    <response stimmt="True">Pflichtmeldepunkt</response>
+    <response>Meldepunkt auf Anforderung (Bedarfsmeldepunkt)</response>
     <response>Luftfahrthindernis</response>
   </question>
-  <question id="120" punkte="1.0" category="BZF">
+  <question id="120" punkte="1.0" img="BZF-002" category="BZF">
     Welche Bedeutung hat das abgebildete Symbol auf der Sichtanflugkarte?
-    <response stimmt="True">Pflichtmeldepunkt</response>
+    <response>Pflichtmeldepunkt</response>
     <response>Militärflugplatz</response>
-    <response>Meldepunkt auf Anforderung (Bedarfsmeldepunkt)</response>
+    <response stimmt="True">Meldepunkt auf Anforderung (Bedarfsmeldepunkt)</response>
     <response>Beleuchtetes Hindernis</response>
   </question>
   <question id="121" punkte="1.0" category="BZF">
@@ -8263,8 +8263,8 @@ u.a. verpflichtet, durch Funk oder Zeichen die vorherige Genehmigung für alle B
   <question id="122" punkte="1.0" category="BZF">
     Bei Flugplanabgabe und Abflug von einem unkontrollierten Flugplatz kann die Startmeldung mittels Sprechfunk übermittelt werden. An wen erfolgt sie in diesem Fall?
     <response>An den Flugberatungsdienst</response>
-    <response stimmt="True">An die zuständige Flugverkehrskontrollstelle, oder an den zuständigen FIS zur Weiterlei¬tung an den AlS</response>
-    <response>An den Funknavigationsdienst zur Weiterleitung an den AlS</response>
+    <response stimmt="True">An die zuständige Flugverkehrskontrollstelle, oder an den zuständigen FIS zur Weiterleitung an den AIS</response>
+    <response>An den Funknavigationsdienst zur Weiterleitung an den AIS</response>
     <response>An die Bodenfunkstelle des Zielflughafens</response>
   </question>
   <question id="123" punkte="1.0" category="BZF">
@@ -8325,8 +8325,8 @@ u.a. verpflichtet, durch Funk oder Zeichen die vorherige Genehmigung für alle B
   </question>
   <question id="131" punkte="1.0" category="BZF">
     Ein Luftfahrzeugführer hat während des Fluges zu einem internationalen Verkehrsflughafen die Möglichkeit das Flugplatzwetter einzuholen über...
-    <response stimmt="True">VOLMET</response>
-    <response>AIS</response>
+    <response stimmt="True">ATIS</response>
+    <response>AIS-C</response>
     <response>GAFOR</response>
     <response>AFWA</response>
   </question>
@@ -8341,7 +8341,7 @@ u.a. verpflichtet, durch Funk oder Zeichen die vorherige Genehmigung für alle B
     Wie werden SIGMET - Meldungen verbreitet?
     <response>Als Flugrundfunksendung (broadcast) auf den für VOLMET veröffentlichten Frequenzen</response>
     <response>Nur auf Anfrage des Luftfahrzeugführers</response>
-    <response stimmt="True">Als Flugrundfunksendung (broadcast) auf den für den EIS veröffentlichten Frequenzen zu jeder halben und vollen Stunde</response>
+    <response stimmt="True">Als Flugrundfunksendung (broadcast) auf den für den FIS veröffentlichten Frequenzen zu jeder halben und vollen Stunde</response>
     <response>Während des Tages auf den Frequenzen der Flugverkehrskontrolle</response>
   </question>
   <question id="134" punkte="1.0" category="BZF">
@@ -8402,10 +8402,10 @@ u.a. verpflichtet, durch Funk oder Zeichen die vorherige Genehmigung für alle B
   </question>
   <question id="142" punkte="1.0" category="BZF">
     Welchen SSR-Antwortmode/-code soll ein Luftfahrzeug in einer Notlage senden?
-    <response stimmt="True">A7700</response>
-    <response>A7600</response>
-    <response>A7500</response>
-    <response>A6700</response>
+    <response stimmt="True">A 7700</response>
+    <response>A 7600</response>
+    <response>A 7500</response>
+    <response>A 6700</response>
   </question>
   <question id="143" punkte="1.0" category="BZF">
     Was zeigt ein Luftfahrzeug der Bodenstation / den Bodenstationen an, wenn es den SSR-Antwortcode A 7700 sendet?
@@ -8419,7 +8419,7 @@ u.a. verpflichtet, durch Funk oder Zeichen die vorherige Genehmigung für alle B
     <response stimmt="True">soweit möglich, den Transpondercode A7600 zu senden, auf dem nächsten, außerhalb der CTR gelegenen Flugplatz zu landen und die Flugsicherungsstelle umgehend zu benachrichtigen</response>
     <response>soweit möglich, den Transpondercode A7600 zu senden und durch Vollkreise nach links und rechts auf sich aufmerksam zu machen</response>
     <response>soweit möglich, den Transpondercode A7600 zu senden und ein geeignetes Notlandegelände zu erkunden</response>
-    <response>soweit möglich, den Transpondercode A7600 zu senden und nach einer Umkehrkurve von 1800 zum Startflugplatz zurückkehren</response>
+    <response>soweit möglich, den Transpondercode A7600 zu senden und nach einer Umkehrkurve von 180° zum Startflugplatz zurückkehren</response>
   </question>
   <question id="145" punkte="1.0" category="BZF">
     Was ist ein besonderes Merkmal der Blindsendung?
@@ -8431,7 +8431,7 @@ u.a. verpflichtet, durch Funk oder Zeichen die vorherige Genehmigung für alle B
   <question id="146" punkte="1.0" category="BZF">
     Was ist ein besonderes Merkmal der Blindsendung?
     <response>Am Ende einer Blindsendung wird das Rufzeichen der Bodenfunkstelle wiederholt</response>
-    <response stimmt="True">Am Ende der Meldung wird ein Hinweis auf den Zeitpunkt der nächsten Blindsendunc gegeben</response>
+    <response stimmt="True">Am Ende der Meldung wird ein Hinweis auf den Zeitpunkt der nächsten Blindsendung gegeben</response>
     <response>Am Ende der Blindsendung wird das Rufzeichen der Luftfunkstelle wiederholt</response>
     <response>Der Meldung wird dreimal das Wort BLINDSENDUNG vorangestellt</response>
   </question>
@@ -8440,7 +8440,7 @@ u.a. verpflichtet, durch Funk oder Zeichen die vorherige Genehmigung für alle B
     <response stimmt="True">A7600</response>
     <response>A7500</response>
     <response>A7700</response>
-    <response>A220</response>
+    <response>A6700</response>
   </question>
   <question id="148" punkte="1.0" category="BZF">
     Was zeigt ein Luftfahrzeug der Bodenstation/den Bodenstationen an, wenn es den AIP, SSR- Antwortcode A 7600 sendet?
@@ -8450,7 +8450,7 @@ u.a. verpflichtet, durch Funk oder Zeichen die vorherige Genehmigung für alle B
     <response>Fliege in den Luftraum C ein</response>
   </question>
   <question id="149" punkte="1.0" category="BZF">
-    Beobachtet ein Luftfahrzeugführer ein auf ihn gerichtetes Lichtsignal, so hat er die § 2 vorgeschriebenen Maßnahmen zu treffen. Was hat er dabei grundsätzlich zu beachten?
+    Beobachtet ein Luftfahrzeugführer ein auf ihn gerichtetes Lichtsignal, so hat er die vorgeschriebenen Maßnahmen zu treffen. Was hat er dabei grundsätzlich zu beachten?
     <response stimmt="True">Anweisungen über Funk haben Vorrang vor Signalen und Zeichen, ausgenommen rote Feuerwerkskörper</response>
     <response>Signale und Zeichen haben Vorrang vor Anweisungen über Funk</response>
     <response>Auch akustische Signale können gegeben werden</response>
@@ -8480,8 +8480,8 @@ u.a. verpflichtet, durch Funk oder Zeichen die vorherige Genehmigung für alle B
   <question id="153" punkte="1.0" category="BZF">
     Welcher Kanalabstand (Frequenzbereich 117,975 MHz - 137,000 MHz) wird im Flugfunkdienst im unteren Luftraum verwendet?
     <response stimmt="True">25 kHz + 8.33 kHz</response>
-    <response>25M1-lz+8.33MHz</response>
-    <response>25MHz</response>
+    <response>25 MHz + 8.33 MHz</response>
+    <response>25 MHz</response>
     <response>8.33 kHz</response>
   </question>
   <question id="154" punkte="1.0" category="BZF">
@@ -8492,7 +8492,7 @@ u.a. verpflichtet, durch Funk oder Zeichen die vorherige Genehmigung für alle B
     <response>Duplexverkehr</response>
   </question>
   <question id="155" punkte="1.0" category="BZF">
-    Welche Bezeichnung hat die Frequenz 121 ‚500 MHz?
+    Welche Bezeichnung hat die Frequenz 121‚500 MHz?
     <response>Bord-Bord-Frequenz</response>
     <response>lnformationsfrequenz</response>
     <response>Schul- und Übungsfrequenz</response>
@@ -8619,13 +8619,13 @@ u.a. verpflichtet, durch Funk oder Zeichen die vorherige Genehmigung für alle B
   </question>
   <question id="B13" punkte="1.0" category="BZF">
     Welcher horizontale Mindestabstand ist im Fluge zu einzelnen Bauwerken oder Hindernissen einzuhalten?
-    <response>300m</response>
-    <response stimmt="True">150m</response>
-    <response>300ft</response>
-    <response>600ft</response>
+    <response>300 m</response>
+    <response stimmt="True">150 m</response>
+    <response>300 ft</response>
+    <response>600 ft</response>
   </question>
   <question id="B14" punkte="1.0" category="BZF">
-    Ein Flugzeug und ein Segelflugzeug nähern sich auf Gegenkurs. Wer muss ausweichen?
+    Ein motorgetriebenes Luftfahrzeug und ein Segelflugzeug nähern sich auf Gegenkurs. Wer muss ausweichen?
     <response>Das Segelflugzeug</response>
     <response>Das Flugzeug</response>
     <response stimmt="True">Beide nach rechts</response>
@@ -8657,7 +8657,7 @@ Wer muss ausweichen?
     Wann müssen in Betrieb befindliche Luftfahrzeuge Positionslichter einschalten?
     <response>Bei Nacht und schlechten Sichtverhältnissen</response>
     <response stimmt="True">Von Sonnenuntergang bis Sonnenaufgang (SS bis SR)</response>
-    <response>Von SS÷30 bis SR+30</response>
+    <response>Von SS+30 bis SR+30</response>
     <response>Von SS+30 bis SR</response>
   </question>
   <question id="B19" punkte="1.0" category="BZF">
@@ -8692,7 +8692,7 @@ Wer muss ausweichen?
     Eine zweistellige Zahl auf einer Tafel, die am Kontrollturm oder in dessen Nähe angebracht ist, bedeutet:
     <response>Die beiden Endziffern des QNH</response>
     <response>Die Temperatur</response>
-    <response stimmt="True">Die Startrichtung, abgerundet auf die nächstliegenden 100 der missweisenden Kompassrose</response>
+    <response stimmt="True">Die Startrichtung, abgerundet auf die nächstliegenden 10° der missweisenden Kompassrose</response>
     <response>Die Landerichtung, abgerundet auf den missweisenden Steuerkurs</response>
   </question>
   <question id="B24" punkte="1.0" category="BZF">
@@ -8788,7 +8788,7 @@ Wer muss ausweichen?
   </question>
   <question id="B37" punkte="1.0" category="BZF">
     Wann befindet sich ein Luftfahrzeug im “Gegenanflug 16“ ? Wenn es einen Kurs von...
-    <response>3400 fliegt und der Flugplatz rechts vom Luftfahrzeug liegt</response>
+    <response>340° fliegt und der Flugplatz rechts vom Luftfahrzeug liegt</response>
     <response>160° fliegt und der Flugplatz links vom Luftfahrzeug liegt</response>
     <response>160° fliegt und der Flugplatz rechts vom Luftfahrzeug liegt</response>
     <response stimmt="True">340° fliegt und der Flugplatz links vom Luftfahrzeug liegt</response>
@@ -8801,7 +8801,7 @@ Wer muss ausweichen?
     <response>nach Süden auszuführen</response>
   </question>
   <question id="B39" punkte="1.0" category="BZF">
-    Wessen Signale und Zeichen (nach der Anlage zur LuftVO) hat der Luftfahrzeugführer auf dem Vorfeld und Den Abstellflächen eines Flugplatzes mit Flugverkehrskontrolle zu befolgen? Die...
+    Wessen Signale und Zeichen (nach der Anlage zur LuftVO) hat der Luftfahrzeugführer auf dem Vorfeld und den Abstellflächen eines Flugplatzes mit Flugverkehrskontrolle zu befolgen? Die...
     <response>des Kontrollturmes</response>
     <response>der Landesluftfahrtbehörde</response>
     <response>des Luftfahrtbundesamtes</response>
@@ -8850,7 +8850,7 @@ Wer muss ausweichen?
     <response>Flugsicht mindestens 1,5 km, Abstand von Wolken in waagrechter Richtung 300 m, in senkrechter Richtung 2000 ft</response>
   </question>
   <question id="B46" punkte="1.0" category="BZF">
-    Ist für einen VFR-Flug im Luftraum G ein bestimmter Wolkenabstand vorgeschrieben? 1
+    Ist für einen VFR-Flug im Luftraum G ein bestimmter Wolkenabstand vorgeschrieben?
     <response>Ja, mindestens 1,5 km in waagrechter Richtung</response>
     <response>Ja, mindestens 1,5 NM in waagrechter Richtung</response>
     <response stimmt="True">Nein, das Luftfahrzeug darf aber Wolken nicht berühren</response>
@@ -8874,7 +8874,7 @@ Wer muss ausweichen?
     Bei VFR Flügen oberhalb einer Höhe von 5000 ft MSL oder 2000 ft GND, sofern diese Flughöhe 5000 ft MSL überschreitet, ist der Höhenmesser einzustellen auf:
     <response>QNH</response>
     <response>QFE</response>
-    <response stimmt="True">1013,2hPa</response>
+    <response stimmt="True">1013,2 hPa</response>
     <response>QFF</response>
   </question>
   <question id="B50" punkte="1.0" category="BZF">
@@ -8901,12 +8901,12 @@ Wer muss ausweichen?
   <question id="B53" punkte="1.0" category="BZF">
     Welche Fluginformationsgebiete unter deutscher Zuständigkeit gibt es im unteren Luftraum?
     <response>Berlin, Hamburg, Frankfurt, München</response>
-    <response stimmt="True">Bremen, Berlin, Düsseldorf, Frankfurt, München</response>
+    <response stimmt="True">Bremen, Langen, München</response>
     <response>Bremen, Berlin, Hannover, Düsseldorf, Stuttgart</response>
     <response>Berlin, Hannover, Maastricht, Rhein, Frankfurt</response>
   </question>
   <question id="B54" punkte="1.0" category="BZF">
-    Der Luftraum ‘G befindet sich unterhalb einer Höhe von:
+    Der Luftraum G befindet sich unterhalb einer Höhe von:
     <response stimmt="True">1000 ft GND und 1700 ft GND, ansonsten 2500 ft GND</response>
     <response>5000 ft MSL oder 3500 ft GND, wobei der niedrigere Wert maßgebend ist</response>
     <response>1000 ft und 1700 ft GND, ansonsten nach örtlichen Verhältnissen unterschiedlich</response>
@@ -8914,10 +8914,10 @@ Wer muss ausweichen?
   </question>
   <question id="B55" punkte="1.0" category="BZF">
     In Deutschland sind Kontrollzonen klassifiziert...
-    <response stimmt="True">als Luftraum 0</response>
-    <response>überwiegend als Luftraum D, nur einige als Luftraum 0</response>
-    <response>um Flughäfen als Luftraum 0, die übrigen als Luftraum D</response>
-    <response>um Militärflugplätze als Luftraum B, um Flughäfen als Luftraum 0, alle übrigen als Luftraum 0</response>
+    <response stimmt="True">als Luftraum D</response>
+    <response>überwiegend als Luftraum D, nur einige als Luftraum C</response>
+    <response>um Flughäfen als Luftraum C, die übrigen als Luftraum D</response>
+    <response>um Militärflugplätze als Luftraum B, um Flughäfen als Luftraum C, alle übrigen als Luftraum D</response>
   </question>
   <question id="B56" punkte="1.0" category="BZF">
     Eine mit HX gekennzeichnete Kontrollzone kann außerhalb der Betriebszeit ohne Freigabe durchflogen werden, wenn der Luftfahrzeugführer...
@@ -8931,17 +8931,17 @@ Wer muss ausweichen?
     <response>C,D,F</response>
     <response>E,F,G</response>
     <response>C,E,F</response>
-    <response stimmt="True">CD,E</response>
+    <response stimmt="True">C,D,E</response>
   </question>
   <question id="B58" punkte="1.0" category="BZF">
     Der Luftraum E erstreckt sich, soweit nicht anders klassifiziert...
     <response>ab 1000 ft und 1700 ft GND, ansonsten ab 5000 ft MSL bis FL200</response>
     <response>von 1000 ft und 1700 ft GND bis 5000 ft MSL</response>
     <response>ab 1000 ft und 1700 ft GND, ansonsten ab 2500 ft GND bis FL200</response>
-    <response stimmt="True">ab 1000 ft GND 1700 ft GND, ansonsten ab 2500 ft GND bis FL1 00</response>
+    <response stimmt="True">ab 1000 ft GND 1700 ft GND, ansonsten ab 2500 ft GND bis FL100</response>
   </question>
   <question id="B59" punkte="1.0" category="BZF">
-    Ein mit “ED-R...(TRA) gekennzeichnetes Gebiet ist ein...
+    Ein mit “ED-R...(TRA)“ gekennzeichnetes Gebiet ist ein...
     <response>Gefahrengebiet</response>
     <response>Sperrgebiet</response>
     <response>Segelflugbeschränkungsgebiet</response>
@@ -8970,20 +8970,20 @@ Wer muss ausweichen?
   </question>
   <question id="B63" punkte="1.0" category="BZF">
     Welcher Mode/Code muss von motorgetriebenen Luftfahrzeugen bei VFR Flügen im Luftraum E oberhalb 5000 ft MSL oder oberhalb von 3500 ft GND, wobei der höhere Wert maßgebend ist, unaufgefordert geschaltet werden?
-    <response>A/C2200</response>
-    <response>A/C0021</response>
-    <response stimmt="True">A/C 0022</response>
+    <response>A/C/S 2200</response>
+    <response>A/C/S 0021</response>
+    <response stimmt="True">A/C/S 7000</response>
     <response>Der Transponder darf unaufgefordert nicht geschaltet werden</response>
   </question>
   <question id="B64" punkte="1.0" category="BZF">
     Beim Sinkflug von FL85 auf Flughöhe 3500 ft MSL hat der Führer eines motorgetriebenen Luftfahrzeuges vor Erreichen der neuen Reiseflughöhe den Höhenmesser und den Transponder wie folgt einzustellen:
     <response>QNH einstellen und Mode/Code A/C 0022 einschalten</response>
     <response>1013,2 hPa einstellen und Mode/Code A/C 0021 einschalten</response>
-    <response stimmt="True">QNH einstellen und den Mode/Code A/C 0022 abschalten</response>
-    <response>QNH 1013,2 hPa einstellen und Transponder auf stand-by schalten</response>
+    <response stimmt="True">QNH einstellen, es sollte Mode/Code A/C 7000 beibehalten werden</response>
+    <response>QNH 1013,2 hPa einstellen und Transponder auf "stand-by" schalten</response>
   </question>
   <question id="B65" punkte="1.0" category="BZF">
-    Was versteht man unter dem Begriff Eigenpeilung‘?
+    Was versteht man unter dem Begriff ‘Eigenpeilung‘?
     <response>Standortbestimmung durch bodenseitigen Einsatz von RADAR</response>
     <response>Kreuzpeilung mittels Peilfunkstellen</response>
     <response stimmt="True">Standortbestimmung durch bordeigene Navigationsempfangsanlagen</response>
@@ -9041,7 +9041,7 @@ Wer muss ausweichen?
   <question id="B73" punkte="1.0" category="BZF">
     Wann wechselt am VOR-Anzeigegerät die Richtungsanzeige von “TO“ auf “FROM“?
     <response stimmt="True">Beim Überfliegen der VOR-Station</response>
-    <response>Bei einer Änderung des Steuerkurses um 1800</response>
+    <response>Bei einer Änderung des Steuerkurses um 180°</response>
     <response>Bei einer Änderung des Steuerkurses um 90°</response>
     <response>Beim Betätigen des IDENT-Knopfes</response>
   </question>
@@ -9063,14 +9063,14 @@ Wer muss ausweichen?
     Wie groß ist die Kursablage pro Punkt (dot) auf dem VOR-Anzeigegerät?
     <response>1°</response>
     <response>5°</response>
-    <response>100 °</response>
+    <response>100°</response>
     <response stimmt="True">2°</response>
   </question>
   <question id="B77" punkte="1.0" category="BZF">
     Auf der ICAO-Luftfahrtkarte 1:500000 finden Sie die Angabe TRENT 108,45 TRT. Um welche Art von Funknavigationsanlage handelt es sich dabei? Um ein(e)...
     <response>Ungerichtetes Funkfeuer (NDB)</response>
     <response>Instrumenten-Landesystem (ILS)</response>
-    <response stimmt="True">UKW-Drehfunkfeuer ~VOR)</response>
+    <response stimmt="True">UKW-Drehfunkfeuer (VOR)</response>
     <response>Peilfunkanlage (VDF)</response>
   </question>
   <question id="B78" punkte="1.0" category="BZF">
@@ -9123,7 +9123,7 @@ Wer muss ausweichen?
     <response>recht- und missweisend Nord</response>
   </question>
   <question id="B85" punkte="1.0" category="BZF">
-    Der missweisende Steuerkurs eines Luftfahrzeuges beträgt 155°. Die Bezugspeilung ist 025°. Wie groß ist das 0DM?
+    Der missweisende Steuerkurs eines Luftfahrzeuges beträgt 155°. Die Bezugspeilung ist 025°. Wie groß ist das QDM?
     <response>360°</response>
     <response>130°</response>
     <response>250°</response>
@@ -9144,7 +9144,7 @@ Wer muss ausweichen?
     <response>Südlich vom Flugweg</response>
   </question>
   <question id="B88" punkte="1.0" category="BZF">
-    Von einer mit einem UKW-Peiler ausgestatteten Bodenfunkstelle erhält man ein 0DM von 225°. Wo befindet sich das Luftfahrzeug?
+    Von einer mit einem UKW-Peiler ausgestatteten Bodenfunkstelle erhält man ein QDM von 225°. Wo befindet sich das Luftfahrzeug?
     <response stimmt="True">Nordöstlich der Station</response>
     <response>Südwestlich der Station</response>
     <response>Südöstlich der Station</response>

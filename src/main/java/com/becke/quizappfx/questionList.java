@@ -31,7 +31,7 @@ public class questionList {
         public int failed() {return failed; }; // the number of question that have been answered false when presented for the first time
     }
 
-    public static int modeSelectionStrategy = 0;  // how to select next question: in order (=0) or random (=1)
+    public static int modeSelectionStrategy = 1;  // how to select next question: in order (=0) or random (=1)
     public static int modeRepeatFailedQuestions = 0;  // repeat a question that has not been solved in this run
     public static int modeNumberOfQuestionsInRound = 5000; // upper limit on the number of questions to be asked in one round
     public static int modeDebug = 0;
